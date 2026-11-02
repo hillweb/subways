@@ -1,0 +1,1011 @@
+{
+  "result": {
+    "type": 920,
+    "error": 0
+  },
+  "subways": {
+    "l": [
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "姑娘桥",
+              "lb": "姑娘桥",
+              "x": 590,
+              "y": 475,
+              "dy": "-3",
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 690,
+              "y": 475,
+              "rx": -30,
+              "ry": 8,
+              "st": false,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "衙前",
+              "lb": "衙前",
+              "x": 720,
+              "y": 500,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "杨汛桥",
+              "lb": "杨汛桥",
+              "x": 770,
+              "y": 550,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "前梅",
+              "lb": "前梅",
+              "x": 820,
+              "y": 600,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "钱清",
+              "lb": "钱清",
+              "x": 870,
+              "y": 650,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西沙路",
+              "lb": "西沙路",
+              "x": 920,
+              "y": 700,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "临杭大道",
+              "lb": "临杭大道",
+              "x": 970,
+              "y": 750,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "鉴水路",
+              "lb": "鉴水路",
+              "x": 1020,
+              "y": 800,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "越州大道",
+              "lb": "越州大道",
+              "x": 1070,
+              "y": 850,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "中国轻纺城",
+              "lb": "中国轻纺城",
+              "x": 1120,
+              "y": 900,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "明珠广场",
+              "lb": "明珠广场",
+              "x": 1170,
+              "y": 950,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "瓜渚湖",
+              "lb": "瓜渚湖",
+              "x": 1220,
+              "y": 1000,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "镜水路",
+              "lb": "镜水路",
+              "x": 1270,
+              "y": 1050,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "黄酒小镇",
+              "lb": "黄酒小镇",
+              "x": 1320,
+              "y": 1100,
+              "rx": 2,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 13419299.77,
+              "py": 3490143.49,
+              "uid": "884687600b5a1be2a2046492"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "奥体中心",
+              "lb": "奥体中心",
+              "x": 1440,
+              "y": 1100,
+              "rx": -25,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1460,
+              "y": 1100,
+              "rx": -34,
+              "ry": -23,
+              "st": false,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1490,
+              "y": 1115,
+              "rx": -34,
+              "ry": -23,
+              "st": false,
+              "ex": false,
+              "iu": true,
+              "rc": true,
+              "slb": true,
+              "ln": "",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1500,
+              "y": 1150,
+              "rx": -34,
+              "ry": -23,
+              "st": false,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "梅山广场",
+              "lb": "梅山广场",
+              "x": 1500,
+              "y": 1150,
+              "rx": 7,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线,杭州市|绍兴2号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "凤林",
+              "lb": "凤林",
+              "x": 1500,
+              "y": 1210,
+              "rx": 7,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大滩",
+              "lb": "大滩",
+              "x": 1500,
+              "y": 1270,
+              "rx": 7,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "火车站",
+              "lb": "火车站",
+              "x": 1500,
+              "y": 1330,
+              "rx": 7,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "城市广场",
+              "lb": "城市广场",
+              "x": 1500,
+              "y": 1390,
+              "rx": 7,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "鲁迅故里",
+              "lb": "鲁迅故里",
+              "x": 1500,
+              "y": 1450,
+              "rx": 7,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "城南大道",
+              "lb": "城南大道",
+              "x": 1500,
+              "y": 1510,
+              "rx": 7,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "凤凰山",
+              "lb": "凤凰山",
+              "x": 1500,
+              "y": 1570,
+              "rx": 7,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "劳家葑",
+              "lb": "劳家葑",
+              "x": 1500,
+              "y": 1630,
+              "rx": 7,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南池",
+              "lb": "南池",
+              "x": 1500,
+              "y": 1690,
+              "rx": 7,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "栖湖",
+              "lb": "栖湖",
+              "x": 1500,
+              "y": 1750,
+              "rx": 7,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "芳泉",
+              "lb": "芳泉",
+              "x": 1500,
+              "y": 1810,
+              "rx": 7,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "绍兴地铁1号线",
+          "lb": "绍兴地铁1号线",
+          "slb": false,
+          "n": 7,
+          "loop": false,
+          "lbx": 1000,
+          "lby": 950,
+          "lbr": 0,
+          "lc": "0xF10004",
+          "uid": "92d69160d2e4f8266f3e1b16",
+          "uid2": "5cbf8a7caa9eac81cf06a465"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "黄酒小镇",
+              "lb": "黄酒小镇",
+              "x": 1320,
+              "y": 1100,
+              "rx": 2,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "杭州市|绍兴1号线,杭州市|绍兴1号线支线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "绍兴一中",
+              "lb": "绍兴一中",
+              "x": 1320,
+              "y": 1000,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线支线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "湖西",
+              "lb": "湖西",
+              "x": 1320,
+              "y": 900,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线支线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大庆寺",
+              "lb": "大庆寺",
+              "x": 1320,
+              "y": 800,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线支线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1320,
+              "y": 700,
+              "rx": -34,
+              "ry": -23,
+              "st": false,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "绍兴北站",
+              "lb": "绍兴北站",
+              "x": 1290,
+              "y": 700,
+              "rx": -24,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线支线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": "f622259135a58907a1d230bf"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "会展中心",
+              "lb": "会展中心",
+              "x": 1100,
+              "y": 700,
+              "rx": -24,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴1号线支线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": "8addf5fe9cc02b8f11882473"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "绍兴地铁1号线支线",
+          "lb": "绍兴地铁1号线支线",
+          "slb": false,
+          "n": 4,
+          "loop": false,
+          "lbx": 1400,
+          "lby": 850,
+          "lbr": 0,
+          "lc": "0xF10004",
+          "uid": "",
+          "uid2": ""
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "人民医院总院",
+              "lb": "人民医院总院",
+              "x": 1400,
+              "y": 1150,
+              "rx": -42,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴2号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "梅山广场",
+              "lb": "梅山广场",
+              "x": 1500,
+              "y": 1150,
+              "rx": 7,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "杭州市|绍兴1号线,杭州市|绍兴2号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "后墅路",
+              "lb": "后墅路",
+              "x": 1600,
+              "y": 1150,
+              "rx": -20,
+              "ry": -23,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴2号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "袍谷",
+              "lb": "袍谷",
+              "x": 1700,
+              "y": 1150,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴2号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "袍中路",
+              "lb": "袍中路",
+              "x": 1800,
+              "y": 1150,
+              "rx": -20,
+              "ry": -23,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴2号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "洋泾湖",
+              "lb": "洋泾湖",
+              "x": 1900,
+              "y": 1150,
+              "rx": -20,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴2号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "恂南",
+              "lb": "恂南",
+              "x": 2000,
+              "y": 1150,
+              "rx": -15,
+              "ry": -23,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴2号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "豆姜",
+              "lb": "豆姜",
+              "x": 2100,
+              "y": 1150,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴2号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "檀渎",
+              "lb": "檀渎",
+              "x": 2200,
+              "y": 1150,
+              "rx": -15,
+              "ry": -23,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "杭州市|绍兴2号线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "绍兴地铁2号线",
+          "lb": "绍兴地铁2号线",
+          "slb": false,
+          "n": 9,
+          "loop": false,
+          "lbx": 1600,
+          "lby": 1200,
+          "lbr": 0,
+          "lc": "0x1C2E5E",
+          "uid": "",
+          "uid2": ""
+        }
+      }
+    ],
+    "sw_xmlattr": {
+      "cid": "绍兴市",
+      "n": 0,
+      "c": "绍兴",
+      "src": "",
+      "bg": "bg_shaoxing",
+      "icon": "icon_shaoxing",
+      "version": "3e04c7a8d5f79a6c3078e25b78ebd7a04410ec34d9e6c1a68100ca0ce033fb17"
+    }
+  }
+}

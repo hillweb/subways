@@ -1,0 +1,1409 @@
+{
+  "result": {
+    "type": 920,
+    "error": 0
+  },
+  "subways": {
+    "l": [
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "西王",
+              "lb": "西王",
+              "x": -793.3,
+              "y": 0.2,
+              "rx": -25,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12736849.89,
+              "py": 4559343.09,
+              "uid": "07a4e2238278fe9ee812e4de"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "时光街",
+              "lb": "时光街",
+              "x": -692.3,
+              "y": 0.2,
+              "rx": -20,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12738344.08,
+              "py": 4559400.84,
+              "uid": "0d46cf0e4027b90f2806ce2a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "长城桥",
+              "lb": "长城桥",
+              "x": -594,
+              "y": 0,
+              "rx": -20,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12739934.09,
+              "py": 4559516.75,
+              "uid": "a8f8023d037799e4d1f49e89"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "和平医院",
+              "lb": "和平医院",
+              "x": -503,
+              "y": 0,
+              "rx": -25,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12741615.08,
+              "py": 4559643.74,
+              "uid": "1bb2578d67a81d6426e0a0ab"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "烈士陵园",
+              "lb": "烈士陵园",
+              "x": -422,
+              "y": 0,
+              "rx": -25,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12743123.93,
+              "py": 4559764.01,
+              "uid": "98115a2dc0344849d618b773"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "新百广场",
+              "lb": "新百广场",
+              "x": -333.7,
+              "y": 0.3,
+              "rx": -60,
+              "ry": -30,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线,石家庄|地铁1号线",
+              "int": "2",
+              "px": 12744417.01,
+              "py": 4559850.86,
+              "uid": "08b91cace35e0150ddee8b9b"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "解放广场",
+              "lb": "解放广场",
+              "x": -250,
+              "y": 0,
+              "rx": -25,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12745523.93,
+              "py": 4559882.73,
+              "uid": "80f3a31dba69ad2d4f3a59c0"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "平安大街",
+              "lb": "平安大街",
+              "x": -165,
+              "y": 0,
+              "rx": -25,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12747107.82,
+              "py": 4559862.78,
+              "uid": "fe0113e6555c3f02f2193765"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "北国商城",
+              "lb": "北国商城",
+              "x": -81,
+              "y": 0,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "石家庄|地铁1号线,石家庄|地铁2号线",
+              "int": "2",
+              "px": 12748277.35,
+              "py": 4559774.95,
+              "uid": "60a0dc53c04b5f4c4251c051"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "博物院",
+              "lb": "博物院",
+              "x": 0,
+              "y": 0,
+              "rx": -20,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12749482.14,
+              "py": 4559732.95,
+              "uid": "1ddb031be339e84e4d2fdf67"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "体育场",
+              "lb": "体育场",
+              "x": 73,
+              "y": 0,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12750594.58,
+              "py": 4559748,
+              "uid": "b9e386cef14fe2567402698f"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "北宋",
+              "lb": "北宋",
+              "x": 144,
+              "y": 0,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12752057.42,
+              "py": 4559769.71,
+              "uid": "5d4354486667391b5a3ac847"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "谈固",
+              "lb": "谈固",
+              "x": 216.6,
+              "y": 0.1,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12753890.2,
+              "py": 4559842.85,
+              "uid": "deaa7fa5b7a66a560bccddac"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "朝晖桥",
+              "lb": "朝晖桥",
+              "x": 290.6,
+              "y": 0.1,
+              "rx": -20,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12755460.04,
+              "py": 4559922.86,
+              "uid": "6a30bc8c9a3c54e3ce04ef5a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "白佛",
+              "lb": "白佛",
+              "x": 361.6,
+              "y": 0.1,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12756537.78,
+              "py": 4559969.92,
+              "uid": "eaaeaf9db03bb65b246e9896"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 401.6,
+              "y": 0.1,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 401.6,
+              "y": 102.4,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "留村",
+              "lb": "留村",
+              "x": 476.2,
+              "y": 102.4,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12759002.47,
+              "py": 4559060.51,
+              "uid": "df2902aa9c406f7f250bd077"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "火炬广场",
+              "lb": "火炬广场",
+              "x": 605.9,
+              "y": 102.4,
+              "rx": -25,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12760679.83,
+              "py": 4559046.83,
+              "uid": "243a03b0acfcaa2281288a39"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 695.3,
+              "y": 102.4,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "石家庄东站",
+              "lb": "石家庄东站",
+              "x": 763.8,
+              "y": 51.7,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12761323.87,
+              "py": 4560596.88,
+              "uid": "14b2a780f99f680688b98807"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南村",
+              "lb": "南村",
+              "x": 763.8,
+              "y": -36.3,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12761274.9,
+              "py": 4562121.87,
+              "uid": "9b02b44758c127632ce67b18"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "洨河大道",
+              "lb": "洨河大道",
+              "x": 763.7,
+              "y": -124.8,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12761224.92,
+              "py": 4563466.83,
+              "uid": "0e6e1947221fb6e96849f37b"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西庄",
+              "lb": "西庄",
+              "x": 763.7,
+              "y": -213.3,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12761199.97,
+              "py": 4565158,
+              "uid": "8f131124a895e06e63180963"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东庄",
+              "lb": "东庄",
+              "x": 763.7,
+              "y": -301.8,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12761122.35,
+              "py": 4566978.66,
+              "uid": "520f094113e56093b5147fb9"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "会展中心",
+              "lb": "会展中心",
+              "x": 763.7,
+              "y": -390.3,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12759659.21,
+              "py": 4571157.03,
+              "uid": "f2cef46ee0532b9dda2f285e"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "商务中心",
+              "lb": "商务中心",
+              "x": 763.7,
+              "y": -478.8,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12760393.33,
+              "py": 4572426.03,
+              "uid": "5d52dc61149ffc139d82ea19"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "园博园",
+              "lb": "园博园",
+              "x": 763.7,
+              "y": -567.3,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12760409.96,
+              "py": 4574064.57,
+              "uid": "e7c28e62a014c66631870ab4"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "福泽",
+              "lb": "福泽",
+              "x": 763.7,
+              "y": -655.8,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "px": 12760423.62,
+              "py": 4575424.24,
+              "uid": "68294af90d72259eca2915e1"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁1号线",
+          "lb": "1号线",
+          "slb": false,
+          "n": 19,
+          "loop": false,
+          "lbx": -692.9,
+          "lby": 40.6,
+          "lbr": 0,
+          "lc": "0xF24040",
+          "uid": "19dfce44afd8293ba2d2306f",
+          "uid2": "f2b743e251490927b04c4973"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "柳辛庄",
+              "lb": "柳辛庄",
+              "x": -81,
+              "y": -346.5,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线",
+              "int": "2",
+              "px": 12749309.02,
+              "py": 4566512,
+              "uid": "0924e2f5544a867451e5c55a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "庄窠·铁道大学",
+              "lb": "庄窠·铁道大学",
+              "x": -81,
+              "y": -277.2,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线",
+              "int": "2",
+              "px": 12748934.23,
+              "py": 4565675.09,
+              "uid": "ea65a45772853e2182a12e11"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "义堂",
+              "lb": "义堂",
+              "x": -81,
+              "y": -207.9,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线",
+              "int": "2",
+              "px": 12748263.4,
+              "py": 4563986.76,
+              "uid": "fcbe1e58ecad1d48d13ce39a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "建和桥",
+              "lb": "建和桥",
+              "x": -81,
+              "y": -138.6,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线",
+              "int": "2",
+              "px": 12748242.65,
+              "py": 4562034.62,
+              "uid": "56da23a3f8278372626858a5"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "长安公园",
+              "lb": "长安公园",
+              "x": -81,
+              "y": -69.3,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线",
+              "int": "2",
+              "px": 12748259.91,
+              "py": 4560715.48,
+              "uid": "3bfc49524b3a0f67ae045736"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "北国商城",
+              "lb": "北国商城",
+              "x": -81,
+              "y": 0,
+              "rx": -60,
+              "ry": -21,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线,石家庄|地铁1号线",
+              "int": "2",
+              "px": 12748265.36,
+              "py": 4559817.46,
+              "uid": "ca309416aca961830782c28e"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "裕华路",
+              "lb": "裕华路",
+              "x": -81,
+              "y": 86.6,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线",
+              "int": "2",
+              "px": 12748269.57,
+              "py": 4558720.15,
+              "uid": "21decc6fb57a6715c336443e"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "槐中路",
+              "lb": "槐中路",
+              "x": -81,
+              "y": 173.2,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线",
+              "int": "2",
+              "px": 12748291.73,
+              "py": 4557691.16,
+              "uid": "e62986954e6124c182a12e47"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "欧韵公园",
+              "lb": "欧韵公园",
+              "x": -81,
+              "y": 259.8,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线",
+              "int": "2",
+              "px": 12748157.13,
+              "py": 4556464.75,
+              "uid": "b96159e3a8980047a80dd8b9"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "元村",
+              "lb": "元村",
+              "x": -81,
+              "y": 346.3,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线",
+              "int": "2",
+              "px": 12747042.03,
+              "py": 4555928.42,
+              "uid": "ba6c8794528efb7ef8dc8587"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "石家庄站",
+              "lb": "石家庄站",
+              "x": -282.7,
+              "y": 346.3,
+              "rx": -62,
+              "ry": -7,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线,石家庄|地铁3号线",
+              "int": "2",
+              "px": 12745460.01,
+              "py": 4555182.32,
+              "uid": "26ffed3e79d530a3901fc9a4"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "塔坛",
+              "lb": "塔坛",
+              "x": -282.7,
+              "y": 403.7,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线",
+              "int": "2",
+              "px": 12746123.61,
+              "py": 4553781.81,
+              "uid": "a2cf54bc0907119b441a3267"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "仓丰路留村",
+              "lb": "仓丰路留村",
+              "x": -282.7,
+              "y": 461.1,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线",
+              "int": "2",
+              "px": 12746321.39,
+              "py": 4552616.52,
+              "uid": "481698e9402e06518bdb734a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南位",
+              "lb": "南位",
+              "x": -282.7,
+              "y": 518.5,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线",
+              "int": "2",
+              "px": 12746543.13,
+              "py": 4551270.23,
+              "uid": "225a8e1a69e41d563f9a5e55"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "嘉华路",
+              "lb": "嘉华路",
+              "x": -282.7,
+              "y": 575.9,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁2号线",
+              "int": "2",
+              "px": 12746754.5,
+              "py": 4550124.01,
+              "uid": "d486a422f96c786143024548"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁2号线",
+          "lb": "2号线",
+          "slb": false,
+          "n": 15,
+          "loop": false,
+          "lbx": -150,
+          "lby": -300,
+          "lbr": 0,
+          "lc": "0xF5C269",
+          "uid": "baf1be44d0326a1a76e5b656",
+          "uid2": "a2bc6c0af20e8d554bcc4a98"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "西三庄",
+              "lb": "西三庄",
+              "x": -588,
+              "y": -291.4,
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12741184.67,
+              "py": 4564892.12,
+              "uid": "4cbe8d9c9fa46206ce04ef9b"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "高柱",
+              "lb": "高柱",
+              "x": -471.7,
+              "y": -291.4,
+              "rx": -15,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12742844.4,
+              "py": 4564884.58,
+              "uid": "f528b1a8af40679b5abbbc9f"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -402.7,
+              "y": -291.4,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "柏林庄",
+              "lb": "柏林庄",
+              "x": -333.7,
+              "y": -244.7,
+              "rx": -50,
+              "ry": -4,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12744537.54,
+              "py": 4564419.44,
+              "uid": "60b30d50291c74043be4a6e3"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市庄",
+              "lb": "市庄",
+              "x": -333.7,
+              "y": -153.7,
+              "rx": -35,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12744423.89,
+              "py": 4562768.12,
+              "uid": "efae9deb745964a4b817e76b"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市二中",
+              "lb": "市二中",
+              "x": -333.7,
+              "y": -72.7,
+              "rx": -50,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12744412.83,
+              "py": 4561210.46,
+              "uid": "835971f0a5978471e315f93f"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "新百广场",
+              "lb": "新百广场",
+              "x": -333.7,
+              "y": 0.3,
+              "rx": -60,
+              "ry": -30,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线,石家庄|地铁1号线",
+              "int": "2",
+              "px": 12744410.47,
+              "py": 4559774.05,
+              "uid": "71e61a5f5070b0e00482c21c"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东里",
+              "lb": "东里",
+              "x": -333.7,
+              "y": 88.3,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12744411.83,
+              "py": 4558935.46,
+              "uid": "ee22eb9e6303ad4a724b87b1"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "槐安桥",
+              "lb": "槐安桥",
+              "x": -333.7,
+              "y": 179.3,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12744411.83,
+              "py": 4557686.02,
+              "uid": "bf902ddf3f5e2700ede4a591"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西三教",
+              "lb": "西三教",
+              "x": -333.7,
+              "y": 275.3,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12744412.87,
+              "py": 4556124.96,
+              "uid": "cbded187d92ddbd14557263c"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "石家庄站",
+              "lb": "石家庄站",
+              "x": -282.7,
+              "y": 346.3,
+              "rx": -25,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "石家庄|地铁3号线,石家庄|地铁2号线",
+              "int": "2",
+              "px": 12745498.19,
+              "py": 4555178.17,
+              "uid": "4f5ff642b70be8844354d7e9"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -265,
+              "y": 370,
+              "rx": -25,
+              "ry": 8,
+              "st": false,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": false
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "汇通路",
+              "lb": "汇通路",
+              "x": -180.7,
+              "y": 370,
+              "rx": -20,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12747046.07,
+              "py": 4555194.87,
+              "uid": "f43d961b335dfeaa4f2fdf7c"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "孙村",
+              "lb": "孙村",
+              "x": -93.7,
+              "y": 370,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12748328.48,
+              "py": 4555151.27,
+              "uid": "bb7d6c16f1bc6fa84afc8d00"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "塔冢",
+              "lb": "塔冢",
+              "x": -11.7,
+              "y": 370,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12749605.09,
+              "py": 4555148.94,
+              "uid": "f973b6124206487af4b9169c"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东王",
+              "lb": "东王",
+              "x": 70.3,
+              "y": 370,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12750756.01,
+              "py": 4555162.99,
+              "uid": "5713bb0947e7c723343a717f"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南王",
+              "lb": "南王",
+              "x": 152.3,
+              "y": 370,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12752184.58,
+              "py": 4555201.73,
+              "uid": "a8cb453f1a2b4f540a5cb3e9"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "位同",
+              "lb": "位同",
+              "x": 234.3,
+              "y": 370,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12753979.08,
+              "py": 4555258.67,
+              "uid": "8c544183c46a2d042902e197"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东二环南路",
+              "lb": "东二环南路",
+              "x": 316.3,
+              "y": 370,
+              "rx": -40,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁3号线",
+              "int": "2",
+              "px": 12755628.07,
+              "py": 4555322.42,
+              "uid": "37fe6f99af736e237bf796cb"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西仰陵",
+              "lb": "西仰陵",
+              "x": 426,
+              "y": 370,
+              "rx": -20,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "uid": "9d5744dc0b7bcbc145e2747b",
+              "px": 12757367.98,
+              "py": 4554962.22
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "中仰陵",
+              "lb": "中仰陵",
+              "x": 536,
+              "y": 370,
+              "rx": -20,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "uid": "42932e749b90b5a2471a32dc",
+              "px": 12759109.98,
+              "py": 4554986.38
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南豆",
+              "lb": "南豆",
+              "x": 646,
+              "y": 370,
+              "rx": -20,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "uid": "9e2679997af832a1f922139b",
+              "px": 12760371,
+              "py": 4555007.44
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "太行南大街",
+              "lb": "太行南大街",
+              "x": 763.8,
+              "y": 370,
+              "rx": -40,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "uid": "70f3ed08e3d93590a1a9343d",
+              "px": 12762291.49,
+              "py": 4555013.54
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "乐乡",
+              "lb": "乐乡",
+              "x": 863.8,
+              "y": 370,
+              "rx": -20,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "石家庄|地铁1号线",
+              "int": "2",
+              "uid": "e7ed82516525167ee01103cf",
+              "px": 12764718.98,
+              "py": 4554848.52
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁3号线",
+          "lb": "3号线",
+          "slb": false,
+          "n": 10,
+          "loop": false,
+          "lbx": -403.6,
+          "lby": 213.2,
+          "lbr": 0,
+          "lc": "0x2F91D3",
+          "uid": "25e46c3c919057b9e4073812",
+          "uid2": "c00926f5b3b6ce19f4b9165d"
+        }
+      }
+    ],
+    "sw_xmlattr": {
+      "cid": "石家庄市",
+      "n": 5,
+      "c": "石家庄",
+      "src": " ",
+      "bg": "bg_shijiazhuang",
+      "icon": "",
+      "version": "37b5d2ddb90c93967433631cb4af8df74410ec34d9e6c1a68100ca0ce033fb17"
+    }
+  }
+}
