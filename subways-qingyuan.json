@@ -1,0 +1,271 @@
+{
+  "result": {
+    "type": 920,
+    "error": 0
+  },
+  "subways": {
+    "l": [
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "花都",
+              "lb": "花都",
+              "x": -460,
+              "y": -630,
+              "rx": -12,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|东环城际线,广州市|广清城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "乐同",
+              "lb": "乐同",
+              "x": -520,
+              "y": -670,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广清城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "狮岭",
+              "lb": "狮岭",
+              "x": -660,
+              "y": -670,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广清城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "银盏",
+              "lb": "银盏",
+              "x": -780,
+              "y": -670,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广清城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙塘镇",
+              "lb": "龙塘镇",
+              "x": -900,
+              "y": -670,
+              "rx": -23,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广清城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "清城",
+              "lb": "清城",
+              "x": -1020,
+              "y": -670,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广清城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "燕湖",
+              "lb": "燕湖",
+              "x": -1120,
+              "y": -670,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广清城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "洲心",
+              "lb": "洲心",
+              "x": -1220,
+              "y": -670,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广清城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "飞霞",
+              "lb": "飞霞",
+              "x": -1320,
+              "y": -670,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广清城际线",
+              "int": "2"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "广清城际线",
+          "lb": "广清城际线",
+          "slb": false,
+          "n": 6,
+          "loop": false,
+          "lbx": -600,
+          "lby": -720,
+          "lbr": 0,
+          "lc": "0x44558e"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "银盏",
+              "lb": "银盏",
+              "x": -780,
+              "y": -675,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "广州市|广清城际线,清远市|磁浮线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -850,
+              "y": -675,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "蝴蝶湾",
+              "lb": "蝴蝶湾",
+              "x": -850,
+              "y": -720,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "清远市|磁浮线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "磁浮长隆",
+              "lb": "磁浮长隆",
+              "x": -850,
+              "y": -770,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "清远市|磁浮线",
+              "int": "2"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "磁浮线",
+          "lb": "磁浮线",
+          "slb": false,
+          "n": 3,
+          "loop": false,
+          "lbx": -920,
+          "lby": -750,
+          "lbr": 0,
+          "lc": "0x3D5D8E",
+          "uid": "81d97c9ed15728744007c11a",
+          "uid2": "30fced4eee9d71d504fef565"
+        }
+      }
+    ],
+    "sw_xmlattr": {
+      "cid": "清远市",
+      "n": 2,
+      "c": "清远",
+      "src": "",
+      "bg": "",
+      "icon": "",
+      "version": "e5b96fc7463bd6d0a7791a16daa9f9da4410ec34d9e6c1a68100ca0ce033fb17"
+    }
+  }
+}

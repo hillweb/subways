@@ -1,0 +1,2142 @@
+{
+  "result": {
+    "type": 920,
+    "error": 0
+  },
+  "subways": {
+    "l": [
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "哈尔滨东站",
+              "lb": "哈尔滨东站",
+              "x": 710,
+              "y": -20,
+              "rx": -23.2,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14106087.5,
+              "py": 5716738.45,
+              "uid": "0070a38e2b8b61ab5bf6be46"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "桦树街",
+              "lb": "桦树街",
+              "x": 600,
+              "y": -20,
+              "rx": -24.2,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14104837.62,
+              "py": 5716502.68,
+              "uid": "2aaa17811ceee93415764338"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "交通学院",
+              "lb": "交通学院",
+              "x": 490,
+              "y": -20,
+              "rx": -27.6,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14103646.44,
+              "py": 5716425.6,
+              "uid": "b9eb7f6de4682e8379dbd257"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 450,
+              "y": -20,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 440,
+              "y": -17,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 430,
+              "y": -10,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "太平桥",
+              "lb": "太平桥",
+              "x": 380,
+              "y": 40,
+              "rx": 10,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14102513.23,
+              "py": 5715718.6,
+              "uid": "e2c91bc9e7a512843a13fdbb"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "工程大学",
+              "lb": "工程大学",
+              "x": 330,
+              "y": 90,
+              "rx": 10.4,
+              "ry": -5.7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14101537.47,
+              "py": 5714446.91,
+              "uid": "ab2a06ae70ce4d4314948e2a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "烟厂",
+              "lb": "烟厂",
+              "x": 280,
+              "y": 140,
+              "rx": 4.2,
+              "ry": 5.7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14100158.1,
+              "py": 5713352.26,
+              "uid": "9681e8f4a25a0e3d26e0a0bf"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "医大一院",
+              "lb": "医大一院",
+              "x": 230,
+              "y": 190,
+              "rx": 12.4,
+              "ry": -4.6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14099539.19,
+              "py": 5712597.1,
+              "uid": "263b2bb490cfa069adb22afb"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "博物馆",
+              "lb": "博物馆",
+              "x": 165,
+              "y": 255,
+              "rx": 12.4,
+              "ry": -4.6,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14098831.25,
+              "py": 5711745.25,
+              "uid": "9f4fbd7d3cea93690b69d937"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "铁路局",
+              "lb": "铁路局",
+              "x": 110,
+              "y": 310,
+              "rx": 17.8,
+              "ry": -5.6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14097924.91,
+              "py": 5710668.67,
+              "uid": "b9b923cac190adeb223bf2d1"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 70,
+              "y": 350,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 63,
+              "y": 360,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 60,
+              "y": 370,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "哈工大",
+              "lb": "哈工大",
+              "x": 60,
+              "y": 380,
+              "rx": 16.8,
+              "ry": -4.6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14097012.49,
+              "py": 5709579.65,
+              "uid": "235c1fef44f1e44e2a02e1a3"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西大桥",
+              "lb": "西大桥",
+              "x": 60,
+              "y": 480,
+              "rx": 12.8,
+              "ry": -4.6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14096281.13,
+              "py": 5708697.22,
+              "uid": "b9c5aeb1683ab8c80c0a7028"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "和兴路",
+              "lb": "和兴路",
+              "x": 60,
+              "y": 580,
+              "rx": 11.8,
+              "ry": -2.6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14095650.39,
+              "py": 5707709.04,
+              "uid": "150137c429d90926b64f543b"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "学府路",
+              "lb": "学府路",
+              "x": 60,
+              "y": 680,
+              "rx": 9.8,
+              "ry": -7.6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14095005.73,
+              "py": 5706139.5,
+              "uid": "f5c31cadfe3c065a1fe999f9"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "理工大学",
+              "lb": "理工大学",
+              "x": 60,
+              "y": 780,
+              "rx": 10.4,
+              "ry": -3.6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14095232.65,
+              "py": 5704884.87,
+              "uid": "613bf3e4fe42124a31f71de8"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "黑龙江大学",
+              "lb": "黑龙江大学",
+              "x": 60,
+              "y": 880,
+              "rx": 10.1,
+              "ry": -5.7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14095417.79,
+              "py": 5703660.42,
+              "uid": "d6b71cc4c83755267ec8762c"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "医大二院",
+              "lb": "医大二院",
+              "x": 60,
+              "y": 980,
+              "rx": 10.4,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线,哈尔滨市|地铁3号线内环",
+              "int": "3",
+              "px": 14095655.43,
+              "py": 5702073.21,
+              "uid": "7f4bee615c417e4ba104643f"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "哈达",
+              "lb": "哈达",
+              "x": 60,
+              "y": 1050,
+              "rx": 9.2,
+              "ry": -7.7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14096003.05,
+              "py": 5699848.62,
+              "uid": "4b3a0794d5951679c51b75f5"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "哈尔滨南站",
+              "lb": "哈尔滨南站",
+              "x": 60,
+              "y": 1100,
+              "rx": 8.8,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14096326.82,
+              "py": 5697746.4,
+              "uid": "3a5b3fc3e5b28824f72310a0"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "同江路",
+              "lb": "同江路",
+              "x": 110,
+              "y": 1150,
+              "rx": 8.8,
+              "ry": -6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "uid": "35ce667e4f4f0b6d58109376",
+              "px": 14096672.39,
+              "py": 5695559.51
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 150,
+              "y": 1190,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 157,
+              "y": 1200,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 160,
+              "y": 1210,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "瓦盆窑",
+              "lb": "瓦盆窑",
+              "x": 160,
+              "y": 1230,
+              "rx": 8.8,
+              "ry": -6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "uid": "aa2a3130b11700872fe67bbd",
+              "px": 14097654.8,
+              "py": 5693810.67
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "镜泊路",
+              "lb": "镜泊路",
+              "x": 160,
+              "y": 1280,
+              "rx": 8.8,
+              "ry": -6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "uid": "1aa5dbc58144590b8c55ec5b",
+              "px": 14097999.45,
+              "py": 5691748.19
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 160,
+              "y": 1320,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 154,
+              "y": 1334,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 140,
+              "y": 1340,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "渤海路",
+              "lb": "渤海路",
+              "x": 130,
+              "y": 1340,
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "uid": "09720d0345371868a0acc444",
+              "px": 14099248.44,
+              "py": 5689015.23
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "新疆大街",
+              "lb": "新疆大街",
+              "x": 60,
+              "y": 1340,
+              "rx": -30,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "uid": "4698963f03f69a53ae080fcc",
+              "px": 14097593.44,
+              "py": 5687525.83
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁1号线",
+          "lb": "1号线",
+          "slb": false,
+          "n": 19,
+          "loop": false,
+          "lbx": 710,
+          "lby": -60,
+          "lbr": 0,
+          "lc": "0xB20400",
+          "uid": "cbbf7d63b3a34410c9213de0",
+          "uid2": "0a969688c61621bfd22dd6c1"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "江北大学城",
+              "lb": "江北大学城",
+              "x": -60,
+              "y": -450,
+              "rx": 5,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "uid": "351f425abcf33473eb1e977a",
+              "int": "2",
+              "px": 14087651.95,
+              "py": 5730046.53
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "哈尔滨北站",
+              "lb": "哈尔滨北站",
+              "x": -60,
+              "y": -380,
+              "rx": 5,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "6e1ed38d61aac862e31103c2",
+              "px": 14087040.3,
+              "py": 5726690.68
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大耿家",
+              "lb": "大耿家",
+              "x": -60,
+              "y": -310,
+              "rx": 5,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "4efcc493f676bf845c0d0253",
+              "px": 14087381.17,
+              "py": 5723887.65
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙川路",
+              "lb": "龙川路",
+              "x": -60,
+              "y": -240,
+              "rx": 5,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "e9103c483adcf7b638e4a648",
+              "px": 14088323.53,
+              "py": 5722052.33
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "世茂大道",
+              "lb": "世茂大道",
+              "x": -60,
+              "y": -170,
+              "rx": 5,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "1795b7e9f78181090d3dda16",
+              "px": 14088632.13,
+              "py": 5719390.82
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "冰雪大世界",
+              "lb": "冰雪大世界",
+              "x": -60,
+              "y": -100,
+              "rx": 5,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "6c03493f3aafb9a62d4733b0",
+              "px": 14090321.44,
+              "py": 5714989.87
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "太阳岛",
+              "lb": "太阳岛",
+              "x": -60,
+              "y": -30,
+              "rx": 5,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "13b0b1c18251b98b0482c22d",
+              "px": 14092619.33,
+              "py": 5715984.2
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "人民广场",
+              "lb": "人民广场",
+              "x": -60,
+              "y": 40,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "uid": "43f44e8c136563dfd22dd616",
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "px": 14094463.04,
+              "py": 5714155.98
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "中央大街",
+              "lb": "中央大街",
+              "x": -4,
+              "y": 92,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "a2e986e7252b08f6f02d832a",
+              "px": 14095699.59,
+              "py": 5713489.64
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "尚志大街",
+              "lb": "尚志大街",
+              "x": 52,
+              "y": 144,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "ad00755ef092c81e2e4733b9",
+              "px": 14096795.12,
+              "py": 5712925.71
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "哈尔滨站",
+              "lb": "哈尔滨站",
+              "x": 108,
+              "y": 196,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "3df8baee5fb0ce50b5f42f8c",
+              "px": 14097786.09,
+              "py": 5712401.63
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "博物馆",
+              "lb": "博物馆",
+              "x": 165,
+              "y": 255,
+              "rx": 12.4,
+              "ry": -4.6,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14098743.52,
+              "py": 5711764.76,
+              "uid": "4abc9d7f2464cd0c4c6d4639"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "工人文化宫",
+              "lb": "工人文化宫",
+              "x": 232,
+              "y": 320,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "1ea77d25d51532bfab0dd808",
+              "px": 14099913.63,
+              "py": 5710387.08
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 310,
+              "y": 400,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 320,
+              "y": 407,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 330,
+              "y": 410,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "省政府",
+              "lb": "省政府",
+              "x": 350,
+              "y": 410,
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "0986cf443f11fc2d276e9821",
+              "px": 14100965.51,
+              "py": 5709214.27
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "省医院",
+              "lb": "省医院",
+              "x": 460,
+              "y": 410,
+              "rx": -15,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "048980485d8e08b6d0ff2377",
+              "px": 14102524.99,
+              "py": 5708283.78
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "珠江路",
+              "lb": "珠江路",
+              "x": 570,
+              "y": 410,
+              "rx": 10,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "uid": "4b34b1a9b5f9cad19e82eaa0",
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "px": 14104145.29,
+              "py": 5708322.22
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南直路",
+              "lb": "南直路",
+              "x": 640,
+              "y": 410,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "626d8877d1cb5488f942b2eb",
+              "px": 14105696.38,
+              "py": 5708079.98
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东北农业大学",
+              "lb": "东北农业大学",
+              "x": 730,
+              "y": 410,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "3c422bc08ea19b48d8ecedac",
+              "px": 14107718.54,
+              "py": 5707262.73
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "气象台",
+              "lb": "气象台",
+              "x": 820,
+              "y": 410,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁2号线",
+              "int": "2",
+              "uid": "7c6bd222c5e7fe6178f796ed",
+              "px": 14109769.98,
+              "py": 5706808.3
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁2号线",
+          "lb": "2号线",
+          "slb": false,
+          "n": 0,
+          "loop": false,
+          "lbx": -100,
+          "lby": -450,
+          "lbr": 0,
+          "lc": "0x3EAE72",
+          "uid": "d762b8b975fa96f54207c1e2",
+          "uid2": "7f3039b7968dd5887dc87690"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "太平桥",
+              "lb": "太平桥",
+              "x": 380,
+              "y": 40,
+              "rx": 10,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁1号线",
+              "uid": "99cd093ee0e937a514c8f69a",
+              "int": "3",
+              "px": 14102627.64,
+              "py": 5715861.45
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "靖宇公园",
+              "lb": "靖宇公园",
+              "x": 340,
+              "y": 40,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "int": "2",
+              "px": 14101456.74,
+              "py": 5716551.39,
+              "uid": "d1037ac324388b30d8ecedb9"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "清真寺",
+              "lb": "清真寺",
+              "x": 280,
+              "y": 40,
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "int": "2",
+              "px": 14099637.3,
+              "py": 5716431.65,
+              "uid": "9e087983bf47ec2bcae33c42"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "中华巴洛克街区",
+              "lb": "中华巴洛克街区",
+              "x": 220,
+              "y": 40,
+              "rx": -60,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "int": "2",
+              "px": 14098647.71,
+              "py": 5715852.16,
+              "uid": "ad46d5e0cfcd7314a7c75609"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "北马路",
+              "lb": "北马路",
+              "x": 160,
+              "y": 40,
+              "rx": -30,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "int": "2",
+              "px": 14097760.83,
+              "py": 5715262.09,
+              "uid": "5810f97425970bbd5d17c3a3"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "兆麟公园",
+              "lb": "兆麟公园",
+              "x": 80,
+              "y": 40,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "85e6792d2c6dc2e3250bd021",
+              "int": "2",
+              "px": 14096613.3,
+              "py": 5715106.81
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "友谊宫",
+              "lb": "友谊宫",
+              "x": 10,
+              "y": 40,
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "d63070c7f8c6e0959f09f715",
+              "int": "2",
+              "px": 14095284.25,
+              "py": 5714770.71
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "人民广场",
+              "lb": "人民广场",
+              "x": -60,
+              "y": 40,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "a7bb6adcb9945e45b9df8fb1",
+              "int": "2",
+              "px": 14094374.89,
+              "py": 5714206.6
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -66,
+              "y": 40,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -76,
+              "y": 43,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -86,
+              "y": 50,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "上海街",
+              "lb": "上海街",
+              "x": -120,
+              "y": 100,
+              "rx": -48,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "2ab46624adc5701a3586f4d9",
+              "int": "2",
+              "px": 14093616.84,
+              "py": 5713026.11
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "公路大桥",
+              "lb": "公路大桥",
+              "x": -160,
+              "y": 160,
+              "rx": -60,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "45b8d9b6f403efc528201a53",
+              "int": "2",
+              "px": 14093421.26,
+              "py": 5711805.17
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "河松街",
+              "lb": "河松街",
+              "x": -200,
+              "y": 220,
+              "rx": -48,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "47ce5c1679a5069d31f71da4",
+              "int": "2",
+              "px": 14093225.47,
+              "py": 5710354.03
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "河山街",
+              "lb": "河山街",
+              "x": -240,
+              "y": 280,
+              "rx": -48,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "19118184d05f45590d0e6b2d",
+              "int": "2",
+              "px": 14092179.68,
+              "py": 5709368.83
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "丁香公园",
+              "lb": "丁香公园",
+              "x": -280,
+              "y": 340,
+              "rx": -60,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "c2bfc5f10b99ccbbcc06a4f0",
+              "int": "2",
+              "px": 14090360.16,
+              "py": 5708990.85
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -320,
+              "y": 400,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -327,
+              "y": 410,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "体育公园",
+              "lb": "体育公园",
+              "x": -330,
+              "y": 420,
+              "rx": -60,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "31a42743d90459a2c0f1cfe4",
+              "int": "2",
+              "px": 14088444.45,
+              "py": 5708563.28
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "群力第五大道",
+              "lb": "群力第五大道",
+              "x": -330,
+              "y": 510,
+              "rx": -90,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "6c67de08758d30e246e27485",
+              "int": "2",
+              "px": 14087842.26,
+              "py": 5707280.55
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "医大一院群力院区",
+              "lb": "医大一院群力院区",
+              "x": -330,
+              "y": 600,
+              "rx": -110,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "4b13ed661630b72b744ff15a",
+              "int": "2",
+              "px": 14088535.24,
+              "py": 5706335.03
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "工农大街",
+              "lb": "工农大街",
+              "x": -330,
+              "y": 690,
+              "rx": -60,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "d17e02ea855952fcc909f036",
+              "int": "2",
+              "px": 14089314.31,
+              "py": 5705450.37
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -330,
+              "y": 710,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -327,
+              "y": 720,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -320,
+              "y": 730,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "城乡路",
+              "lb": "城乡路",
+              "x": -270,
+              "y": 780,
+              "rx": -45,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "ec5ee7b00a5714c6774ff1ea",
+              "int": "2",
+              "px": 14090279.97,
+              "py": 5704397.38
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "哈尔滨西站",
+              "lb": "哈尔滨西站",
+              "x": -200,
+              "y": 850,
+              "rx": -75,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "int": "2",
+              "px": 14091694.97,
+              "py": 5703434.9,
+              "uid": "8a1d034edae16bb4fa2d61c8"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "凯盛源广场",
+              "lb": "凯盛源广场",
+              "x": -130,
+              "y": 920,
+              "rx": -75,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "int": "2",
+              "px": 14092269.38,
+              "py": 5702726.52,
+              "uid": "3713ec891c847fd4283a9f8c"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -80,
+              "y": 970,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -70,
+              "y": 977,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -60,
+              "y": 980,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "哈西大街",
+              "lb": "哈西大街",
+              "x": -40,
+              "y": 980,
+              "rx": -25,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "fbd81d1e3b1962a783a00c5c",
+              "int": "2",
+              "px": 14093541.83,
+              "py": 5701811.93
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "医大二院",
+              "lb": "医大二院",
+              "x": 60,
+              "y": 980,
+              "rx": 10.4,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "哈尔滨市|地铁3号线内环,哈尔滨市|地铁1号线",
+              "int": "3",
+              "px": 14095666.22,
+              "py": 5702115.87,
+              "uid": "17dd6f192021b89917948edf"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "征仪路",
+              "lb": "征仪路",
+              "x": 160,
+              "y": 980,
+              "rx": -25,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "621926fdd7952eee31870ad6",
+              "int": "2",
+              "px": 14097757.01,
+              "py": 5702378.19
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "肿瘤医院",
+              "lb": "肿瘤医院",
+              "x": 270,
+              "y": 980,
+              "rx": -25,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "b859df703e423cc02b201ab2",
+              "int": "2",
+              "px": 14098745.9,
+              "py": 5702508.16
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "旭升街",
+              "lb": "旭升街",
+              "x": 380,
+              "y": 980,
+              "rx": -25,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "48830709d10bea0e6d20b967",
+              "int": "2",
+              "px": 14101081.76,
+              "py": 5702789.11
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "劳动公园",
+              "lb": "劳动公园",
+              "x": 480,
+              "y": 980,
+              "rx": -25,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "cadd04e52eadb1c98bfc061c",
+              "int": "2",
+              "px": 14102363.97,
+              "py": 5702571.29
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 550,
+              "y": 980,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 564,
+              "y": 974,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 570,
+              "y": 960,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "进乡街",
+              "lb": "进乡街",
+              "x": 570,
+              "y": 930,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "50f3273e1e4a1118d5b74e5c",
+              "int": "2",
+              "px": 14103536.73,
+              "py": 5703185
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "汽轮机厂",
+              "lb": "汽轮机厂",
+              "x": 570,
+              "y": 800,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "c17bf759736b175e82a12e6e",
+              "int": "2",
+              "px": 14103892.98,
+              "py": 5704756.12
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "油坊街",
+              "lb": "油坊街",
+              "x": 570,
+              "y": 670,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "2750cdc09657a089c9e33c9f",
+              "int": "2",
+              "px": 14103997.8,
+              "py": 5706155.54
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "公滨路",
+              "lb": "公滨路",
+              "x": 570,
+              "y": 540,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "85cdf8602a99d75b4afd3f06",
+              "int": "2",
+              "px": 14104074.05,
+              "py": 5707373.18
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "珠江路",
+              "lb": "珠江路",
+              "x": 570,
+              "y": 410,
+              "rx": 10,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "139b196eb8515c6426d2bb75",
+              "int": "2",
+              "px": 14104247.36,
+              "py": 5708315.17
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "湘江路",
+              "lb": "湘江路",
+              "x": 570,
+              "y": 340,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "27d6f83211a1be8015a190ae",
+              "int": "2",
+              "px": 14104435.26,
+              "py": 5709204
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "会展中心",
+              "lb": "会展中心",
+              "x": 570,
+              "y": 270,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "50edb8466080b3bbc8213d3c",
+              "int": "2",
+              "px": 14104684.13,
+              "py": 5710559.97
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "海河东路",
+              "lb": "海河东路",
+              "x": 570,
+              "y": 200,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "5979903c645a30fcf33cba5c",
+              "int": "2",
+              "px": 14104464.61,
+              "py": 5711947.24
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市第二医院",
+              "lb": "市第二医院",
+              "x": 570,
+              "y": 130,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "32bb586c5e2dc5f86b49f39c",
+              "int": "2",
+              "px": 14104245.14,
+              "py": 5713189.47
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大有坊街",
+              "lb": "大有坊街",
+              "x": 570,
+              "y": 80,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "哈尔滨市|地铁3号线内环",
+              "uid": "f747574518679fcec61e51b7",
+              "int": "2",
+              "px": 14104016.25,
+              "py": 5714435.8
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 570,
+              "y": 60,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 564,
+              "y": 46,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 550,
+              "y": 40,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁3号线内环",
+          "lb": "3号线",
+          "slb": false,
+          "n": 5,
+          "loop": true,
+          "lbx": 220,
+          "lby": -20,
+          "lbr": 0,
+          "lc": "0xFFDF3C",
+          "uid": "020dcc26acc197c4f8221327",
+          "uid2": "5684c4fab9852fca09a8d442"
+        }
+      }
+    ],
+    "sw_xmlattr": {
+      "cid": "哈尔滨市",
+      "n": 1,
+      "c": "哈尔滨",
+      "src": " ",
+      "bg": "bg_haerbin",
+      "icon": "",
+      "version": "c1634610b9fb079fd6d1a3f97b795e3d4410ec34d9e6c1a68100ca0ce033fb17"
+    }
+  }
+}

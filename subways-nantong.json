@@ -1,0 +1,1257 @@
+{
+  "result": {
+    "type": 920,
+    "error": 0
+  },
+  "subways": {
+    "l": [
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "振兴路",
+              "lb": "振兴路",
+              "x": 440,
+              "y": 1260,
+              "rx": 10,
+              "ry": -3,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "2",
+              "uid": "27586520172ffa51ebe58292",
+              "px": 13465638.44,
+              "py": 3729600.93
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "航运学院",
+              "lb": "航运学院",
+              "x": 440,
+              "y": 1160,
+              "rx": 10,
+              "ry": -3,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "2",
+              "uid": "7e540fb83ea02792931fc9ff",
+              "px": 13465945.51,
+              "py": 3731110.22
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "能达商务区",
+              "lb": "能达商务区",
+              "x": 440,
+              "y": 1030,
+              "rx": 10,
+              "ry": -3,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "2",
+              "uid": "5e8c995480f042c2715e8063",
+              "px": 13465952.8,
+              "py": 3732612.36
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "紫琅湖",
+              "lb": "紫琅湖",
+              "x": 440,
+              "y": 930,
+              "rx": 10,
+              "ry": -3,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "2",
+              "uid": "d7b1d200c7eda4ea2fb17ead",
+              "px": 13464685.19,
+              "py": 3735271.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大剧院",
+              "lb": "大剧院",
+              "x": 440,
+              "y": 830,
+              "rx": 10,
+              "ry": -3,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "2",
+              "uid": "1e92feaf57c9a2782fb9082a",
+              "px": 13464577.25,
+              "py": 3736757.34
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "静海大道",
+              "lb": "静海大道",
+              "x": 440,
+              "y": 730,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "2",
+              "uid": "762f5d8ffb07f394d42ce277",
+              "px": 13464346.79,
+              "py": 3738173.24
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 440,
+              "y": 720,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 435,
+              "y": 705,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 420,
+              "y": 700,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "崇州大道",
+              "lb": "崇州大道",
+              "x": 410,
+              "y": 700,
+              "rx": -23,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "2",
+              "uid": "1a6a74f96ffb48bec8213d90",
+              "px": 13462930.99,
+              "py": 3738333.22
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "盘香路",
+              "lb": "盘香路",
+              "x": 310,
+              "y": 700,
+              "rx": -23,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "2",
+              "uid": "762fd8204f74ba6286420e19",
+              "px": 13461669.67,
+              "py": 3738282.8
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南通大学",
+              "lb": "南通大学",
+              "x": 210,
+              "y": 700,
+              "rx": -23,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "2",
+              "uid": "f7bc84e112c565a97adbd26f",
+              "px": 13460134.45,
+              "py": 3738047.38
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "图书馆",
+              "lb": "图书馆",
+              "x": 110,
+              "y": 700,
+              "rx": -23,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "2",
+              "uid": "408b60ced4baf5aad3ff2386",
+              "px": 13458998.98,
+              "py": 3737847.81
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -20,
+              "y": 700,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -35,
+              "y": 695,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -40,
+              "y": 680,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "世纪大道",
+              "lb": "世纪大道",
+              "x": -40,
+              "y": 660,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "9c945f989e0cc4d4abf0cd04",
+              "px": 13458135.05,
+              "py": 3738372.51
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "政务中心",
+              "lb": "政务中心",
+              "x": -40,
+              "y": 610,
+              "rx": 15,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "a38f6ac18389d80d76e5b668",
+              "px": 13457895.48,
+              "py": 3739576.74
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "慈善博物馆",
+              "lb": "慈善博物馆",
+              "x": -40,
+              "y": 520,
+              "rx": 15,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "5fd326a769540aac0bccdd23",
+              "px": 13457692.9,
+              "py": 3740854.93
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "文峰",
+              "lb": "文峰",
+              "x": -40,
+              "y": 420,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线,南通市|轨道交通2号线",
+              "int": "",
+              "uid": "512e2de324a1dad1a8f729c5",
+              "px": 13457513.83,
+              "py": 3741948.06
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -40,
+              "y": 320,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -45,
+              "y": 305,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "学田",
+              "lb": "学田",
+              "x": -60,
+              "y": 300,
+              "rx": -20,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "214bb4197e7bace57cc8769e",
+              "px": 13457401.9,
+              "py": 3743115.99
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "友谊桥",
+              "lb": "友谊桥",
+              "x": -140,
+              "y": 300,
+              "rx": -18,
+              "ry": 6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "f8cb16c5692547a70bb93a54",
+              "px": 13455916.18,
+              "py": 3743598.93
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "和平桥",
+              "lb": "和平桥",
+              "x": -260,
+              "y": 300,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线,南通市|轨道交通2号线",
+              "int": "",
+              "uid": "af1bb83c9b1f81ccdbd89199",
+              "px": 13454698.34,
+              "py": 3743357.46
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "孩儿巷",
+              "lb": "孩儿巷",
+              "x": -340,
+              "y": 300,
+              "rx": -18,
+              "ry": 6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "57bce70a0cc5317aadb22a36",
+              "px": 13453769.49,
+              "py": 3743342.05
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "茶庵殿",
+              "lb": "茶庵殿",
+              "x": -450,
+              "y": 300,
+              "rx": -18,
+              "ry": 6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "13695324db1f5eb048cc4a6e",
+              "px": 13452233.34,
+              "py": 3743252.85
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -490,
+              "y": 300,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -500,
+              "y": 297,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -510,
+              "y": 290,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "曙光",
+              "lb": "曙光",
+              "x": -570,
+              "y": 230,
+              "rx": -35,
+              "ry": -2,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "dede70687545b20bd4851fd3",
+              "px": 13450468.51,
+              "py": 3744394.55
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -610,
+              "y": 190,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -615,
+              "y": 180,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -610,
+              "y": 170,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "城港路",
+              "lb": "城港路",
+              "x": -600,
+              "y": 160,
+              "rx": -44,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "7dba3497cf794e5e8bb98884",
+              "px": 13450003.36,
+              "py": 3745368.91
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "十里坊",
+              "lb": "十里坊",
+              "x": -550,
+              "y": 110,
+              "rx": -44,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "179f7175eebe2ba12b11d1d9",
+              "px": 13450772.8,
+              "py": 3746957.26
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -500,
+              "y": 60,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -495,
+              "y": 50,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "普贤路",
+              "lb": "普贤路",
+              "x": -500,
+              "y": 40,
+              "rx": -45,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "b4dab4f52e20121189f15d92",
+              "px": 13451468.05,
+              "py": 3749490.14
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "唐闸公园",
+              "lb": "唐闸公园",
+              "x": -600,
+              "y": -60,
+              "rx": -60,
+              "ry": -6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "9268ae3e8426d4e6471a3234",
+              "px": 13450303.76,
+              "py": 3750553.01
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "河口",
+              "lb": "河口",
+              "x": -660,
+              "y": -120,
+              "rx": -45,
+              "ry": -6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "913031589779782be856faba",
+              "px": 13447621.07,
+              "py": 3752345.27
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "集成村",
+              "lb": "集成村",
+              "x": -720,
+              "y": -180,
+              "rx": -45,
+              "ry": -6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "3077428e50d2eac5cae33c70",
+              "px": 13445870.02,
+              "py": 3752980.08
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南通西站",
+              "lb": "南通西站",
+              "x": -780,
+              "y": -240,
+              "rx": -60,
+              "ry": -6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "f7ce3fdcdea2398ac61e5196",
+              "px": 13444439.76,
+              "py": 3754489.84
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "平潮",
+              "lb": "平潮",
+              "x": -840,
+              "y": -300,
+              "rx": -45,
+              "ry": -6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通1号线",
+              "int": "",
+              "uid": "174d2758bd163513c6effbca",
+              "px": 13443581.94,
+              "py": 3755080.01
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "轨道交通1号线",
+          "lb": "1号线",
+          "slb": false,
+          "n": 28,
+          "loop": false,
+          "lbx": -840,
+          "lby": -350,
+          "lbr": 0,
+          "lc": "0xEA414B",
+          "uid": "ce46de3d36717a4735b06c4b",
+          "uid2": "2e70cfaf613698d295f08c40"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "先锋",
+              "lb": "先锋",
+              "x": 660,
+              "y": 420,
+              "rx": -10,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "93917c260d271f7fc42ba116",
+              "px": 13468265.47,
+              "py": 3741550.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南通东站",
+              "lb": "南通东站",
+              "x": 560,
+              "y": 420,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "0d64615e9f6e00be4e776efa",
+              "px": 13465407.06,
+              "py": 3741057.62
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "观音山",
+              "lb": "观音山",
+              "x": 460,
+              "y": 420,
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "5763627f624225dbf503b863",
+              "px": 13463532.77,
+              "py": 3741134.63
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "通富北路",
+              "lb": "通富北路",
+              "x": 360,
+              "y": 420,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "0bd74d2fddf3de359d82ea67",
+              "px": 13462474.25,
+              "py": 3741260.1
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "汽车东站",
+              "lb": "汽车东站",
+              "x": 260,
+              "y": 420,
+              "rx": -30,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "1f50f9e45fa52d1e01ff2dd3",
+              "px": 13461458.65,
+              "py": 3741404.56
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "园林路",
+              "lb": "园林路",
+              "x": 160,
+              "y": 420,
+              "rx": -20,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "c30ba6e992f870d104026fb3",
+              "px": 13460336.14,
+              "py": 3741606.51
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "五一路",
+              "lb": "五一路",
+              "x": 60,
+              "y": 420,
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "040924a01a4daf79e215f92c",
+              "px": 13458637.17,
+              "py": 3741978.65
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "文峰",
+              "lb": "文峰",
+              "x": -40,
+              "y": 420,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "南通市|轨道交通1号线,南通市|轨道交通2号线",
+              "int": "",
+              "uid": "3c26f72463a541cb04026fc8",
+              "px": 13457585.99,
+              "py": 3741990.9
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "易家桥",
+              "lb": "易家桥",
+              "x": -120,
+              "y": 420,
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "e22fa164b8e12c622811d105",
+              "px": 13456679.72,
+              "py": 3741675.99
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "体育公园",
+              "lb": "体育公园",
+              "x": -220,
+              "y": 420,
+              "rx": -30,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "9b0987d50953510c4107c178",
+              "px": 13455388.11,
+              "py": 3741979.34
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -240,
+              "y": 420,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -255,
+              "y": 415,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -260,
+              "y": 400,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "和平桥",
+              "lb": "和平桥",
+              "x": -260,
+              "y": 300,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "南通市|轨道交通1号线,南通市|轨道交通2号线",
+              "int": "",
+              "uid": "2fa42e81a6a6fd193fe23115",
+              "px": 13454820.74,
+              "py": 3743445.88
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "钟秀西路",
+              "lb": "钟秀西路",
+              "x": -260,
+              "y": 200,
+              "rx": 8,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "304f4daf4953e874cae33c59",
+              "px": 13454483.63,
+              "py": 3744978.16
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "北城大桥",
+              "lb": "北城大桥",
+              "x": -260,
+              "y": 90,
+              "rx": 8,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "1a51a48e7a2f958b9222e0bd",
+              "px": 13454963.88,
+              "py": 3746807.7
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "北大街",
+              "lb": "北大街",
+              "x": -260,
+              "y": -10,
+              "rx": 8,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "cceb1d77924bed4b203bf24b",
+              "px": 13454959.6,
+              "py": 3747659.74
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "长岸",
+              "lb": "长岸",
+              "x": -260,
+              "y": -110,
+              "rx": 8,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "36c9f4d8d5f8b68b601c6756",
+              "px": 13454965.72,
+              "py": 3749141.22
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南通火车站",
+              "lb": "南通火车站",
+              "x": -260,
+              "y": -210,
+              "rx": 8,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "f4369ca2d7af4330ed74f83a",
+              "px": 13454820.78,
+              "py": 3750574.06
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "幸福",
+              "lb": "幸福",
+              "x": -260,
+              "y": -310,
+              "rx": 8,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "南通市|轨道交通2号线",
+              "int": "",
+              "uid": "6216e911c60580c0fda778ec",
+              "px": 13454073.47,
+              "py": 3752094.51
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "轨道交通2号线",
+          "lb": "2号线",
+          "slb": false,
+          "n": 17,
+          "loop": false,
+          "lbx": -100,
+          "lby": -160,
+          "lbr": 0,
+          "lc": "0x7EADE9",
+          "uid": "b473d3cb940413f836b06cbe",
+          "uid2": "3f25d18b7536493c00ec0166"
+        }
+      }
+    ],
+    "sw_xmlattr": {
+      "cid": "南通市",
+      "n": 0,
+      "c": "南通",
+      "src": " ",
+      "bg": "",
+      "icon": "",
+      "version": "c95a09eaf4bc7f81cd03b4c26c5060f74410ec34d9e6c1a68100ca0ce033fb17"
+    }
+  }
+}

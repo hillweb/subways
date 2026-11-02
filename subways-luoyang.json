@@ -1,0 +1,812 @@
+{
+  "result": {
+    "type": 920,
+    "error": 0
+  },
+  "subways": {
+    "l": [
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "红山",
+              "lb": "红山",
+              "x": 190,
+              "y": -100,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "0efbafa1691c875b31870ae9",
+              "px": 12504717.49,
+              "py": 4099810.99
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "谷水",
+              "lb": "谷水",
+              "x": 250,
+              "y": -100,
+              "rx": -15,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "f62650dcc09cffa8f942b265",
+              "px": 12505906.42,
+              "py": 4097001.75
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "秦岭路",
+              "lb": "秦岭路",
+              "x": 300,
+              "y": -100,
+              "rx": -20,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "70e99beb9cb337463fe23156",
+              "px": 12508167.04,
+              "py": 4096378.46
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "武汉路",
+              "lb": "武汉路",
+              "x": 350,
+              "y": -100,
+              "rx": -20,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "6ebc8572adc2cbfd33169b87",
+              "px": 12509552.96,
+              "py": 4095271.8
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "长安路",
+              "lb": "长安路",
+              "x": 400,
+              "y": -100,
+              "rx": -20,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "4f5efaaf8b0aae7174026916",
+              "px": 12510588.92,
+              "py": 4094335.94
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "上海市场",
+              "lb": "上海市场",
+              "x": 450,
+              "y": -100,
+              "rx": -30,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "9020dd9b27fb42dabb17e73c",
+              "px": 12511558.18,
+              "py": 4094001.04
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "牡丹广场",
+              "lb": "牡丹广场",
+              "x": 500,
+              "y": -100,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "bd8c8192fffa4ab333169b7d",
+              "px": 12513044.22,
+              "py": 4093530.05
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "七里河",
+              "lb": "七里河",
+              "x": 550,
+              "y": -100,
+              "rx": -20,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "8feb837ab4d04fb6631c67b8",
+              "px": 12514442.54,
+              "py": 4094042.32
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "王城公园",
+              "lb": "王城公园",
+              "x": 600,
+              "y": -100,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "d2646a46df6c788414c8f6e3",
+              "px": 12516142.62,
+              "py": 4094949.12
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "解放路",
+              "lb": "解放路",
+              "x": 650,
+              "y": -100,
+              "rx": -20,
+              "ry": 5,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "bf8f3a4f56cc71a2e9f853cb",
+              "px": 12517081.91,
+              "py": 4095389.78
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "周王城广场",
+              "lb": "周王城广场",
+              "x": 700,
+              "y": -100,
+              "rx": -35,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "f8113798410ee764e215f9b2",
+              "px": 12518038.44,
+              "py": 4095826.1
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "应天门",
+              "lb": "应天门",
+              "x": 750,
+              "y": -100,
+              "rx": -20,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "0596b374e942cce32b201a4e",
+              "px": 12519615.99,
+              "py": 4096523.24
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "丽景门",
+              "lb": "丽景门",
+              "x": 800,
+              "y": -100,
+              "rx": -20,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "8c871a5d13a610853b221c6f",
+              "px": 12520779.48,
+              "py": 4097021.87
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "青年宫",
+              "lb": "青年宫",
+              "x": 850,
+              "y": -100,
+              "rx": -20,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "夹马营",
+              "lb": "夹马营",
+              "x": 900,
+              "y": -100,
+              "rx": -20,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "831990fdc1a8be778d772741",
+              "px": 12523580.44,
+              "py": 4097460.48
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "启明南路",
+              "lb": "启明南路",
+              "x": 950,
+              "y": -100,
+              "rx": -30,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "塔湾",
+              "lb": "塔湾",
+              "x": 1000,
+              "y": -100,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "bb870375d8c80178d22dd699",
+              "px": 12526277.88,
+              "py": 4098074.69
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "史家湾",
+              "lb": "史家湾",
+              "x": 1050,
+              "y": -100,
+              "rx": -15,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "5053d9f13d1dfa539868b464",
+              "px": 12527922.63,
+              "py": 4098424.27
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "杨湾",
+              "lb": "杨湾",
+              "x": 1100,
+              "y": -100,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通1号线",
+              "int": "2",
+              "uid": "91d1b0dcef8a486d14948eab",
+              "px": 12530219.46,
+              "py": 4098941.96
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "轨道交通1号线",
+          "lb": "1号线",
+          "slb": false,
+          "n": 24,
+          "loop": false,
+          "lbx": 500,
+          "lby": -200,
+          "lbr": 0,
+          "lc": "0xE5689C",
+          "uid": "f3704d3ff9b0a60115c90546",
+          "uid2": "4767c8fe35fb60913904b14a"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "二乔路",
+              "lb": "二乔路",
+              "x": 530,
+              "y": -380,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "fceb3db0e4c8640f8e55ecb9",
+              "px": 12514744.46,
+              "py": 4100413.47
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "邙岭",
+              "lb": "邙岭",
+              "x": 590,
+              "y": -380,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "48e1245b2d67326ffa42b2bf",
+              "px": 12515601.95,
+              "py": 4100414.84
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 650,
+              "y": -380,
+              "rx": 5,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "国花路",
+              "lb": "国花路",
+              "x": 650,
+              "y": -340,
+              "rx": 5,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "b4431e3d94db3d3a83a00cf0",
+              "px": 12516370.73,
+              "py": 4098919.3
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "洛阳火车站",
+              "lb": "洛阳火车站",
+              "x": 650,
+              "y": -260,
+              "rx": 5,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "81729d6737466196b8bd632d",
+              "px": 12516968.36,
+              "py": 4097451.63
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "纱厂路",
+              "lb": "纱厂路",
+              "x": 650,
+              "y": -180,
+              "rx": 5,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "e6673f3dfd6891816140a95e",
+              "px": 12516963.02,
+              "py": 4096498.23
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "解放路",
+              "lb": "解放路",
+              "x": 650,
+              "y": -100,
+              "rx": -20,
+              "ry": 5,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "d690cc5b694c345602294fed",
+              "px": 12517208.7,
+              "py": 4095475.35
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "牡丹桥",
+              "lb": "牡丹桥",
+              "x": 650,
+              "y": 0,
+              "rx": 5,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "e8fa026cfb0d84f19e82ea31",
+              "px": 12517696.36,
+              "py": 4094281.36
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "文博园",
+              "lb": "文博园",
+              "x": 650,
+              "y": 70,
+              "rx": 5,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "391286e73f319edab6147fa6",
+              "px": 12518228.47,
+              "py": 4091728.94
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "隋唐园",
+              "lb": "隋唐园",
+              "x": 650,
+              "y": 140,
+              "rx": 5,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "a085259da0bde7bfb23c81f7",
+              "px": 12517713.28,
+              "py": 4090909.48
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "体育中心",
+              "lb": "体育中心",
+              "x": 650,
+              "y": 210,
+              "rx": 5,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "7634d0a6e61777e7ca213dff",
+              "px": 12517322.13,
+              "py": 4089013.81
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 650,
+              "y": 280,
+              "rx": 5,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市民之家",
+              "lb": "市民之家",
+              "x": 650,
+              "y": 280,
+              "rx": 10,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "7bd10ddfcc721bbd2fb96d55",
+              "px": 12518267.63,
+              "py": 4088363.28
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "开元湖",
+              "lb": "开元湖",
+              "x": 650,
+              "y": 350,
+              "rx": -50,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "e0c07d8ddf906ec232f71d3a",
+              "px": 12519066.46,
+              "py": 4087511.44
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "兴洛湖",
+              "lb": "兴洛湖",
+              "x": 650,
+              "y": 420,
+              "rx": -50,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "669c78d72dfc0241744ff162",
+              "px": 12519143.34,
+              "py": 4086609.82
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 650,
+              "y": 430,
+              "rx": 5,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 656,
+              "y": 444,
+              "rx": 5,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": true,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 670,
+              "y": 450,
+              "rx": 5,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙门高铁站",
+              "lb": "龙门高铁站",
+              "x": 820,
+              "y": 450,
+              "rx": -35,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "2a9a976f3d8858884f6d46db",
+              "px": 12519614,
+              "py": 4085239.48
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "八里堂",
+              "lb": "八里堂",
+              "x": 890,
+              "y": 450,
+              "rx": -15,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "洛阳市|轨道交通2号线",
+              "int": "2",
+              "uid": "cb2252b7c06236830c0e6b29",
+              "px": 12521490.6,
+              "py": 4085969.49
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "轨道交通2号线",
+          "lb": "2号线",
+          "slb": false,
+          "n": 24,
+          "loop": false,
+          "lbx": 700,
+          "lby": -200,
+          "lbr": 0,
+          "lc": "0x93CB60",
+          "uid": "4bde767371c04e7a3fe23145",
+          "uid2": "fd5baacf8af885e21811d509"
+        }
+      }
+    ],
+    "sw_xmlattr": {
+      "cid": "洛阳市",
+      "n": 0,
+      "c": "洛阳",
+      "src": " ",
+      "bg": "",
+      "icon": "",
+      "version": "c604caf62d90692a9dca1f201302e3424410ec34d9e6c1a68100ca0ce033fb17"
+    }
+  }
+}

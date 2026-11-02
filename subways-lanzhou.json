@@ -1,0 +1,701 @@
+{
+  "result": {
+    "type": 920,
+    "error": 0
+  },
+  "subways": {
+    "l": [
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "陈官营",
+              "lb": "陈官营",
+              "x": -730,
+              "y": -100,
+              "rx": -20,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11540464.02,
+              "py": 4288036.45,
+              "uid": "0ad08d0eb2b3a3d87702697b"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "奥体中心",
+              "lb": "奥体中心",
+              "x": -630,
+              "y": -160,
+              "rx": -35,
+              "ry": -25,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11542201.05,
+              "py": 4288541.07,
+              "uid": "54c6d08917d72998eee4a508"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "兰州城市学院(省科技馆)",
+              "lb": "兰州城市学院(省科技馆)",
+              "x": -525,
+              "y": -160,
+              "rx": -60,
+              "ry": -25,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11544814.02,
+              "py": 4289673.43,
+              "uid": "38c9a3b9cfa819ae276e981b"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "兰州海关",
+              "lb": "兰州海关",
+              "x": -490,
+              "y": -100,
+              "rx": -27,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11545776.32,
+              "py": 4289027.42,
+              "uid": "2d7645a068de94a69f09f7ed"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "马滩",
+              "lb": "马滩",
+              "x": -420,
+              "y": -100,
+              "rx": -15,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11547749.59,
+              "py": 4287419.49,
+              "uid": "f20ecd0af75b5019f72310f2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "土门墩",
+              "lb": "土门墩",
+              "x": -350,
+              "y": -100,
+              "rx": -20,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11549511.67,
+              "py": 4286077.85,
+              "uid": "991daf3083123334364aaeeb"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "兰州西站北广场",
+              "lb": "兰州西站北广场",
+              "x": -280,
+              "y": -100,
+              "rx": -45,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11550542.65,
+              "py": 4285699.77,
+              "uid": "da763b081311068fdeee8bac"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西站什字",
+              "lb": "西站什字",
+              "x": -210,
+              "y": -100,
+              "rx": -20,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11552462.06,
+              "py": 4285482.35,
+              "uid": "33ca7d7f5d204628fb42b250"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "七里河",
+              "lb": "七里河",
+              "x": -140,
+              "y": -100,
+              "rx": -20,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11553727.28,
+              "py": 4285227.11,
+              "uid": "69d6c57ef79325f0f8f0cb8a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "小西湖",
+              "lb": "小西湖",
+              "x": -70,
+              "y": -100,
+              "rx": -20,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11555417.95,
+              "py": 4284835.91,
+              "uid": "1d5e988bd4e9388b9e82ea86"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "文化宫",
+              "lb": "文化宫",
+              "x": 0,
+              "y": -100,
+              "rx": -20,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11556385.17,
+              "py": 4284520.86,
+              "uid": "92bb14d679721d06fbf0cbdc"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西关",
+              "lb": "西关",
+              "x": 70,
+              "y": -100,
+              "rx": -15,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11557724.73,
+              "py": 4284271.72,
+              "uid": "24e386ccdf3e4eaf3010afd3"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "省政府",
+              "lb": "省政府",
+              "x": 140,
+              "y": -100,
+              "rx": -20,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11558866.17,
+              "py": 4284040.03,
+              "uid": "87a42c4a28ae9f8dd9ecedbe"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东方红广场",
+              "lb": "东方红广场",
+              "x": 210,
+              "y": -100,
+              "rx": -35,
+              "ry": 15,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线,兰州市|轨道交通2号线",
+              "int": "2",
+              "px": 11560525.17,
+              "py": 4283364.76,
+              "uid": "3bbbb0b28abbbec1c61e5130"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "兰州大学",
+              "lb": "兰州大学",
+              "x": 280,
+              "y": -100,
+              "rx": -30,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11562122.09,
+              "py": 4282902.88,
+              "uid": "821e54e998caebd850e5c544"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "五里铺",
+              "lb": "五里铺",
+              "x": 350,
+              "y": -100,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线,兰州市|轨道交通2号线",
+              "int": "2",
+              "px": 11563662.38,
+              "py": 4282459.22,
+              "uid": "b81694484992c5f217948e60"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "省气象局",
+              "lb": "省气象局",
+              "x": 420,
+              "y": -100,
+              "rx": -25,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11565109.72,
+              "py": 4281796.38,
+              "uid": "f05c89d441d7e2f243ab9ace"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "拱星墩",
+              "lb": "拱星墩",
+              "x": 490,
+              "y": -100,
+              "rx": -20,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11566428.84,
+              "py": 4281475.87,
+              "uid": "77d527c51ace8ede085cb3a2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "焦家湾",
+              "lb": "焦家湾",
+              "x": 560,
+              "y": -100,
+              "rx": -20,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11567829.12,
+              "py": 4281394.97,
+              "uid": "1c5a9163fcbca3e404fef599"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东岗",
+              "lb": "东岗",
+              "x": 630,
+              "y": -100,
+              "rx": -12,
+              "ry": 15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通1号线",
+              "int": "2",
+              "px": 11568925.78,
+              "py": 4281684.56,
+              "uid": "729e0047fb7798a48bfc0693"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "轨道交通1号线",
+          "lb": "1号线",
+          "slb": false,
+          "n": 20,
+          "loop": false,
+          "lbx": 0,
+          "lby": -150,
+          "lbr": 0,
+          "lc": "0x2A89ED",
+          "uid": "5beab2d3b9eccd41e812e425",
+          "uid2": "0f1ca397c734b0dac37da28e"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "雁白大桥",
+              "lb": "雁白大桥",
+              "x": 350,
+              "y": -250,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通2号线",
+              "int": "2",
+              "uid": "d1a4c39046f05ae104fef55c",
+              "px": 11565186.53,
+              "py": 4285487.79
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "均家滩",
+              "lb": "均家滩",
+              "x": 350,
+              "y": -200,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通2号线",
+              "int": "2",
+              "uid": "62da6b09f8ef6430f6c59cae",
+              "px": 11564860.35,
+              "py": 4284381.82
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "张苏滩",
+              "lb": "张苏滩",
+              "x": 350,
+              "y": -150,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通2号线",
+              "int": "2",
+              "uid": "5e556345b8740bac79dbd264",
+              "px": 11564404.98,
+              "py": 4283680.43
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "五里铺",
+              "lb": "五里铺",
+              "x": 350,
+              "y": -100,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "兰州市|轨道交通1号线,兰州市|轨道交通2号线",
+              "int": "2",
+              "uid": "16b91c31e32a07aa6e20b993",
+              "px": 11563765.03,
+              "py": 4282433.92
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "团结新村",
+              "lb": "团结新村",
+              "x": 350,
+              "y": -50,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通2号线",
+              "int": "2",
+              "uid": "4670d4f6f9cae9292ce67b18",
+              "px": 11563494.73,
+              "py": 4281369.87
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 348,
+              "y": -22,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": true,
+              "rc": true,
+              "slb": false,
+              "ln": "兰州市|轨道交通2号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "红星巷",
+              "lb": "红星巷",
+              "x": 342,
+              "y": -8,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通2号线",
+              "int": "2",
+              "uid": "f110291f436df28621026211",
+              "px": 11562538.13,
+              "py": 4280758.58
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 322,
+              "y": -5,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": true,
+              "rc": true,
+              "slb": false,
+              "ln": "兰州市|轨道交通2号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "兰州火车站",
+              "lb": "兰州火车站",
+              "x": 290,
+              "y": -5,
+              "rx": -35,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通2号线",
+              "int": "2",
+              "uid": "bf5c858fb570b77e9b68b4aa",
+              "px": 11561775.8,
+              "py": 4280962.84
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 270,
+              "y": -15,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": true,
+              "rc": true,
+              "slb": false,
+              "ln": "兰州市|轨道交通2号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "邮电大楼",
+              "lb": "邮电大楼",
+              "x": 255,
+              "y": -50,
+              "rx": -60,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "兰州市|轨道交通2号线",
+              "int": "2",
+              "uid": "f361a3aa454d7d64f72310bb",
+              "px": 11561256.54,
+              "py": 4281806.03
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 238,
+              "y": -88,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": true,
+              "rc": true,
+              "slb": false,
+              "ln": "兰州市|轨道交通2号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东方红广场",
+              "lb": "东方红广场",
+              "x": 210,
+              "y": -100,
+              "rx": -35,
+              "ry": 15,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "兰州市|轨道交通1号线,兰州市|轨道交通2号线",
+              "int": "2",
+              "px": 11560521.93,
+              "py": 4283355.3,
+              "uid": "ab913ba6e473f9212bb97c60"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "轨道交通2号线",
+          "lb": "2号线",
+          "slb": false,
+          "n": 20,
+          "loop": false,
+          "lbx": 310,
+          "lby": -180,
+          "lbr": 0,
+          "lc": "0xD93D34",
+          "uid": "6a2d0efa84dbe46ccd04ef07",
+          "uid2": "4957d583c6cf5836abf729bd"
+        }
+      }
+    ],
+    "sw_xmlattr": {
+      "cid": "兰州市",
+      "n": 1,
+      "c": "兰州",
+      "src": " ",
+      "bg": "bg_lanzhou",
+      "icon": "",
+      "version": "2f28fc7dba1e96fcc68589ce125a2e094410ec34d9e6c1a68100ca0ce033fb17"
+    }
+  }
+}
