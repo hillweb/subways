@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>SVG 平移缩放查看器</title>
+        <title>中国地铁路线图</title>
         <style>
             body {
                 margin: 0;
@@ -49,8 +49,8 @@
                 border-radius: 3px;
             }
         </style>
-        <script src="svg-pan-zoom.js"></script>
-        <script src="hammer.min.js"></script>
+        <script src="./js/svg-pan-zoom.js"></script>
+        <script src="./js/hammer.min.js"></script>
     </head>
 
     <body>
@@ -112,6 +112,10 @@
             const citySelect = document.getElementById('city-list');
             const cityList = [['北京市', 'beijing'], ['上海市', 'shanghai'], ['广州市', 'guangzhou'], ['深圳市', 'shenzhen'], ['重庆市', 'chongqing'], ['天津市', 'tianjin'], ['石家庄市', 'shijiazhuang'], ['南京市', 'nanjing'], ['南通市', 'nantong'], ['成都市', 'chengdu'], ['资阳市', 'ziyang'], ['沈阳市', 'shenyang'], ['杭州市', 'hangzhou'], ['武汉市', 'wuhan'], ['鄂州市', 'ezhou'], ['长沙市', 'changsha'], ['湘潭市', 'xiangtan'], ['苏州市', 'suzhou'], ['大连市', 'dalian'], ['长春市', 'changchun'], ['西安市', 'xian'], ['咸阳市', 'xianyang'], ['昆明 市', 'kunming'], ['佛山市', 'foshan'], ['哈尔滨市', 'haerbin'], ['郑州市', 'zhengzhou'], ['许昌市', 'xuchang'], ['宁波市', 'ningbo'], ['无锡市', 'wuxi'], ['温州市', 'wenzhou'], ['常州市', 'changzhou'], ['青岛市', 'qingdao'], ['清远市', 'qingyuan'], ['济南市', 'jinan'], ['南昌市', 'nanchang'], ['福州市', 'fuzhou'], ['东莞市', 'dongguan'], ['南宁市', 'nanning'], ['合肥市', 'hefei'], ['厦门市', 'xiamen'], ['乌鲁木齐市', 'wulumuqi'], ['贵阳市', 'guiyang'], ['兰州市', 'lanzhou'], ['徐州市', 'xuzhou'], ['呼和浩特市', 'huhehaote'], ['太原市', 'taiyuan'], ['金华市', 'jinhua'], ['洛阳市', 'luoyang'], ['绍兴市', 'shaoxing'], ['芜湖市', 'wuhu'], ['台州市', 'taizhou'], ['滁州市', 'chuzhou']];
             // === 城市列表 ===
+            const cityNames = {};
+            cityList.forEach(city => {
+                cityNames[city[1]] = city[0];
+            });
 
             // 城市列表
             cityList.forEach(city => {
@@ -249,6 +253,8 @@
             }
 
             function loadCity(cityName) {
+                document.title = cityNames[cityName] + '-地铁路线图';
+                let filename = `./svg/subways-${cityName}.svg`;
                 // 销毁旧实例
                 if (panZoomInstance) {
                     try {
@@ -256,16 +262,22 @@
                     } catch (e) { }
                     panZoomInstance = null;
                 }
-
-                fetch(`subways-${cityName}.svg`)
+                // 加载新 SVG 内容并初始化 panZoom 实例
+                // 确保在加载完成后执行，避免 svgElement 为空
+                // filename = '上海.svg.xml';
+                fetch(filename)
                     .then(res => res.text())
                     .then(svgText => {
                         document.getElementById('container').innerHTML = svgText;
                         const svgElement = document.querySelector('#container svg');
 
+                        /*-------------上海地铁测试-------------*/
+
+                        /*--------------------上海地铁测试----------------*/
+
                         // 修改svgElement的viewBox属性
                         svgElement.setAttribute('width', '100vw');
-                        // svgElement.setAttribute('height', '100vh');
+                        svgElement.setAttribute('height', '100vh');
 
                         // 添加路线标签列表
                         lineList.innerHTML = '';
