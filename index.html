@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>SVG 平移缩放查看器</title>
+        <style>
+            body {
+                margin: 0;
+                padding: 20px;
+                font-family: system-ui, -apple-system, sans-serif;
+                background: #f5f5f5;
+                overflow: hidden;
+            }
+
+            embed {
+                width: 100vw;
+                height: 100vh;
+            }
+
+            #city-list {
+                position: absolute;
+                top: 50px;
+                left: 50px;
+                width: 100px;
+                height: 20px;
+                z-index: 10;
+            }
+
+            #line-list {
+                position: absolute;
+                top: 100px;
+                left: 50px;
+                width: 100px;
+                display: flex;
+                flex-direction: column;
+                z-index: 10;
+                max-height: calc(100vh - 120px);
+                overflow-y: auto;
+            }
+
+            #line-list div {
+                flex: 0 0 auto;
+                margin: 2px 0;
+                padding: 5px 0;
+                font-size: 12px;
+                text-align: center;
+                border-radius: 3px;
+            }
+        </style>
+        <script src="svg-pan-zoom.js"></script>
+        <script src="hammer.min.js"></script>
+    </head>
+
+    <body>
+        <select id="city-list"></select>
+        <div id="line-list"></div>
+        <div id="container" style="width:100vw;height:100vh;"></div>
+        <script>
+            var eventsHandler = {
+                haltEventListeners: ['touchstart', 'touchend', 'touchmove', 'touchleave', 'touchcancel'],
+                init: function (options) {
+                    var instance = options.instance,
+                        initialScale = 1,
+                        pannedX = 0,
+                        pannedY = 0;
+                    this.hammer = Hammer(options.svgElement, {
+                        inputClass: Hammer.SUPPORT_POINTER_EVENTS ? Hammer.PointerEventInput : Hammer.TouchInput
+                    });
+                    this.hammer.get('pinch').set({
+                        enable: true
+                    });
+                    this.hammer.on('doubletap', function (ev) {
+                        instance.zoomIn();
+                    });
+                    this.hammer.on('panstart panmove', function (ev) {
+                        if (ev.type === 'panstart') {
+                            pannedX = 0;
+                            pannedY = 0;
+                        }
+                        instance.panBy({
+                            x: ev.deltaX - pannedX,
+                            y: ev.deltaY - pannedY
+                        });
+                        pannedX = ev.deltaX;
+                        pannedY = ev.deltaY;
+                    });
+                    this.hammer.on('pinchstart pinchmove', function (ev) {
+                        if (ev.type === 'pinchstart') {
+                            initialScale = instance.getZoom();
+                            instance.zoomAtPoint(initialScale * ev.scale, {
+                                x: ev.center.x,
+                                y: ev.center.y
+                            });
+                        }
+                        instance.zoomAtPoint(initialScale * ev.scale, {
+                            x: ev.center.x,
+                            y: ev.center.y
+                        });
+                    });
+                    options.svgElement.addEventListener('touchmove', function (e) {
+                        e.preventDefault();
+                    });
+                },
+                destroy: function () {
+                    this.hammer.destroy();
+                }
+            };
+
+            // === 城市列表 === 
+            const citySelect = document.getElementById('city-list');
+            const cityList = [['北京市', 'beijing'], ['上海市', 'shanghai'], ['广州市', 'guangzhou'], ['深圳市', 'shenzhen'], ['重庆市', 'chongqing'], ['天津市', 'tianjin'], ['石家庄市', 'shijiazhuang'], ['南京市', 'nanjing'], ['南通市', 'nantong'], ['成都市', 'chengdu'], ['资阳市', 'ziyang'], ['沈阳市', 'shenyang'], ['杭州市', 'hangzhou'], ['武汉市', 'wuhan'], ['鄂州市', 'ezhou'], ['长沙市', 'changsha'], ['湘潭市', 'xiangtan'], ['苏州市', 'suzhou'], ['大连市', 'dalian'], ['长春市', 'changchun'], ['西安市', 'xian'], ['咸阳市', 'xianyang'], ['昆明 市', 'kunming'], ['佛山市', 'foshan'], ['哈尔滨市', 'haerbin'], ['郑州市', 'zhengzhou'], ['许昌市', 'xuchang'], ['宁波市', 'ningbo'], ['无锡市', 'wuxi'], ['温州市', 'wenzhou'], ['常州市', 'changzhou'], ['青岛市', 'qingdao'], ['清远市', 'qingyuan'], ['济南市', 'jinan'], ['南昌市', 'nanchang'], ['福州市', 'fuzhou'], ['东莞市', 'dongguan'], ['南宁市', 'nanning'], ['合肥市', 'hefei'], ['厦门市', 'xiamen'], ['乌鲁木齐市', 'wulumuqi'], ['贵阳市', 'guiyang'], ['兰州市', 'lanzhou'], ['徐州市', 'xuzhou'], ['呼和浩特市', 'huhehaote'], ['太原市', 'taiyuan'], ['金华市', 'jinhua'], ['洛阳市', 'luoyang'], ['绍兴市', 'shaoxing'], ['芜湖市', 'wuhu'], ['台州市', 'taizhou'], ['滁州市', 'chuzhou']];
+            // === 城市列表 ===
+
+            // 城市列表
+            cityList.forEach(city => {
+                const option = document.createElement('option');
+                option.value = city[1];
+                option.text = city[0];
+                citySelect.appendChild(option);
+                if (city[1] === 'zhengzhou') {
+                    option.selected = true;
+                }
+            });
+            // === 城市列表 ===
+            const lineList = document.getElementById('line-list');
+            let panZoomInstance = null;
+
+            citySelect.addEventListener('change', function () {
+                const selectedCity = this.value;
+                console.log(selectedCity);
+                loadCity(selectedCity);
+            });
+            loadCity('zhengzhou');
+
+            /**
+             * 计算多条 path 的联合边界框
+             */
+            function getUnionBBox(paths) {
+                let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+                paths.forEach(p => {
+                    try {
+                        const bbox = p.getBBox();
+                        if (bbox.width === 0 && bbox.height === 0) return;
+                        minX = Math.min(minX, bbox.x);
+                        minY = Math.min(minY, bbox.y);
+                        maxX = Math.max(maxX, bbox.x + bbox.width);
+                        maxY = Math.max(maxY, bbox.y + bbox.height);
+                    } catch (e) {
+                        // getBBox 可能在某些情况下失败
+                    }
+                });
+                if (!isFinite(minX)) return null;
+                return {
+                    x: minX,
+                    y: minY,
+                    width: maxX - minX,
+                    height: maxY - minY
+                };
+            }
+
+            /**
+             * 将视图缩放并居中到指定线路的边界框
+             * @param {string} lineName - 线路 id（也作为 class）
+             * @param {number} [padding=0.15] - 相对 padding（0.15 = 四周各留约 15% 空间）
+             */
+            function centerOnLine(lineName, padding = 0.05) {
+                if (!panZoomInstance) return;
+
+                const svgElement = document.querySelector('#container svg');
+                if (!svgElement) return;
+
+                const selector = '.' + CSS.escape(lineName);
+                const paths = Array.from(svgElement.querySelectorAll(selector));
+                if (paths.length === 0) return;
+
+                const bb = getUnionBBox(paths);
+                if (!bb || bb.width <= 0 || bb.height <= 0) return;
+
+                // 添加相对 padding，让线路四周留白
+                const paddedW = bb.width * (1 + 2 * padding);
+                const paddedH = bb.height * (1 + 2 * padding);
+                const cx = bb.x + bb.width / 2;
+                const cy = bb.y + bb.height / 2;
+
+                const sizes = panZoomInstance.getSizes();
+                const vbb = sizes.viewBox;
+
+                // 目标相对缩放：保证 padded 区域完整显示在当前 viewport 内
+                // 以初始 fit 后的 viewBox 尺寸为基准
+                const zoomX = vbb.width / paddedW;
+                const zoomY = vbb.height / paddedH;
+                let targetZoom = Math.min(zoomX, zoomY);
+
+                // 限制在合理范围内，避免过度放大极短线段
+                targetZoom = Math.max(0.3, Math.min(targetZoom, 30));
+
+                // 更可靠的做法：
+                // 1. 先设置目标 zoom（相对初始 fit 状态）
+                // 2. 再根据新的 realZoom，计算绝对 pan，使线路中心对齐屏幕中心
+                panZoomInstance.zoom(targetZoom);
+
+                // zoom 后重新获取最新 sizes
+                const newSizes = panZoomInstance.getSizes();
+                const realZoom = newSizes.realZoom;
+                const viewWidth = newSizes.width;
+                const viewHeight = newSizes.height;
+
+                // 屏幕中心应对应到 SVG 坐标 (cx, cy)
+                // 变换关系大致为：screen = svg * realZoom + pan
+                // 因此：viewWidth/2 = cx * realZoom + panX  =>  panX = viewWidth/2 - cx * realZoom
+                const panX = viewWidth / 2 - cx * realZoom;
+                const panY = viewHeight / 2 - cy * realZoom;
+
+                panZoomInstance.pan({ x: panX, y: panY });
+            }
+
+            /**
+             * 高亮指定线路并居中显示
+             */
+            function highlightAndCenterLine(lineName) {
+                const svgElement = document.querySelector('#container svg');
+                if (!svgElement) return;
+
+                // 先把所有线路半透明
+                svgElement.querySelectorAll('.line').forEach(p => {
+                    p.setAttribute('fill-opacity', '0.1');
+                    p.setAttribute('stroke-opacity', '0.1');
+                });
+
+                // 高亮目标线路
+                const selector = '.' + CSS.escape(lineName);
+                svgElement.querySelectorAll(selector).forEach(p => {
+                    p.setAttribute('fill-opacity', '1');
+                    p.setAttribute('stroke-opacity', '1');
+                });
+
+                // 缩放并居中
+                // 稍微延迟，确保 opacity 更新后浏览器完成重绘（某些浏览器 getBBox 更稳定）
+                requestAnimationFrame(() => {
+                    centerOnLine(lineName);
+                });
+            }
+
+            function showline() {
+                const line_name = this.id;
+                highlightAndCenterLine(line_name);
+            }
+
+            function loadCity(cityName) {
+                // 销毁旧实例
+                if (panZoomInstance) {
+                    try {
+                        panZoomInstance.destroy();
+                    } catch (e) { }
+                    panZoomInstance = null;
+                }
+
+                fetch(`subways-${cityName}.svg`)
+                    .then(res => res.text())
+                    .then(svgText => {
+                        document.getElementById('container').innerHTML = svgText;
+                        const svgElement = document.querySelector('#container svg');
+
+                        // 修改svgElement的viewBox属性
+                        svgElement.setAttribute('width', '100vw');
+                        // svgElement.setAttribute('height', '100vh');
+
+                        // 添加路线标签列表
+                        lineList.innerHTML = '';
+                        let lineList_arr = [];
+                        svgElement.querySelectorAll('path.line').forEach(p => {
+                            if (!lineList_arr.includes(p.id.slice(5))) {
+                                lineList_arr.push(p.id.slice(5));
+                                p.setAttribute('style', 'cursor: pointer;');
+                                var lineItem = document.createElement('div');
+                                lineItem.id = p.id;
+                                lineItem.setAttribute('style', 'cursor: pointer;color:#fff;background: ' + p.getAttribute('stroke') + ';');
+                                lineList.appendChild(lineItem);
+                                lineItem.textContent = p.id.slice(5);
+                                lineItem.addEventListener('click', showline);
+                            }
+                        });
+
+                        // 添加右键点击事件：恢复全部线路显示
+                        svgElement.addEventListener('contextmenu', function (e) {
+                            e.preventDefault();
+                            svgElement.querySelectorAll('.line').forEach(p => {
+                                p.setAttribute('fill-opacity', '1');
+                                p.setAttribute('stroke-opacity', '1');
+                            });
+                            // 可选：恢复到全图视图
+                            if (panZoomInstance) {
+                                panZoomInstance.fit();
+                                panZoomInstance.center();
+                            }
+                        });
+
+                        // 点击线路路径高亮并居中
+                        svgElement.addEventListener('click', function (e) {
+                            let line_tag = e.target.tagName;
+                            if (line_tag === 'path' && e.target.classList.contains('line')) {
+                                let line_name = e.target.id;
+                                if (line_name) {
+                                    highlightAndCenterLine(line_name);
+                                }
+                            }
+                        });
+
+                        panZoomInstance = svgPanZoom(svgElement, {
+                            zoomEnabled: true,
+                            controlIconsEnabled: true,
+                            fit: true,
+                            center: true,
+                            zoomScaleSensitivity: 0.5,
+                            dblClickZoomEnabled: true,
+                            customEventsHandler: eventsHandler
+                        });
+                    });
+            }
+
+        </script>
+    </body>
+
+</html>

@@ -1,0 +1,11 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="365" viewBox="-100 -100 830 430" >
+    <defs> 
+        <g id="change">
+        <circle cx="5" cy="5" r="5" fill="#fff" stroke="#393" stroke-width="1.2"></circle>
+        <path fill='#393' d='M 3.46,3.28 C 2.39,4.48 2.21,5.9 3.46,7.37 L 2.83,7.86 L 5.14,8.51 L 4.86,6.28 L 4.19,6.82 C 3.1,5.6 3.27,4.96 4.32,3.61 L 3.46,3.28 M 6.53,6.76 C 7.6,5.56 7.79,4.14 6.53,2.67 L 7.17,2.18 L 4.85,1.52 L 5.13,3.76 L 5.8,3.21 C 6.89,4.44 6.72,5.08 5.67,6.43 L 6.53,6.76'/>
+        </g>
+    </defs> 
+<g id="lines"><path id="line-地铁S3线" class="line line-地铁S3线" fill="none" stroke="#979797" stroke-width="6" d="M0 35L200 165L300 230L410 230L520 230L630 230"/></g>
+<g id="stations"><rect class="line line-地铁S3线" x="343" y="80" width="49" height="20" fill="#979797" font-size="14"/><text class="line line-地铁S3线" x="350" y="96" fill="#fff" font-size="14">S3线</text><text id="station-福田" class="line line-地铁S3线" x="-10" y="60" fill="#000" font-size="14">福田</text><text id="station-资阳临空" class="line line-地铁S3线" x="135" y="172" fill="#000" font-size="14">资阳临空</text><text id="station-幸福大道" class="line line-地铁S3线" x="285" y="252" fill="#000" font-size="14">幸福大道</text><text id="station-苌弘广场" class="line line-地铁S3线" x="380" y="252" fill="#000" font-size="14">苌弘广场</text><text id="station-宝台" class="line line-地铁S3线" x="505" y="252" fill="#000" font-size="14">宝台</text><text id="station-资阳北站" class="line line-地铁S3线" x="600" y="252" fill="#000" font-size="14">资阳北站</text><circle class="line line-地铁S3线" cx="0" cy="35" r="4" fill="#fff" stroke="#979797" stroke-width="1"/><circle class="line line-地铁S3线" cx="200" cy="165" r="4" fill="#fff" stroke="#979797" stroke-width="1"/><circle class="line line-地铁S3线" cx="300" cy="230" r="4" fill="#fff" stroke="#979797" stroke-width="1"/><circle class="line line-地铁S3线" cx="410" cy="230" r="4" fill="#fff" stroke="#979797" stroke-width="1"/><circle class="line line-地铁S3线" cx="520" cy="230" r="4" fill="#fff" stroke="#979797" stroke-width="1"/><circle class="line line-地铁S3线" cx="630" cy="230" r="4" fill="#fff" stroke="#979797" stroke-width="1"/><use id="station-福田" class="line line-地铁S3线" href="#change" x="-5" y="30"/></g>
+</svg>

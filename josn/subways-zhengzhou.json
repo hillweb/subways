@@ -1,0 +1,7202 @@
+{
+  "result": {
+    "type": 920,
+    "error": 0
+  },
+  "subways": {
+    "l": [
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "河南工业大学",
+              "lb": "河南工业大学",
+              "x": -570,
+              "y": -500,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12640317.87,
+              "py": 4116581.64,
+              "uid": "f235db2f54efea3bf942b28b"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑大科技园",
+              "lb": "郑大科技园",
+              "x": -570,
+              "y": -400,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12640267.8,
+              "py": 4115257.86,
+              "uid": "4394c00bdae81b0c97ec8440"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑州大学",
+              "lb": "郑州大学",
+              "x": -570,
+              "y": -310,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12640225.75,
+              "py": 4114004.11,
+              "uid": "76f8fe3428c33da8932ca334"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "梧桐街",
+              "lb": "梧桐街",
+              "x": -570,
+              "y": -210,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12640185.96,
+              "py": 4112164.73,
+              "uid": "f6d2f3bb53eb3c0e63180919"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "兰寨",
+              "lb": "兰寨",
+              "x": -570,
+              "y": -100,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12640184.87,
+              "py": 4110735.1,
+              "uid": "d8da9907a4dbaaabda2f284e"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "铁炉",
+              "lb": "铁炉",
+              "x": -570,
+              "y": 10,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线,郑州市|地铁14号线",
+              "int": "2",
+              "px": 12640168.51,
+              "py": 4108628.65,
+              "uid": "fea7f59acf82bcbd15a19098"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -570,
+              "y": 130,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -564,
+              "y": 144,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -550,
+              "y": 150,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市民中心",
+              "lb": "市民中心",
+              "x": -510,
+              "y": 150,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12641583.27,
+              "py": 4107809.73,
+              "uid": "9f20db5531fceb9509a8d423"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西流湖",
+              "lb": "西流湖",
+              "x": -410,
+              "y": 150,
+              "rx": -19.8,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12643452.76,
+              "py": 4107666.38,
+              "uid": "08ccc2bba620856c3310af72"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西三环",
+              "lb": "西三环",
+              "x": -310,
+              "y": 150,
+              "rx": -17.1,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12645469.64,
+              "py": 4107430.01,
+              "uid": "d2d0e6cc8ab99168ebe58290"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "秦岭路",
+              "lb": "秦岭路",
+              "x": -210,
+              "y": 150,
+              "rx": -17.1,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12647137.29,
+              "py": 4107094.51,
+              "uid": "f50ed280570910b335b06c0a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "五一公园·市中医院",
+              "lb": "五一公园·市中医院",
+              "x": -110,
+              "y": 150,
+              "rx": 10,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线,郑州市|地铁5号线",
+              "int": "2",
+              "px": 12648228.74,
+              "py": 4106985.16,
+              "uid": "75fa3b99cb35eba3f8f0cbf7"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -50,
+              "y": 150,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -40,
+              "y": 153,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -30,
+              "y": 160,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "碧沙岗",
+              "lb": "碧沙岗",
+              "x": -20,
+              "y": 170,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12649471.32,
+              "py": 4106898.47,
+              "uid": "e60d9c577cad55b92afc48c5"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "绿城广场",
+              "lb": "绿城广场",
+              "x": 70,
+              "y": 260,
+              "rx": -30,
+              "ry": 15,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线,郑州市|地铁10号线",
+              "int": "2",
+              "px": 12650271.99,
+              "py": 4105897.17,
+              "uid": "85a6c17893fbcba0471a3227"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "医学院",
+              "lb": "医学院",
+              "x": 170,
+              "y": 260,
+              "rx": 10,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线,郑州市|地铁10号线",
+              "int": "2",
+              "px": 12651463.48,
+              "py": 4105904.49,
+              "uid": "80a2051a2392311aa3d2306c"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑州火车站",
+              "lb": "郑州火车站",
+              "x": 270,
+              "y": 260,
+              "rx": -40,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线,郑州市|地铁10号线",
+              "int": "2",
+              "px": 12652970.03,
+              "py": 4105746.22,
+              "uid": "57cf840bf9fddc31f703b875"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 280,
+              "y": 257,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 290,
+              "y": 250,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "二七广场",
+              "lb": "二七广场",
+              "x": 330,
+              "y": 170,
+              "rx": -65,
+              "ry": -8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线,郑州市|地铁3号线",
+              "int": "2",
+              "px": 12654088.45,
+              "py": 4106534.61,
+              "uid": "5098f919cc3a3c5a93114cc4"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "人民路·河南中医一附院",
+              "lb": "人民路·河南中医一附院",
+              "x": 370,
+              "y": 90,
+              "rx": 10,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12654965.98,
+              "py": 4107177.34,
+              "uid": "63e0e24df72ac3bc220220cc"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 380,
+              "y": 70,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 390,
+              "y": 63,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 400,
+              "y": 60,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "紫荆山",
+              "lb": "紫荆山",
+              "x": 480,
+              "y": 60,
+              "rx": 10,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线,郑州市|地铁2号线",
+              "int": "2",
+              "px": 12655922.14,
+              "py": 4107809.88,
+              "uid": "c21bfce484c41e29b23c818b"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "燕庄",
+              "lb": "燕庄",
+              "x": 680,
+              "y": 60,
+              "rx": -35,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12658276.75,
+              "py": 4107922.7,
+              "uid": "b853220b746745511df74de1"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "民航路",
+              "lb": "民航路",
+              "x": 760,
+              "y": 60,
+              "rx": -19.7,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12659656.53,
+              "py": 4108029.86,
+              "uid": "7f68f3da0d9d379825e0a02a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "会展中心",
+              "lb": "会展中心",
+              "x": 840,
+              "y": 60,
+              "rx": 10,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线,郑州市|地铁4号线",
+              "int": "2",
+              "px": 12660724.54,
+              "py": 4108393.9,
+              "uid": "33bc8ebe2418c9b61b11d5f1"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "黄河南路",
+              "lb": "黄河南路",
+              "x": 980,
+              "y": 60,
+              "rx": 15,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线,郑州市|地铁12号线",
+              "int": "2",
+              "px": 12662831.23,
+              "py": 4107947.24,
+              "uid": "7cd0d8a8b4a5add06340a9c7"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "农业南路",
+              "lb": "农业南路",
+              "x": 1120,
+              "y": 60,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12664033.34,
+              "py": 4108305.28,
+              "uid": "6bb74d7acecf95380e0a7056"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东风南路",
+              "lb": "东风南路",
+              "x": 1220,
+              "y": 60,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12665346.66,
+              "py": 4108185.97,
+              "uid": "f02946586beee0632811d173"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑州东站",
+              "lb": "郑州东站",
+              "x": 1320,
+              "y": 60,
+              "rx": -55,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线,郑州市|地铁5号线",
+              "int": "2",
+              "px": 12666634.48,
+              "py": 4107448.63,
+              "uid": "b949dd180bda081a970319cd"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "博学路",
+              "lb": "博学路",
+              "x": 1420,
+              "y": 60,
+              "rx": -20,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12668187.48,
+              "py": 4107513.34,
+              "uid": "43b34b82812d94ba87154192"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1500,
+              "y": 60,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1514,
+              "y": 54,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1520,
+              "y": 40,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市体育中心",
+              "lb": "市体育中心",
+              "x": 1520,
+              "y": -40,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12670192.45,
+              "py": 4109238.49,
+              "uid": "47dcb3b6694b7e1dd42ce23f"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙子湖",
+              "lb": "龙子湖",
+              "x": 1520,
+              "y": -200,
+              "rx": 10,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线,郑州市|地铁12号线",
+              "int": "2",
+              "px": 12670199.87,
+              "py": 4111915.93,
+              "uid": "5ad9d6195b038e260f0a7092"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "文苑北路",
+              "lb": "文苑北路",
+              "x": 1520,
+              "y": -310,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "px": 12670391.7,
+              "py": 4114061.59,
+              "uid": "a8c73a0cbffae0220482c297"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "河南大学新区",
+              "lb": "河南大学新区",
+              "x": 1520,
+              "y": -420,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "uid": "647c946d1bf499c91911d55d",
+              "px": 12670456.79,
+              "py": 4115678.81
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁1号线",
+          "lb": "1号线",
+          "slb": false,
+          "n": 20,
+          "loop": false,
+          "lbx": -570,
+          "lby": -530,
+          "lbr": 0,
+          "lc": "0xDF4148",
+          "uid": "408c81aa76e25a3fadb22a80",
+          "uid2": "fb89b6a1d8ada2e0c72ba1a9"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "贾河",
+              "lb": "贾河",
+              "x": -120,
+              "y": -810,
+              "rx": -15,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12645989.43,
+              "py": 4121959.17,
+              "uid": "44a19c08bf9d035388db7391"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "惠济区政府·市三院惠济院区",
+              "lb": "惠济区政府·市三院惠济院区",
+              "x": 10,
+              "y": -810,
+              "rx": -80,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12648126.88,
+              "py": 4121853.72,
+              "uid": "40dee378bd87f4fa2b3a9fe2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "毛庄",
+              "lb": "毛庄",
+              "x": 140,
+              "y": -810,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12649685.45,
+              "py": 4121951.04,
+              "uid": "a874adc24e41b58938e4a6e6"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "黄河迎宾馆",
+              "lb": "黄河迎宾馆",
+              "x": 300,
+              "y": -810,
+              "rx": 6,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12651574,
+              "py": 4122043.56,
+              "uid": "98e42065864592a0eddfca14"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "金洼",
+              "lb": "金洼",
+              "x": 400,
+              "y": -810,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12653738.5,
+              "py": 4121992.08,
+              "uid": "618f41aeba28bbd8e5e96520"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "金达路",
+              "lb": "金达路",
+              "x": 480,
+              "y": -730,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12655528.32,
+              "py": 4121353.5,
+              "uid": "b843efbb22447bab7adbd2c5"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "刘庄",
+              "lb": "刘庄",
+              "x": 480,
+              "y": -560,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12655561.42,
+              "py": 4118843.45,
+              "uid": "3f246d27f695c092a80dd87e"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "柳林",
+              "lb": "柳林",
+              "x": 480,
+              "y": -490,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12655806.82,
+              "py": 4116755.97,
+              "uid": "c7a7201adf9bafdfd0ff2375"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "沙门",
+              "lb": "沙门",
+              "x": 480,
+              "y": -440,
+              "rx": 0,
+              "ry": 3,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线,郑州市|地铁4号线",
+              "int": "2",
+              "px": 12655851.82,
+              "py": 4115536.97,
+              "uid": "380bdaa3ca9e8101c51b7504"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "北三环",
+              "lb": "北三环",
+              "x": 480,
+              "y": -340,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12655831.86,
+              "py": 4113598.04,
+              "uid": "06082954e94add2bf80cad15"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东风路",
+              "lb": "东风路",
+              "x": 480,
+              "y": -270,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12655848.68,
+              "py": 4112356.72,
+              "uid": "f8fdf573ac146e99e5073835"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "关虎屯",
+              "lb": "关虎屯",
+              "x": 480,
+              "y": -200,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12655853.34,
+              "py": 4111418.63,
+              "uid": "4bbda3082a05a1741894c634"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "黄河路",
+              "lb": "黄河路",
+              "x": 480,
+              "y": -100,
+              "rx": 0,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线,郑州市|地铁5号线",
+              "int": "2",
+              "px": 12655895.29,
+              "py": 4109422.9,
+              "uid": "c4d075db209e8fbbd9ecede7"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "紫荆山",
+              "lb": "紫荆山",
+              "x": 480,
+              "y": 60,
+              "rx": 10,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁1号线,郑州市|地铁2号线",
+              "int": "2",
+              "px": 12655915.74,
+              "py": 4107764.29,
+              "uid": "32ab5657ac72b68a843304a0"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东大街·市第一人民医院",
+              "lb": "东大街·市第一人民医院",
+              "x": 480,
+              "y": 170,
+              "rx": 5,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线,郑州市|地铁3号线",
+              "int": "2",
+              "px": 12655893.75,
+              "py": 4105840.7,
+              "uid": "1ba2ab87fb1ceef6acee7ac0"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "陇海东路",
+              "lb": "陇海东路",
+              "x": 480,
+              "y": 310,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12655894.9,
+              "py": 4104583.06,
+              "uid": "8825bf9a711592a842d63e17"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "二里岗",
+              "lb": "二里岗",
+              "x": 480,
+              "y": 400,
+              "rx": 5,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12655888.53,
+              "py": 4103370.03,
+              "uid": "7d5ee4ced1238340c356ac3b"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南五里堡",
+              "lb": "南五里堡",
+              "x": 480,
+              "y": 510,
+              "rx": 5,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线,郑州市|地铁5号线",
+              "int": "2",
+              "px": 12655806.86,
+              "py": 4102177,
+              "uid": "20e477988280b12aca09f096"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "花寨",
+              "lb": "花寨",
+              "x": 480,
+              "y": 590,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12655923.06,
+              "py": 4100209.61,
+              "uid": "53ca0a9d7a3498e8acee7a15"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南三环",
+              "lb": "南三环",
+              "x": 480,
+              "y": 670,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12655927.47,
+              "py": 4099273.57,
+              "uid": "28f73088fba258857069d39a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "站马屯",
+              "lb": "站马屯",
+              "x": 480,
+              "y": 750,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "px": 12655937.9,
+              "py": 4097316.02,
+              "uid": "30f9f2c15f0f3fde770269e5"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南四环",
+              "lb": "南四环",
+              "x": 480,
+              "y": 830,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线,郑州市|地铁9号线",
+              "int": "2",
+              "px": 12655872.65,
+              "py": 4094390.44,
+              "uid": "5ea707e298127df3ca291591"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁2号线",
+          "lb": "2号线",
+          "slb": false,
+          "n": 16,
+          "loop": false,
+          "lbx": -180,
+          "lby": -810,
+          "lbr": 0,
+          "lc": "0xF9F57D",
+          "uid": "d625e6daf91a65e78e772714",
+          "uid2": "6c22dc4912a7e738c91b95c2"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "省体育中心",
+              "lb": "省体育中心",
+              "x": -110,
+              "y": -500,
+              "rx": -35,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁4号线,郑州市|地铁3号线",
+              "int": "2",
+              "uid": "e2453d56f4bc6f98a8f72910",
+              "px": 12649654.88,
+              "py": 4117396.03
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "王砦",
+              "lb": "王砦",
+              "x": -110,
+              "y": -430,
+              "rx": 8,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "7bda171bf008159d7bf79694",
+              "px": 12649631.51,
+              "py": 4115628.22
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "兴隆铺",
+              "lb": "兴隆铺",
+              "x": -110,
+              "y": -360,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "7ec893c625606f1a2eb90873",
+              "px": 12649862.29,
+              "py": 4113896.91
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "同乐",
+              "lb": "同乐",
+              "x": -110,
+              "y": -270,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "3ddeec8e22583d25f4eafc5b",
+              "px": 12650708.61,
+              "py": 4112366.75
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南阳新村",
+              "lb": "南阳新村",
+              "x": -40,
+              "y": -200,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "a53c8f8dc8e0de82354aae36",
+              "px": 12651444.76,
+              "py": 4111054.56
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "海滩寺",
+              "lb": "海滩寺",
+              "x": 58,
+              "y": -100,
+              "rx": 0,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁5号线,郑州市|地铁3号线",
+              "int": "2",
+              "uid": "54a0cd68444ff42be9e582c8",
+              "px": 12652226.67,
+              "py": 4109611.21
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大石桥·市妇幼保健院",
+              "lb": "大石桥·市妇幼保健院",
+              "x": 230,
+              "y": 70,
+              "rx": 10,
+              "ry": -5,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "4bf2d822baf20deec4f025b8",
+              "px": 12652947.26,
+              "py": 4108242.62
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "人民公园",
+              "lb": "人民公园",
+              "x": 260,
+              "y": 100,
+              "rx": 10,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "8f46731472f5d9ab4002451d",
+              "px": 12653428.95,
+              "py": 4107347.79
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "二七广场",
+              "lb": "二七广场",
+              "x": 330,
+              "y": 170,
+              "rx": -65,
+              "ry": -8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁3号线,郑州市|地铁1号线",
+              "int": "2",
+              "uid": "022d9833170781a3b54f54e4",
+              "px": 12653904.26,
+              "py": 4106558.85
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西大街",
+              "lb": "西大街",
+              "x": 440,
+              "y": 170,
+              "rx": -30,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "1a894537e00741f8100daa68",
+              "px": 12655304.38,
+              "py": 4106217.32
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东大街·市第一人民医院",
+              "lb": "东大街·市第一人民医院",
+              "x": 480,
+              "y": 170,
+              "rx": 5,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁2号线,郑州市|地铁3号线",
+              "int": "2",
+              "uid": "836b5b6f7179dd852a02e192",
+              "px": 12656056.44,
+              "py": 4105986.48
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑州文庙",
+              "lb": "郑州文庙",
+              "x": 580,
+              "y": 170,
+              "rx": -18,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "36c4fed88300704ef7b9163c",
+              "px": 12656952.73,
+              "py": 4105731.13
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "博览中心",
+              "lb": "博览中心",
+              "x": 680,
+              "y": 170,
+              "rx": 6,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "7099cda828d87bc69e09f778",
+              "px": 12658349.99,
+              "py": 4105720.51
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "凤凰台",
+              "lb": "凤凰台",
+              "x": 780,
+              "y": 170,
+              "rx": -18,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "08e7721a435059298d77271e",
+              "px": 12659282.51,
+              "py": 4105736.27
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东十里铺",
+              "lb": "东十里铺",
+              "x": 840,
+              "y": 170,
+              "rx": 3,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "a1d76696c934a7ca95ca0772",
+              "px": 12660696.5,
+              "py": 4105755.69
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "通泰路",
+              "lb": "通泰路",
+              "x": 930,
+              "y": 170,
+              "rx": -18,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "b81f5475d3e32fadbb17e785",
+              "px": 12661594.02,
+              "py": 4105909.6
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西周",
+              "lb": "西周",
+              "x": 980,
+              "y": 170,
+              "rx": 5,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线,郑州市|地铁12号线",
+              "int": "2",
+              "uid": "7c39e80705e28def5fbe869f",
+              "px": 12663104.91,
+              "py": 4105939.59
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东周",
+              "lb": "东周",
+              "x": 1080,
+              "y": 170,
+              "rx": -18,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "09a3fac47ba19e86abf72962",
+              "px": 12664365.28,
+              "py": 4105757.26
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "省骨科医院",
+              "lb": "省骨科医院",
+              "x": 1320,
+              "y": 170,
+              "rx": 5,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁5号线,郑州市|地铁3号线",
+              "int": "2",
+              "uid": "53e260f1c95f50a9bbbd6373",
+              "px": 12665980.96,
+              "py": 4105490.71
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "圃田西",
+              "lb": "圃田西",
+              "x": 1510,
+              "y": 170,
+              "rx": 8,
+              "ry": 3,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "a2dc674329e151e2fd0eb082",
+              "px": 12668308.05,
+              "py": 4105089.51
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "营岗",
+              "lb": "营岗",
+              "x": 1510,
+              "y": 370,
+              "rx": 8,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "9b68c003bf287ea9f7e73b3e",
+              "px": 12669278.96,
+              "py": 4102231.62
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "潮河",
+              "lb": "潮河",
+              "x": 1510,
+              "y": 460,
+              "rx": 8,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "b64f3e6ba42bcde42cb90841",
+              "px": 12668485.85,
+              "py": 4098827.01
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "滨河新城",
+              "lb": "滨河新城",
+              "x": 1510,
+              "y": 550,
+              "rx": 8,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "0a5316be9e59720bcc06a401",
+              "px": 12668485.01,
+              "py": 4097798.01
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "司赵·市七院滨河院区",
+              "lb": "司赵·市七院滨河院区",
+              "x": 1510,
+              "y": 640,
+              "rx": 8,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "f2c228e651e1d1b22e473319",
+              "px": 12668491.95,
+              "py": 4096331.47
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "滨河新城南",
+              "lb": "滨河新城南",
+              "x": 1510,
+              "y": 730,
+              "rx": 8,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "9c5a02de051f5b89f8dc852c",
+              "px": 12668480.4,
+              "py": 4095107.9
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁3号线",
+          "lb": "3号线",
+          "slb": false,
+          "n": 0,
+          "loop": false,
+          "lbx": 1510,
+          "lby": 770,
+          "lbr": 0,
+          "lc": "0xF4AF77",
+          "uid": "c8fe069e7d066735bbbd63bc",
+          "uid2": "9af914903078e86a26e0a003"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "老鸦陈",
+              "lb": "老鸦陈",
+              "x": -250,
+              "y": -500,
+              "rx": -25,
+              "ry": -18,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "3c7ddf01eac34eb6d4851f67",
+              "px": 12648687.96,
+              "py": 4117377.15
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "省体育中心",
+              "lb": "省体育中心",
+              "x": -110,
+              "y": -500,
+              "rx": -35,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线,郑州市|地铁3号线",
+              "int": "2",
+              "uid": "73c3703cbdc3db9cc71e51e6",
+              "px": 12649658.72,
+              "py": 4117345.06
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "北二十里铺",
+              "lb": "北二十里铺",
+              "x": 100,
+              "y": -500,
+              "rx": -35,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "7958522767b28eefcae33cf0",
+              "px": 12651304.17,
+              "py": 4117137.13
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "丰庆路",
+              "lb": "丰庆路",
+              "x": 200,
+              "y": -500,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "1cdbd96b249566235af6be48",
+              "px": 12652816.07,
+              "py": 4116978.01
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "张家村",
+              "lb": "张家村",
+              "x": 300,
+              "y": -470,
+              "rx": -60,
+              "ry": -8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "63202ebd752c3949ae080fa7",
+              "px": 12653540.46,
+              "py": 4116220.62
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "陈寨东",
+              "lb": "陈寨东",
+              "x": 400,
+              "y": -440,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "cd4ad9e438cae8f8354aaef0",
+              "px": 12654581.58,
+              "py": 4115578.72
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "沙门",
+              "lb": "沙门",
+              "x": 480,
+              "y": -440,
+              "rx": 0,
+              "ry": 3,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁2号线,郑州市|地铁4号线",
+              "int": "2",
+              "uid": "c7f058c3b9c6a5327169d38c",
+              "px": 12656016.92,
+              "py": 4115528.64
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "杨君刘",
+              "lb": "杨君刘",
+              "x": 560,
+              "y": -440,
+              "rx": -18,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "5aa91b2d0f59710b01294f5a",
+              "px": 12657704.62,
+              "py": 4115521.7
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "森林公园北",
+              "lb": "森林公园北",
+              "x": 580,
+              "y": -460,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "05e88e851537543676e5b604",
+              "px": 12658325.35,
+              "py": 4116406.17
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 590,
+              "y": -470,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 600,
+              "y": -477,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 610,
+              "y": -480,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "清华附中",
+              "lb": "清华附中",
+              "x": 680,
+              "y": -480,
+              "rx": -28,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "60377a891a3264e6b7147f41",
+              "px": 12659437.72,
+              "py": 4116883.59
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 860,
+              "y": -480,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 870,
+              "y": -477,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙湖中环北",
+              "lb": "龙湖中环北",
+              "x": 880,
+              "y": -470,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "6aea0372059069b0882fb596",
+              "px": 12660843.57,
+              "py": 4116896.35
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙湖北",
+              "lb": "龙湖北",
+              "x": 900,
+              "y": -430,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "271168c3ae8355ecbfa8222e",
+              "px": 12661693.89,
+              "py": 4116245.64
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "金融岛北",
+              "lb": "金融岛北",
+              "x": 900,
+              "y": -390,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "eff948f136cd4aa3b35c6ad1",
+              "px": 12661793.08,
+              "py": 4115144.81
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "金融岛南",
+              "lb": "金融岛南",
+              "x": 900,
+              "y": -350,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "5acacdf4b69be8895d0d023c",
+              "px": 12662018.63,
+              "py": 4114212.06
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙湖南",
+              "lb": "龙湖南",
+              "x": 900,
+              "y": -310,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "535d3524ebeaadae9d9d6876",
+              "px": 12662124.18,
+              "py": 4113350.42
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙湖中环南",
+              "lb": "龙湖中环南",
+              "x": 900,
+              "y": -270,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "44420db75def71a76fc02c19",
+              "px": 12662078.13,
+              "py": 4111734.64
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "农业东路",
+              "lb": "农业东路",
+              "x": 900,
+              "y": -200,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "94ed899934d72c72705e804b",
+              "px": 12661732.88,
+              "py": 4110755.29
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "中央商务区",
+              "lb": "中央商务区",
+              "x": 840,
+              "y": -100,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁5号线,郑州市|地铁4号线",
+              "int": "2",
+              "uid": "f4445da357184ee0853304bb",
+              "px": 12661156.16,
+              "py": 4109959.82
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "会展中心",
+              "lb": "会展中心",
+              "x": 840,
+              "y": 60,
+              "rx": 10,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁1号线,郑州市|地铁4号线",
+              "int": "2",
+              "uid": "e7b5d0f636f53eb30c0a709d",
+              "px": 12660788.78,
+              "py": 4108560.05
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "商鼎路",
+              "lb": "商鼎路",
+              "x": 840,
+              "y": 110,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "cf8ebae000fd1a142afc489c",
+              "px": 12660881.84,
+              "py": 4106837.41
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东十里铺",
+              "lb": "东十里铺",
+              "x": 840,
+              "y": 170,
+              "rx": 3,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "4591c21cca059d09ab0dd8ac",
+              "px": 12660844.73,
+              "py": 4105833.49
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "货站街",
+              "lb": "货站街",
+              "x": 840,
+              "y": 270,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "f07df645eb3c052294ec84a7",
+              "px": 12660826.58,
+              "py": 4104964.55
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "七里河",
+              "lb": "七里河",
+              "x": 840,
+              "y": 510,
+              "rx": 5,
+              "ry": -15,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁4号线,郑州市|地铁5号线",
+              "int": "2",
+              "uid": "41e55983060d1da98f55ec6d",
+              "px": 12660341.86,
+              "py": 4102196.21
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "果树所",
+              "lb": "果树所",
+              "x": 840,
+              "y": 590,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "97a76eb85335f16b7ec8764c",
+              "px": 12660348.6,
+              "py": 4101039.93
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "金岱",
+              "lb": "金岱",
+              "x": 840,
+              "y": 690,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "baed62567abfc5ff2cb96dc9",
+              "px": 12660873.95,
+              "py": 4099543.01
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "姚庄",
+              "lb": "姚庄",
+              "x": 880,
+              "y": 790,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "d35699e6ce0309ca03294fb5",
+              "px": 12661668.96,
+              "py": 4098195.69
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郎庄",
+              "lb": "郎庄",
+              "x": 920,
+              "y": 890,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "251a0b3e94334548220220a7",
+              "px": 12662173.47,
+              "py": 4097442.65
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁4号线",
+          "lb": "4号线",
+          "slb": false,
+          "n": 0,
+          "loop": false,
+          "lbx": -280,
+          "lby": -480,
+          "lbr": 0,
+          "lc": "0x54B9E9",
+          "uid": "64c82b2d2c512dd131f71df1",
+          "uid2": "75336f46634a716dd2f49e10"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "月季公园",
+              "lb": "月季公园",
+              "x": -110,
+              "y": -60,
+              "rx": -62,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "f15a8417bf81a4e597ec8407",
+              "px": 12649294.16,
+              "py": 4108323.82
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "五一公园·市中医院",
+              "lb": "五一公园·市中医院",
+              "x": -110,
+              "y": 150,
+              "rx": 10,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁1号线,郑州市|地铁5号线",
+              "int": "2",
+              "px": 12648258.09,
+              "py": 4106998.3,
+              "uid": "39c9f9a9d6218db0fb221370"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市中心医院",
+              "lb": "市中心医院",
+              "x": -110,
+              "y": 265,
+              "rx": 8,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线,郑州市|地铁10号线",
+              "int": "2",
+              "uid": "36b9e1f2ac115859dbd89112",
+              "px": 12648286.73,
+              "py": 4105776.25
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "陇海西路",
+              "lb": "陇海西路",
+              "x": -110,
+              "y": 330,
+              "rx": -60,
+              "ry": 0,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "be23001aac422f6af33cba23",
+              "px": 12648286.7,
+              "py": 4104357.25
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "桐淮",
+              "lb": "桐淮",
+              "x": -110,
+              "y": 400,
+              "rx": 10,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "07b7987f52265aa9fea77879",
+              "px": 12648271.18,
+              "py": 4103327.1
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -110,
+              "y": 490,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -104,
+              "y": 504,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -90,
+              "y": 510,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "后河芦·市第八人民医院",
+              "lb": "后河芦·市第八人民医院",
+              "x": -90,
+              "y": 510,
+              "rx": -45,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "63d6f6dbb1da1319d3ff23c4",
+              "px": 12648923.81,
+              "py": 4102244.02
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "齐礼阎",
+              "lb": "齐礼阎",
+              "x": 40,
+              "y": 510,
+              "rx": -25,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "95bfb265ec483b5c87330473",
+              "px": 12649908.7,
+              "py": 4102207.09
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市第二人民医院·儿童医院南院区",
+              "lb": "市第二人民医院·儿童医院南院区",
+              "x": 170,
+              "y": 510,
+              "rx": 6,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "9f5c07f820c5e577081cc7a7",
+              "px": 12651657.98,
+              "py": 4102259.74
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "京广南路·市第六人民医院",
+              "lb": "京广南路·市第六人民医院",
+              "x": 330,
+              "y": 510,
+              "rx": -45,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "90d7176b6aa727baeddfca0d",
+              "px": 12653112.69,
+              "py": 4102221.86
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "冯庄",
+              "lb": "冯庄",
+              "x": 410,
+              "y": 510,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "e3aefb5c2f2a13044d5547b5",
+              "px": 12654361.24,
+              "py": 4102203.19
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南五里堡",
+              "lb": "南五里堡",
+              "x": 480,
+              "y": 510,
+              "rx": 5,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁2号线,郑州市|地铁5号线",
+              "int": "2",
+              "px": 12655975.65,
+              "py": 4102186.37,
+              "uid": "35a73b4e51960a42fa42b2da"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "城东南路",
+              "lb": "城东南路",
+              "x": 600,
+              "y": 510,
+              "rx": -25,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "270b3331c9f409c425d2bbad",
+              "px": 12656834.9,
+              "py": 4102217.57
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "航海广场",
+              "lb": "航海广场",
+              "x": 720,
+              "y": 510,
+              "rx": -25,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "800e8b418aa7e3dff503b8e9",
+              "px": 12658579.71,
+              "py": 4102223.83
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "七里河",
+              "lb": "七里河",
+              "x": 840,
+              "y": 510,
+              "rx": 5,
+              "ry": -15,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线,郑州市|地铁4号线",
+              "int": "2",
+              "uid": "f229741c677adc8738221cd4",
+              "px": 12660398.38,
+              "py": 4102251.93
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "中原福塔",
+              "lb": "中原福塔",
+              "x": 910,
+              "y": 510,
+              "rx": -30,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "60f4e5c2fd0ea4389d95de47",
+              "px": 12661479.37,
+              "py": 4102279.93
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "福塔东",
+              "lb": "福塔东",
+              "x": 980,
+              "y": 510,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号,线郑州市|地铁12号线",
+              "int": "2",
+              "uid": "2760e89c41493dd8018972fd",
+              "px": 12663120.34,
+              "py": 4102313.07
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "经开中心广场",
+              "lb": "经开中心广场",
+              "x": 1260,
+              "y": 510,
+              "rx": -35,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "836969169e75d427d2f49e80",
+              "px": 12665078.38,
+              "py": 4102312.68
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1300,
+              "y": 510,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1314,
+              "y": 504,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1320,
+              "y": 490,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "经北二路",
+              "lb": "经北二路",
+              "x": 1320,
+              "y": 360,
+              "rx": 5,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "2d6b265efd48f970fa42b232",
+              "px": 12666043.44,
+              "py": 4103116.97
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "省骨科医院",
+              "lb": "省骨科医院",
+              "x": 1320,
+              "y": 170,
+              "rx": 5,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线,郑州市|地铁3号线",
+              "int": "2",
+              "uid": "832b20c51a05f81ad02dd674",
+              "px": 12666097.51,
+              "py": 4105465.36
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "康宁街",
+              "lb": "康宁街",
+              "x": 1320,
+              "y": 120,
+              "rx": 5,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "e3bbe38fb20c6e97b21e366c",
+              "px": 12666098.92,
+              "py": 4106244.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑州东站",
+              "lb": "郑州东站",
+              "x": 1320,
+              "y": 60,
+              "rx": -55,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁1号线,郑州市|地铁5号线",
+              "int": "2",
+              "px": 12666342.37,
+              "py": 4107459.67,
+              "uid": "28ad92bcb30e8299ca1b95b4"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "金水东路",
+              "lb": "金水东路",
+              "x": 1220,
+              "y": -40,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "520f2ae02cdbfdd4ae080f91",
+              "px": 12665766.36,
+              "py": 4108827.65
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1170,
+              "y": -90,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1160,
+              "y": -97,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "祭城",
+              "lb": "祭城",
+              "x": 1150,
+              "y": -100,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "b04be38a168938653b221ccd",
+              "px": 12665309.63,
+              "py": 4109835.81
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "儿童医院·颐和医院",
+              "lb": "儿童医院·颐和医院",
+              "x": 1020,
+              "y": -100,
+              "rx": -50,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线,郑州市|地铁12号线",
+              "int": "2",
+              "uid": "18ccf53298bbedfa15a190ec",
+              "px": 12663556.57,
+              "py": 4109774.14
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "中央商务区",
+              "lb": "中央商务区",
+              "x": 840,
+              "y": -100,
+              "rx": 10,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线,郑州市|地铁4号线",
+              "int": "2",
+              "uid": "20bec5359a6629c94f6d46ac",
+              "px": 12661413.48,
+              "py": 4109963.73
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "众意西路",
+              "lb": "众意西路",
+              "x": 800,
+              "y": -100,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "2b6638c5920f8480c27da2fe",
+              "px": 12659995.85,
+              "py": 4109712.57
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "姚砦",
+              "lb": "姚砦",
+              "x": 680,
+              "y": -100,
+              "rx": 5,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "省人民医院",
+              "lb": "省人民医院",
+              "x": 600,
+              "y": -100,
+              "rx": -35,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "c53f9f3ae49c434d871541ec",
+              "px": 12657145.48,
+              "py": 4109466.6
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "黄河路",
+              "lb": "黄河路",
+              "x": 480,
+              "y": -100,
+              "rx": 0,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁2号线,郑州市|地铁5号线",
+              "int": "2",
+              "px": 12655896.93,
+              "py": 4109483.8,
+              "uid": "a2650407b95079b76e20b9ea"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑州人民医院",
+              "lb": "郑州人民医院",
+              "x": 300,
+              "y": -100,
+              "rx": 6,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "6c48ed62b76c03d2581093a0",
+              "px": 12654232.52,
+              "py": 4109513.57
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "海滩寺",
+              "lb": "海滩寺",
+              "x": 58,
+              "y": -100,
+              "rx": 0,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线,郑州市|地铁3号线",
+              "int": "2",
+              "uid": "58af33ced869e7e3d618b7d3",
+              "px": 12652333.92,
+              "py": 4109479.84
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "沙口路",
+              "lb": "沙口路",
+              "x": -10,
+              "y": -100,
+              "rx": -30,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "f7f993af6b007e621b94c61b",
+              "px": 12651308.09,
+              "py": 4109024.18
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -90,
+              "y": -100,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -104,
+              "y": -94,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -110,
+              "y": -80,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁5号线内环(月季公园-月季公园)",
+          "lb": "5号线",
+          "slb": false,
+          "n": 23,
+          "loop": true,
+          "lbx": -150,
+          "lby": -100,
+          "lbr": 0,
+          "lc": "0x1D9972",
+          "uid": "385b505553d6de6ae215f9f2",
+          "uid2": "f137ed4192091baf02294f94"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "清华附中",
+              "lb": "清华附中",
+              "x": 680,
+              "y": -480,
+              "rx": -28,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁4号线",
+              "int": "2",
+              "uid": "d97439bb82b8fa39343a716e",
+              "px": 12659434.39,
+              "py": 4117027.36
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "金融岛西",
+              "lb": "金融岛西",
+              "x": 680,
+              "y": -375,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12660860.65,
+              "py": 4114556.61,
+              "uid": "a277c03638efa06edeee8bd1"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "小营",
+              "lb": "小营",
+              "x": 680,
+              "y": -270,
+              "rx": 3,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12659882.61,
+              "py": 4112309.61,
+              "uid": "c3fd375c991cd538b21e3665"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "金汇桥",
+              "lb": "金汇桥",
+              "x": 680,
+              "y": -185,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12659703.58,
+              "py": 4111032.81,
+              "uid": "338924d4ed3fd145f7b916f0"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "姚砦",
+              "lb": "姚砦",
+              "x": 680,
+              "y": -100,
+              "rx": 5,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "燕庄",
+              "lb": "燕庄",
+              "x": 680,
+              "y": 60,
+              "rx": -35,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁1号线",
+              "int": "2",
+              "uid": "55f216d66e282744f60e77aa",
+              "px": 12658400.4,
+              "py": 4108136.98
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "博览中心",
+              "lb": "博览中心",
+              "x": 680,
+              "y": 170,
+              "rx": 6,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁3号线",
+              "int": "2",
+              "uid": "1b3cf2b230b17694f822135d",
+              "px": 12658358.78,
+              "py": 4105830.98
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "凤凰台南",
+              "lb": "凤凰台南",
+              "x": 680,
+              "y": 280,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12658362.94,
+              "py": 4104500,
+              "uid": "723c6aa9800af1cc22026279"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "二里岗东",
+              "lb": "二里岗东",
+              "x": 590,
+              "y": 370,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12656988.62,
+              "py": 4103132.93,
+              "uid": "c8e5fe665a8847a3a1a934b6"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 570,
+              "y": 390,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 560,
+              "y": 397,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 550,
+              "y": 400,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "二里岗",
+              "lb": "二里岗",
+              "x": 480,
+              "y": 400,
+              "rx": 5,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁2号线",
+              "int": "2",
+              "uid": "2c3c5ba0a7f88dc27069d3b5",
+              "px": 12656022.07,
+              "py": 4103327.73
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "陇秀公园",
+              "lb": "陇秀公园",
+              "x": 390,
+              "y": 400,
+              "rx": -25,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12655157.22,
+              "py": 4103373.45,
+              "uid": "92884adfd458dd2e940319b8"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "火车头体育场",
+              "lb": "火车头体育场",
+              "x": 290,
+              "y": 400,
+              "rx": -45,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12652846.47,
+              "py": 4103379.68,
+              "uid": "ab55a5496d96f8f9a2046474"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大学中路",
+              "lb": "大学中路",
+              "x": 170,
+              "y": 400,
+              "rx": 6,
+              "ry": 3,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12651622.6,
+              "py": 4103383.73,
+              "uid": "7ef1fbe87a2a3a0454bfff4a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "嵩淮",
+              "lb": "嵩淮",
+              "x": 30,
+              "y": 400,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12649951.99,
+              "py": 4103376.85,
+              "uid": "93ef2daa5293a74aeb56fa3a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "桐淮",
+              "lb": "桐淮",
+              "x": -110,
+              "y": 400,
+              "rx": 10,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁5号线",
+              "int": "2",
+              "uid": "4860dbc2502c39274e5547e3",
+              "px": 12648150.18,
+              "py": 4103335.49
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "卧龙岗",
+              "lb": "卧龙岗",
+              "x": -170,
+              "y": 400,
+              "rx": -20,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12647134.46,
+              "py": 4103321.28,
+              "uid": "dc00b0bcefb516eaeb1e97c5"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "李江沟",
+              "lb": "李江沟",
+              "x": -260,
+              "y": 400,
+              "rx": -20,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12645842.34,
+              "py": 4103294.65,
+              "uid": "43704f5dbb3b4a221c38943a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "冯湾",
+              "lb": "冯湾",
+              "x": -350,
+              "y": 400,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12643768.71,
+              "py": 4103069.89,
+              "uid": "ce6bde18f31dfc4c1f3894ab"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "常庄",
+              "lb": "常庄",
+              "x": -440,
+              "y": 400,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12642103.9,
+              "py": 4104668.15,
+              "uid": "9fb4a20b234d73ae13293571"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "奥体中心",
+              "lb": "奥体中心",
+              "x": -575,
+              "y": 400,
+              "rx": 8,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁14号线,郑州市|地铁6号线",
+              "int": "2",
+              "px": 12640078.23,
+              "py": 4104679.65,
+              "uid": "5f76296c41113f8303ff2d06"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "奥体中心西",
+              "lb": "奥体中心西",
+              "x": -700,
+              "y": 400,
+              "rx": -28,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12638249.25,
+              "py": 4104860.51,
+              "uid": "beddad3bad065a3e81a12e6e"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -710,
+              "y": 400,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -720,
+              "y": 403,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -730,
+              "y": 410,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -820,
+              "y": 500,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -827,
+              "y": 510,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "金桢路",
+              "lb": "金桢路",
+              "x": -830,
+              "y": 520,
+              "rx": -45,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12637032.48,
+              "py": 4104131.33,
+              "uid": "066ebf37aa587fd8f9f0cb5e"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "河南建院",
+              "lb": "河南建院",
+              "x": -830,
+              "y": 650,
+              "rx": -58,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12637599.39,
+              "py": 4101463.35,
+              "uid": "7600e5bb8d398b06e215f9de"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "马寨",
+              "lb": "马寨",
+              "x": -830,
+              "y": 780,
+              "rx": -35,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12637462.03,
+              "py": 4099931.16,
+              "uid": "2d2f0d651f344691f11937e0"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -830,
+              "y": 870,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -836,
+              "y": 884,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -850,
+              "y": 890,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "安宁路",
+              "lb": "安宁路",
+              "x": -860,
+              "y": 890,
+              "rx": -25,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12637467.42,
+              "py": 4098349.79,
+              "uid": "18959a5b7e044b35f219371c"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "洞林寺",
+              "lb": "洞林寺",
+              "x": -950,
+              "y": 890,
+              "rx": -25,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12635555.58,
+              "py": 4095859.17,
+              "uid": "ec005d4bee5ee054fa42b278"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "洞林湖",
+              "lb": "洞林湖",
+              "x": -1040,
+              "y": 890,
+              "rx": -25,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12633704.6,
+              "py": 4095202.49,
+              "uid": "e49b321205b5b1e4c909f0d6"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "贾峪",
+              "lb": "贾峪",
+              "x": -1130,
+              "y": 890,
+              "rx": -20,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁6号线",
+              "int": "2",
+              "px": 12630490.38,
+              "py": 4095810.61,
+              "uid": "d3452d34f2246f7ca2d2300b"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁6号线",
+          "lb": "6号线",
+          "slb": false,
+          "n": 28,
+          "loop": false,
+          "lbx": -1130,
+          "lby": 930,
+          "lbr": 0,
+          "lc": "0x9D4093",
+          "uid": "3d05d8a36c9e743ef2193767",
+          "uid2": "ddf9ca521b49c4b39fec2be8"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "东赵",
+              "lb": "东赵",
+              "x": 300,
+              "y": -860,
+              "rx": 6,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "3eb915796e49df9c373a7190",
+              "px": 12651550.88,
+              "py": 4123701.53
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "黄河迎宾馆",
+              "lb": "黄河迎宾馆",
+              "x": 300,
+              "y": -810,
+              "rx": 6,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "2af41f777786531740e192c6",
+              "px": 12651697.49,
+              "py": 4122178.69
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "北大学城",
+              "lb": "北大学城",
+              "x": 300,
+              "y": -690,
+              "rx": -58,
+              "ry": -3,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "8073b88876ffe6f0c909f03f",
+              "px": 12651916.92,
+              "py": 4121072.56
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "琉璃寺",
+              "lb": "琉璃寺",
+              "x": 300,
+              "y": -580,
+              "rx": 6,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "aadebb7c4794df3f9e82eac9",
+              "px": 12652712.52,
+              "py": 4118740.65
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "张家村",
+              "lb": "张家村",
+              "x": 300,
+              "y": -470,
+              "rx": -60,
+              "ry": -8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "e2f8071be71687088c55ec17",
+              "px": 12653548.47,
+              "py": 4116227.52
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "陈砦",
+              "lb": "陈砦",
+              "x": 300,
+              "y": -370,
+              "rx": 6,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "cc1f9b55a29b87f66f4760b0",
+              "px": 12653926.6,
+              "py": 4114541.37
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "白庙",
+              "lb": "白庙",
+              "x": 300,
+              "y": -270,
+              "rx": 6,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "67ed22c7a1e31256095cb31e",
+              "px": 12654103.51,
+              "py": 4112776.09
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "农业大学",
+              "lb": "农业大学",
+              "x": 300,
+              "y": -185,
+              "rx": 6,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "e99aabe27da99ec733621238",
+              "px": 12654164.06,
+              "py": 4111171.48
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑州人民医院",
+              "lb": "郑州人民医院",
+              "x": 300,
+              "y": -100,
+              "rx": 6,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "2f37c711dcbf7044bca8228e",
+              "px": 12654195.98,
+              "py": 4109658.98
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大石桥·市妇幼保健院",
+              "lb": "大石桥·市妇幼保健院",
+              "x": 230,
+              "y": 70,
+              "rx": 10,
+              "ry": -5,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "94ab0fddb0b27dce8733045e",
+              "px": 12653018.52,
+              "py": 4108345.07
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 230,
+              "y": 100,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 224,
+              "y": 114,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 210,
+              "y": 120,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 190,
+              "y": 120,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 176,
+              "y": 126,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 170,
+              "y": 140,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑大一附院",
+              "lb": "郑大一附院",
+              "x": 170,
+              "y": 170,
+              "rx": -70,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "efef19408916a9849e95de28",
+              "px": 12651733.52,
+              "py": 4107060.99
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "医学院",
+              "lb": "医学院",
+              "x": 170,
+              "y": 260,
+              "rx": 10,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "e5eacd6d5510f12dca09f05f",
+              "px": 12651614.84,
+              "py": 4105657.47
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市骨科医院",
+              "lb": "市骨科医院",
+              "x": 170,
+              "y": 323,
+              "rx": 6,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "b8c31f419643671503ec013c",
+              "px": 12651635.51,
+              "py": 4104390.82
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大学中路",
+              "lb": "大学中路",
+              "x": 170,
+              "y": 385,
+              "rx": 6,
+              "ry": 3,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "459524b84aff5982455726c4",
+              "px": 12651666.28,
+              "py": 4103277.46
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市第二人民医院·儿童医院南院区",
+              "lb": "市第二人民医院·儿童医院南院区",
+              "x": 170,
+              "y": 510,
+              "rx": 6,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "65dbca8ef8275190f7eafc15",
+              "px": 12651630.37,
+              "py": 4102012.61
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "王胡砦",
+              "lb": "王胡砦",
+              "x": 170,
+              "y": 600,
+              "rx": 6,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "e5366f38def8728131f71db2",
+              "px": 12651651.5,
+              "py": 4100298.54
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "漓江路",
+              "lb": "漓江路",
+              "x": 170,
+              "y": 690,
+              "rx": 6,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "6b81c651a778a07eeedfca69",
+              "px": 12651651.27,
+              "py": 4098777.47
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "荆胡",
+              "lb": "荆胡",
+              "x": 170,
+              "y": 770,
+              "rx": 6,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "edf678ceaa71a44cc7f50d75",
+              "px": 12651682.31,
+              "py": 4096867.08
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南环公园",
+              "lb": "南环公园",
+              "x": 170,
+              "y": 850,
+              "rx": 6,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "d8367d1e3ff6ebc30a69d98c",
+              "px": 12651648.54,
+              "py": 4095548.7
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南岗刘",
+              "lb": "南岗刘",
+              "x": 170,
+              "y": 930,
+              "rx": 6,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁7号线",
+              "int": "2",
+              "uid": "f59709100cab65c94e2fdfd4",
+              "px": 12651636.78,
+              "py": 4093510.51
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁7号线",
+          "lb": "7号线",
+          "slb": false,
+          "n": 28,
+          "loop": false,
+          "lbx": 170,
+          "lby": 970,
+          "lbr": 0,
+          "lc": "0xDCAF74",
+          "uid": "18558f053d1ef17df219375b",
+          "uid2": "78ab6907635a312c01294f11"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "天健湖",
+              "lb": "天健湖",
+              "x": -780,
+              "y": -310,
+              "rx": -22,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "19255319ba3d876a40afe6bc",
+              "px": 12633276.45,
+              "py": 4113947.19
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "轻工业大学",
+              "lb": "轻工业大学",
+              "x": -710,
+              "y": -310,
+              "rx": -30,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "f030732c1917a6caf60e7716",
+              "px": 12636228.98,
+              "py": 4114046.65
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "祥营",
+              "lb": "祥营",
+              "x": -635,
+              "y": -310,
+              "rx": -20,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "ddc184139eb2da3dfa0cadd3",
+              "px": 12638292.82,
+              "py": 4114055.27
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑州大学",
+              "lb": "郑州大学",
+              "x": -570,
+              "y": -310,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "617df6dbe98f67dca5da391a",
+              "px": 12640221.51,
+              "py": 4113994.45
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "银屏路",
+              "lb": "银屏路",
+              "x": -488,
+              "y": -310,
+              "rx": -22,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "f279033e25ae9cb7badf8f0c",
+              "px": 12642415.02,
+              "py": 4113996.6
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "冬青街",
+              "lb": "冬青街",
+              "x": -406,
+              "y": -310,
+              "rx": -22,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "a20afb223d092158c256acd9",
+              "px": 12643246.52,
+              "py": 4113028.47
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "南流",
+              "lb": "南流",
+              "x": -324,
+              "y": -310,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "ee558a88ea1dac2c364aaef5",
+              "px": 12644403.67,
+              "py": 4111763.85
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大学科技园",
+              "lb": "大学科技园",
+              "x": -242,
+              "y": -310,
+              "rx": -34,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "35901534acaf8035c9c3db6a",
+              "px": 12647255.97,
+              "py": 4111681.37
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "五龙口",
+              "lb": "五龙口",
+              "x": -160,
+              "y": -310,
+              "rx": -22,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "36a7f6b8c9112681ebe582b8",
+              "px": 12648269.87,
+              "py": 4111529.25
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -150,
+              "y": -307,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -140,
+              "y": -300,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "同乐",
+              "lb": "同乐",
+              "x": -110,
+              "y": -270,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "808ce28d3b9c1a4d45e27461",
+              "px": 12650821.44,
+              "py": 4112423.66
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "省中医院",
+              "lb": "省中医院",
+              "x": 90,
+              "y": -270,
+              "rx": -26,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "b77563df3036912f7f29bd6f",
+              "px": 12652086.98,
+              "py": 4112918.28
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "白庙",
+              "lb": "白庙",
+              "x": 300,
+              "y": -270,
+              "rx": 6,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "4ea802c096906e23ca291528",
+              "px": 12654172.01,
+              "py": 4112850.47
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东风路",
+              "lb": "东风路",
+              "x": 480,
+              "y": -270,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "2259c02c3cd639d8adcb668e",
+              "px": 12655704.49,
+              "py": 4112587.97
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "枣庄",
+              "lb": "枣庄",
+              "x": 570,
+              "y": -270,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "09243b8615919c9a80a00cec",
+              "px": 12657189.58,
+              "py": 4112199.95
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "小营",
+              "lb": "小营",
+              "x": 680,
+              "y": -270,
+              "rx": -15,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "50254022535331c8f503b8be",
+              "px": 12659986.39,
+              "py": 4112215.94
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙湖中环南",
+              "lb": "龙湖中环南",
+              "x": 900,
+              "y": -270,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "19e82a47d77677e84151c01c",
+              "px": 12662156.98,
+              "py": 4111876.44
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑大一附院东区",
+              "lb": "郑大一附院东区",
+              "x": 1090,
+              "y": -270,
+              "rx": -48,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "1d80e0ffc54593a8ca1b9500",
+              "px": 12664891.91,
+              "py": 4112407.28
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1100,
+              "y": -267,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1110,
+              "y": -260,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "高铁公园",
+              "lb": "高铁公园",
+              "x": 1190,
+              "y": -200,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "线郑州市|地铁8号线",
+              "int": "2",
+              "uid": "9516e96418bf90eb130daabf",
+              "px": 12666197.13,
+              "py": 4111920.54
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "畅和街",
+              "lb": "畅和街",
+              "x": 1320,
+              "y": -100,
+              "rx": 6,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "85632f49d3622e0dc51e51e5",
+              "px": 12666326.82,
+              "py": 4110239.47
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑州东站",
+              "lb": "郑州东站",
+              "x": 1320,
+              "y": 60,
+              "rx": -55,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "60c2cdbbba066c39dbd89175",
+              "px": 12666355.43,
+              "py": 4107461.74
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "圃田西",
+              "lb": "圃田西",
+              "x": 1510,
+              "y": 170,
+              "rx": 8,
+              "ry": 3,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "ab9e5419f388f4318605bf56",
+              "px": 12668310.46,
+              "py": 4105099.49
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "圃田",
+              "lb": "圃田",
+              "x": 1600,
+              "y": 100,
+              "rx": 6,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "2bb335470971eeaf49fc8d71",
+              "px": 12671363.08,
+              "py": 4105228.79
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1640,
+              "y": 60,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1650,
+              "y": 53,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1660,
+              "y": 50,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "省社科院",
+              "lb": "省社科院",
+              "x": 1720,
+              "y": 50,
+              "rx": -28,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "abd0e10862fdcfa3f11937c8",
+              "px": 12674470.02,
+              "py": 4107274.79
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "福泽路",
+              "lb": "福泽路",
+              "x": 1800,
+              "y": 50,
+              "rx": -22,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "4e299b0dd594f0b5d81318a3",
+              "px": 12676744.48,
+              "py": 4107379.1
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "李湖桥",
+              "lb": "李湖桥",
+              "x": 1880,
+              "y": 50,
+              "rx": -22,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "aeb9a79a5fbd26e7f82d6140",
+              "px": 12678146.99,
+              "py": 4107386.28
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙王庙",
+              "lb": "龙王庙",
+              "x": 1960,
+              "y": 50,
+              "rx": -22,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "810de696be748c4c102935dd",
+              "px": 12680449.6,
+              "py": 4107294.01
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "绿博园",
+              "lb": "绿博园",
+              "x": 2040,
+              "y": 50,
+              "rx": -22,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "7dd7b4a23ab6a919e0110325",
+              "px": 12683447.42,
+              "py": 4107609.72
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "鲁庙",
+              "lb": "鲁庙",
+              "x": 2120,
+              "y": 50,
+              "rx": -15,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁8号线",
+              "int": "2",
+              "uid": "ce3095173ee6d42746e274e3",
+              "px": 12685481.91,
+              "py": 4107889.36
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁8号线",
+          "lb": "8号线",
+          "slb": false,
+          "n": 28,
+          "loop": false,
+          "lbx": -780,
+          "lby": -340,
+          "lbr": 0,
+          "lc": "0xE3F697",
+          "uid": "f877c876d72523594d5547fc",
+          "uid2": "ce37c474f6768d064bcc4a10"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "郑州西站",
+              "lb": "郑州西站",
+              "x": -1120,
+              "y": 265,
+              "rx": -27,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁10号线",
+              "int": "2",
+              "px": 12627601.49,
+              "py": 4106198.97,
+              "uid": "6abe987ce0e372ceede4a5cf"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "李商隐公园",
+              "lb": "李商隐公园",
+              "x": -960,
+              "y": 265,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁10号线",
+              "int": "2",
+              "px": 12629745.92,
+              "py": 4106096.64,
+              "uid": "64eb99b91a80ac9b29fc4891"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "庙王",
+              "lb": "庙王",
+              "x": -830,
+              "y": 265,
+              "rx": -12,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁10号线",
+              "int": "2",
+              "px": 12633693.99,
+              "py": 4106086.02,
+              "uid": "e2b2de0f4bee1c8fcbfa5f5c"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "柳湖",
+              "lb": "柳湖",
+              "x": -700,
+              "y": 265,
+              "rx": -12,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁10号线",
+              "int": "2",
+              "px": 12636382.49,
+              "py": 4105950.45,
+              "uid": "3243bab529d7bd46dbecedee"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市委党校",
+              "lb": "市委党校",
+              "x": -575,
+              "y": 265,
+              "rx": 3,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁14号线,郑州市|地铁10号线",
+              "int": "2",
+              "px": 12640202.46,
+              "py": 4105931,
+              "uid": "e80f2891a6d3d0de94ec84cf"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑州一中",
+              "lb": "郑州一中",
+              "x": -430,
+              "y": 265,
+              "rx": -28,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁10号线",
+              "int": "2",
+              "px": 12641964.99,
+              "py": 4105889.58,
+              "uid": "ed02ed9a4c222b754e776e89"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西流湖公园南",
+              "lb": "西流湖公园南",
+              "x": -320,
+              "y": 265,
+              "rx": -38,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁10号线",
+              "int": "2",
+              "px": 12644925,
+              "py": 4105800.43,
+              "uid": "5f66a5eea29c48e774026930"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "二砂·罗庄",
+              "lb": "二砂·罗庄",
+              "x": -210,
+              "y": 265,
+              "rx": -28,
+              "ry": 8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁10号线",
+              "int": "2",
+              "px": 12646572,
+              "py": 4105822.55,
+              "uid": "e52fd7fda40c4547ab059d85"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市中心医院",
+              "lb": "市中心医院",
+              "x": -110,
+              "y": 265,
+              "rx": 8,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁5号线,郑州市|地铁10号线",
+              "int": "2",
+              "uid": "f600c016a93e860fa1a934e1",
+              "px": 12648414.51,
+              "py": 4105851.35
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 70,
+              "y": 265,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "绿城广场",
+              "lb": "绿城广场",
+              "x": 70,
+              "y": 260,
+              "rx": -30,
+              "ry": 15,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁1号线,郑州市|地铁10号线",
+              "int": "2",
+              "px": 12650273.98,
+              "py": 4105887.36,
+              "uid": "051a137ed1ea1dea118824bc"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 70,
+              "y": 265,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 170,
+              "y": 265,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "医学院",
+              "lb": "医学院",
+              "x": 170,
+              "y": 260,
+              "rx": 10,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁1号线,郑州市|地铁10号线",
+              "int": "2",
+              "px": 12651806.49,
+              "py": 4105521.24,
+              "uid": "38819eb56a74bd40a21de93c"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 170,
+              "y": 265,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 270,
+              "y": 265,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑州火车站",
+              "lb": "郑州火车站",
+              "x": 270,
+              "y": 260,
+              "rx": -40,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁1号线,郑州市|地铁10号线",
+              "int": "2",
+              "px": 12652974.45,
+              "py": 4105736.18,
+              "uid": "50ac2e457cf21591774ff1d6"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁10号线",
+          "lb": "10号线",
+          "slb": false,
+          "n": 12,
+          "loop": false,
+          "lbx": -1150,
+          "lby": 220,
+          "lbr": 0,
+          "lc": "0xCD877F",
+          "uid": "0e44c3994d4290dbbadf8f69",
+          "uid2": "85f9876cdcf9e97145e2740a"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "龙子湖东",
+              "lb": "龙子湖东",
+              "x": 1620,
+              "y": -200,
+              "rx": -20,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "线郑州市|地铁12号线",
+              "int": "2",
+              "uid": "0b3d3cf87d8b14e0badf8f83",
+              "px": 12672070.47,
+              "py": 4112179.96
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙子湖",
+              "lb": "龙子湖",
+              "x": 1520,
+              "y": -200,
+              "rx": 10,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁1号线,郑州市|地铁12号线",
+              "int": "2",
+              "uid": "c852509c48857204c4f02568",
+              "px": 12670116.12,
+              "py": 4111903.16
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙子湖西",
+              "lb": "龙子湖西",
+              "x": 1350,
+              "y": -200,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "线郑州市|地铁12号线",
+              "int": "2",
+              "uid": "aa7b5b7be22c600b7dc876b3",
+              "px": 12668270.95,
+              "py": 4111983.06
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "高铁公园",
+              "lb": "高铁公园",
+              "x": 1190,
+              "y": -200,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "线郑州市|地铁12号线",
+              "int": "2",
+              "uid": "cdfeaf3fe3f5e291a2d23043",
+              "px": 12666126,
+              "py": 4111993.33
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东风东路",
+              "lb": "东风东路",
+              "x": 1040,
+              "y": -200,
+              "rx": -30,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "线郑州市|地铁12号线",
+              "int": "2",
+              "uid": "429ebe8659dfc7632b3a9fca",
+              "px": 12664602.8,
+              "py": 4110473.15
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1026,
+              "y": -194,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1020,
+              "y": -180,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "儿童医院·颐和医院",
+              "lb": "儿童医院·颐和医院",
+              "x": 1020,
+              "y": -100,
+              "rx": -50,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁5号线,郑州市|地铁12号线",
+              "int": "2",
+              "uid": "324fbc961c0e0203d6b74e71",
+              "px": 12663467.56,
+              "py": 4109616.59
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "黄河南路",
+              "lb": "黄河南路",
+              "x": 980,
+              "y": 60,
+              "rx": 15,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁1号线,郑州市|地铁12号线",
+              "int": "2",
+              "uid": "a27072a6e5deed6db54f5404",
+              "px": 12662841.48,
+              "py": 4107823.95
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西周",
+              "lb": "西周",
+              "x": 980,
+              "y": 170,
+              "rx": 5,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁3号线,郑州市|地铁12号线",
+              "int": "2",
+              "uid": "fb9c4216ccc3459396f08c10",
+              "px": 12663112.43,
+              "py": 4106045.58
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "经北五路",
+              "lb": "经北五路",
+              "x": 980,
+              "y": 310,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "线郑州市|地铁12号线",
+              "int": "2",
+              "uid": "7c3317e73009f96f8e772723",
+              "px": 12663109.95,
+              "py": 4103636.98
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "福塔东",
+              "lb": "福塔东",
+              "x": 980,
+              "y": 510,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁5号,线郑州市|地铁12号线",
+              "int": "2",
+              "uid": "e040e21392e25a2974026951",
+              "px": 12663111.36,
+              "py": 4102174.63
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "梁湖",
+              "lb": "梁湖",
+              "x": 980,
+              "y": 630,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "线郑州市|地铁12号线",
+              "int": "2",
+              "uid": "ee03cefbf6e1bff2306212d5",
+              "px": 12662757.47,
+              "py": 4099941.97
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁12号线",
+          "lb": "12号线",
+          "slb": false,
+          "n": 11,
+          "loop": false,
+          "lbx": 1620,
+          "lby": -170,
+          "lbr": 0,
+          "lc": "0x578BEF",
+          "uid": "91bd5fd6115b8921b75f1e2c",
+          "uid2": "1db376a7a527d93dc17da230"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "须水",
+              "lb": "须水",
+              "x": -710,
+              "y": 10,
+              "rx": 8,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁14号线",
+              "int": "2",
+              "px": 12637911.13,
+              "py": 4109539.62,
+              "uid": "c192ffa4bc1c5b03b35c6aac"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -575,
+              "y": 10,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "铁炉",
+              "lb": "铁炉",
+              "x": -570,
+              "y": 10,
+              "rx": 8,
+              "ry": -10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁14号线,郑州市|地铁1号线",
+              "int": "2",
+              "px": 12640158.89,
+              "py": 4108628.75,
+              "uid": "c2ab97f188b555b8f7e73b1f"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": -575,
+              "y": 10,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市民大道",
+              "lb": "市民大道",
+              "x": -575,
+              "y": 190,
+              "rx": -60,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁14号线",
+              "int": "2",
+              "px": 12640173.38,
+              "py": 4107260.97,
+              "uid": "89590cb21607291f31f71da8"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市委党校",
+              "lb": "市委党校",
+              "x": -575,
+              "y": 265,
+              "rx": 3,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁14号线,郑州市|地铁10号线",
+              "int": "2",
+              "px": 12640191.8,
+              "py": 4106067,
+              "uid": "171566a0a2cfb2b22bb97c5d"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "奥体中心",
+              "lb": "奥体中心",
+              "x": -575,
+              "y": 400,
+              "rx": 8,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁14号线,郑州市|地铁6号线",
+              "int": "2",
+              "px": 12640191.24,
+              "py": 4104649.83,
+              "uid": "34ef735477bb0c973be4a635"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "莲湖",
+              "lb": "莲湖",
+              "x": -575,
+              "y": 540,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁14号线",
+              "int": "2",
+              "px": 12640214.55,
+              "py": 4102573.68,
+              "uid": "94601154965ef0017ab55c18"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁14号线",
+          "lb": "14号线",
+          "slb": false,
+          "n": 20,
+          "loop": false,
+          "lbx": -575,
+          "lby": 570,
+          "lbr": 0,
+          "lc": "0xC5A7CA",
+          "uid": "b2e0deab6235146097ec8415",
+          "uid2": "4a5bba402152f1965a3ac8c1"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "南四环",
+              "lb": "南四环",
+              "x": 480,
+              "y": 830,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|地铁2号线,郑州市|地铁9号线",
+              "int": "2",
+              "px": 12655881.42,
+              "py": 4094389.39,
+              "uid": "8817eb952cd5a5bfb64f544e"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "十八里河",
+              "lb": "十八里河",
+              "x": 480,
+              "y": 940,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12656082.33,
+              "py": 4092393.28,
+              "uid": "b136f822874267dca6da3905"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "沙窝李",
+              "lb": "沙窝李",
+              "x": 480,
+              "y": 1080,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12655844.22,
+              "py": 4089593.96,
+              "uid": "c6cc9bb8df1ea39a940319e5"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "双湖大道",
+              "lb": "双湖大道",
+              "x": 480,
+              "y": 1190,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12656008.5,
+              "py": 4087471.16,
+              "uid": "ccf92525776e69e016c90504"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "小乔",
+              "lb": "小乔",
+              "x": 480,
+              "y": 1330,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12657421.49,
+              "py": 4086004.44,
+              "uid": "3a26cb8f39f2f3cfacee7a62"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 480,
+              "y": 1400,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 486,
+              "y": 1414,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 500,
+              "y": 1420,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "华南城西",
+              "lb": "华南城西",
+              "x": 640,
+              "y": 1420,
+              "rx": -27.9,
+              "ry": 10.5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12660722.16,
+              "py": 4085155.97,
+              "uid": "2f44484e243c3b068605bf8f"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "华南城",
+              "lb": "华南城",
+              "x": 830,
+              "y": 1420,
+              "rx": -24,
+              "ry": 10.5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12663380.6,
+              "py": 4085222.45,
+              "uid": "9d8460f5d0b651508733046f"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "华南城东",
+              "lb": "华南城东",
+              "x": 1040,
+              "y": 1420,
+              "rx": -27.9,
+              "ry": 10.5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12666153.39,
+              "py": 4085215.1,
+              "uid": "592f7fd55942974fc9e33ccb"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "孟庄",
+              "lb": "孟庄",
+              "x": 1280,
+              "y": 1420,
+              "rx": -16,
+              "ry": 10.5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12671078.45,
+              "py": 4084018.63,
+              "uid": "cfdb93c740c9ef8b22022087"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "港区北",
+              "lb": "港区北",
+              "x": 1540,
+              "y": 1420,
+              "rx": 10,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线,郑州市|城郊线",
+              "int": "2",
+              "px": 12673278.5,
+              "py": 4083909.22,
+              "uid": "322e3a828d97045b5e17c3cd"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "康平湖",
+              "lb": "康平湖",
+              "x": 1680,
+              "y": 1420,
+              "rx": 3,
+              "ry": -15,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|城郊线",
+              "int": "2",
+              "uid": "bf6715b1e03d5020f4e73b70",
+              "px": 12674935.48,
+              "py": 4083938.06
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1780,
+              "y": 1420,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1794,
+              "y": 1426,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1800,
+              "y": 1440,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "兰河公园",
+              "lb": "兰河公园",
+              "x": 1800,
+              "y": 1540,
+              "rx": 9,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12675649.59,
+              "py": 4082749.93,
+              "uid": "a81d7afdd80d80880e3dda9e"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "恩平湖",
+              "lb": "恩平湖",
+              "x": 1800,
+              "y": 1660,
+              "rx": 9,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12675659.46,
+              "py": 4081569.22,
+              "uid": "b2a0304df9c9a6599df779dc"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "综合保税区",
+              "lb": "综合保税区",
+              "x": 1800,
+              "y": 1780,
+              "rx": 9,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12675399.17,
+              "py": 4079178.64,
+              "uid": "d91422c84f46218a49fc8d64"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1800,
+              "y": 1860,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1803,
+              "y": 1870,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1810,
+              "y": 1880,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "新郑机场(城郊线)",
+              "lb": "新郑机场",
+              "x": 1870,
+              "y": 1900,
+              "rx": -45,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|城郊线",
+              "int": "2",
+              "px": 12674110.36,
+              "py": 4076312.94,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "机场东",
+              "lb": "机场东",
+              "x": 2050,
+              "y": 1960,
+              "rx": -40,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12680197.76,
+              "py": 4073875.06,
+              "uid": "ba8a7c073376b08aab059d64"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "港区会展",
+              "lb": "港区会展",
+              "x": 2140,
+              "y": 1990,
+              "rx": -55,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12682805.97,
+              "py": 4072130.96,
+              "uid": "a4ad34f7575c3cb81b94c66a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "郑州航空港站",
+              "lb": "郑州航空港站",
+              "x": 2230,
+              "y": 2020,
+              "rx": -55,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|地铁9号线",
+              "int": "2",
+              "px": 12683807.41,
+              "py": 4070763.74,
+              "uid": "58c2e0e829c4862aa11de986"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "城郊线",
+          "lb": "城郊线",
+          "slb": false,
+          "n": 14,
+          "loop": false,
+          "lbx": 520,
+          "lby": 870,
+          "lbr": 0,
+          "lc": "0xB8C29D",
+          "uid": "c64798b561b93bf8abf72950",
+          "uid2": "8f0136d15b75ecd09e9d684c"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "长安路北",
+              "lb": "长安路北",
+              "x": 1540,
+              "y": 1310,
+              "rx": -60,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12674212.92,
+              "py": 4085517.41,
+              "uid": "cabad1ce2fa272b99d9d68b1"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "港区北",
+              "lb": "港区北",
+              "x": 1540,
+              "y": 1420,
+              "rx": 10,
+              "ry": 10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "郑州市|郑许线,郑州市|城郊线",
+              "int": "2",
+              "px": 12673051.66,
+              "py": 4083999.48,
+              "uid": "5794ce530858800fc8213d02"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "文化中心",
+              "lb": "文化中心",
+              "x": 1540,
+              "y": 1520,
+              "rx": -60,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "枣园",
+              "lb": "枣园",
+              "x": 1540,
+              "y": 1630,
+              "rx": -36,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12672706.74,
+              "py": 4079926.41,
+              "uid": "3978a5fc93cb6a3ce81e976c"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "翱翔路",
+              "lb": "翱翔路",
+              "x": 1540,
+              "y": 1740,
+              "rx": -48,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12672393.37,
+              "py": 4078500.76,
+              "uid": "35beb72740a0786be9f853b7"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "长安路南",
+              "lb": "长安路南",
+              "x": 1540,
+              "y": 1850,
+              "rx": -60,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12672581.26,
+              "py": 4076936.97,
+              "uid": "0b59d369f8d3b54d6da3cc5a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "新郑机场",
+              "lb": "新郑机场",
+              "x": 1540,
+              "y": 1960,
+              "rx": 5,
+              "ry": -18,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线,郑州市|城郊线",
+              "int": "2",
+              "px": 12674501.81,
+              "py": 4075968.39,
+              "uid": "db2af5362cbbff9f3686f47d"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1540,
+              "y": 2010,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1534,
+              "y": 2024,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1520,
+              "y": 2030,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "遵大路·市一院航空港院区",
+              "lb": "遵大路·市一院航空港院区",
+              "x": 1440,
+              "y": 2030,
+              "rx": -60,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12673368.05,
+              "py": 4070578.01,
+              "uid": "80dc34b17a391a59f4e73b3e"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1360,
+              "y": 2030,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1344,
+              "y": 2036,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1340,
+              "y": 2050,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "苑陵故城西",
+              "lb": "苑陵故城西",
+              "x": 1340,
+              "y": 2100,
+              "rx": 8,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12672889.77,
+              "py": 4068110.5,
+              "uid": "6079ea3ce26392ca71210b62"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "洵美路",
+              "lb": "洵美路",
+              "x": 1340,
+              "y": 2210,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12672900.14,
+              "py": 4066991.5,
+              "uid": "1aced673a04ffa09213bf2af"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙王",
+              "lb": "龙王",
+              "x": 1340,
+              "y": 2310,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12673457.05,
+              "py": 4064703.5,
+              "uid": "7363a045a6d78d6809b93a52"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "龙王南",
+              "lb": "龙王南",
+              "x": 1340,
+              "y": 2410,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12674339.03,
+              "py": 4062202,
+              "uid": "de1f0ba7c3800fb32b06ce58"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "双鹤湖北",
+              "lb": "双鹤湖北",
+              "x": 1340,
+              "y": 2510,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12674342.22,
+              "py": 4060730.5,
+              "uid": "98fe2722b4cb5c037ec876b4"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "双鹤湖",
+              "lb": "双鹤湖",
+              "x": 1340,
+              "y": 2610,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12674399.5,
+              "py": 4059445.69,
+              "uid": "9a9db9b0a3431efb0aa8d483"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "双鹤湖南",
+              "lb": "双鹤湖南",
+              "x": 1340,
+              "y": 2710,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12674345.98,
+              "py": 4058062.47,
+              "uid": "986a16fc767fb62dbb17e7c2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "八千",
+              "lb": "八千",
+              "x": 1340,
+              "y": 2810,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12674348.56,
+              "py": 4056443.51,
+              "uid": "8fd9268daf2950792902e106"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "双庙李",
+              "lb": "双庙李",
+              "x": 1340,
+              "y": 2910,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12674047.12,
+              "py": 4045956.8,
+              "uid": "2dd374bf798bd9d106026f52"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大周",
+              "lb": "大周",
+              "x": 1340,
+              "y": 3010,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12674065.21,
+              "py": 4042386.62,
+              "uid": "acddc80d9d174cd638221c14"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "颖川路",
+              "lb": "颖川路",
+              "x": 1340,
+              "y": 3110,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 0,
+              "py": 0,
+              "uid": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "葛天源",
+              "lb": "葛天源",
+              "x": 1340,
+              "y": 3210,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12671380.82,
+              "py": 4032004.73,
+              "uid": "9e5c05c780cb2078da2f2869"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "永和路",
+              "lb": "永和路",
+              "x": 1340,
+              "y": 3310,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12671892.44,
+              "py": 4028454.64,
+              "uid": "9f83f40bbe4b6a04c42ba14f"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "农大路",
+              "lb": "农大路",
+              "x": 1340,
+              "y": 3410,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12672607.7,
+              "py": 4024340.2,
+              "uid": "7450e5001f008ba4735e80e5"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "体育中心",
+              "lb": "体育中心",
+              "x": 1340,
+              "y": 3510,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12673530.21,
+              "py": 4021867.64,
+              "uid": "e27777a5d9f1ce22b64f54ae"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "电气谷",
+              "lb": "电气谷",
+              "x": 1340,
+              "y": 3610,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12674740.9,
+              "py": 4019825.22,
+              "uid": "699dd24b6131a80b4054d72b"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "芙蓉湖",
+              "lb": "芙蓉湖",
+              "x": 1340,
+              "y": 3710,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12675977.46,
+              "py": 4017295.85,
+              "uid": "c273fd2886eb9a08c356ac0a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "鹿鸣湖",
+              "lb": "鹿鸣湖",
+              "x": 1340,
+              "y": 3810,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12677659.99,
+              "py": 4014376.83,
+              "uid": "a6c7d0f1bec355ca28d7ab56"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "许昌东站",
+              "lb": "许昌东站",
+              "x": 1340,
+              "y": 3910,
+              "rx": 8,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "郑州市|郑许线",
+              "int": "2",
+              "px": 12678485.38,
+              "py": 4011957.75,
+              "uid": "63968f43e6e5d3d7b35c6ad2"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "郑许线",
+          "lb": "郑许线",
+          "slb": false,
+          "n": 26,
+          "loop": false,
+          "lbx": 1540,
+          "lby": 1270,
+          "lbr": 0,
+          "lc": "0x243F4E",
+          "uid": "d555e4bf2a72d94d260bd084",
+          "uid2": "2eea6b399e6756abf33cbaeb"
+        }
+      }
+    ],
+    "sw_xmlattr": {
+      "cid": "郑州市",
+      "n": 1,
+      "c": "郑州市",
+      "src": " ",
+      "bg": "bg_zhengzhou",
+      "icon": "",
+      "version": "27ad9f23ff12fc81c6f72f2c27f4a9fc4410ec34d9e6c1a68100ca0ce033fb17"
+    }
+  }
+}

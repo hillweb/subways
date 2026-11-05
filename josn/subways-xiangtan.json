@@ -1,0 +1,710 @@
+{
+  "result": {
+    "type": 920,
+    "error": 0
+  },
+  "subways": {
+    "l": [
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "湘潭北站",
+              "lb": "湘潭北站",
+              "x": -213,
+              "y": 972,
+              "rx": -60,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "34fcdfc5aab9d4a8744ff1c3",
+              "px": 12573657.47,
+              "py": 3224883.34
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "船形山",
+              "lb": "船形山",
+              "x": -213,
+              "y": 922,
+              "rx": -48,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "2b3ee44ad691241c51e5c56a",
+              "px": 12574339.99,
+              "py": 3226939.58
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "黄家湾",
+              "lb": "黄家湾",
+              "x": -213,
+              "y": 872,
+              "rx": -48,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "8665a090e6358aec25e0a062",
+              "px": 12574064.11,
+              "py": 3228272.77
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "双湖",
+              "lb": "双湖",
+              "x": -213,
+              "y": 822,
+              "rx": -35,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "a400f7f881b4b72ab34c4918",
+              "px": 12571937.16,
+              "py": 3232818.17
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "坪塘",
+              "lb": "坪塘",
+              "x": -213,
+              "y": 772,
+              "rx": -35,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "8ca56c37565259d128b97c5a",
+              "px": 12570220.21,
+              "py": 3234977.16
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "红桥",
+              "lb": "红桥",
+              "x": -213,
+              "y": 722,
+              "rx": -35,
+              "ry": -8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "74f5acfa12e89c3cd518b7f9",
+              "px": 12569874.18,
+              "py": 3236920.24
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "桐溪",
+              "lb": "桐溪",
+              "x": -213,
+              "y": 672,
+              "rx": 8,
+              "ry": -6.5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "81e2ee653df64c72c2f1cf6f",
+              "px": 12569736.69,
+              "py": 3238977.89
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大王山",
+              "lb": "大王山",
+              "x": -213,
+              "y": 622,
+              "rx": -48,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "e8b00b4616aab529a80dd8da",
+              "px": 12570727.71,
+              "py": 3240659.41
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "山塘",
+              "lb": "山塘",
+              "x": -213,
+              "y": 572,
+              "rx": 10,
+              "ry": -6.5,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "4c73a7c4c36def092fb90897",
+              "px": 12571713.13,
+              "py": 3241934.9
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "洋湖湿地",
+              "lb": "洋湖湿地",
+              "x": -213,
+              "y": 519,
+              "rx": -60,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "4477e41b2ab1083074026939",
+              "px": 12573145.69,
+              "py": 3243878.56
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "洋湖新城",
+              "lb": "洋湖新城",
+              "x": -213,
+              "y": 466,
+              "rx": -60,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "3c1751b126a059549cec2b62",
+              "px": 12573858.05,
+              "py": 3245662.9
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "阳光",
+              "lb": "阳光",
+              "x": -213,
+              "y": 413,
+              "rx": -35,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "a6a21f975c67a8acf33cba7b",
+              "px": 12572950.38,
+              "py": 3247293
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "中南大学",
+              "lb": "中南大学",
+              "x": -213,
+              "y": 360,
+              "rx": -60,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "4c73f521a3857476d3f49e72",
+              "px": 12573017.81,
+              "py": 3248859.42
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "阜埠河",
+              "lb": "阜埠河",
+              "x": -213,
+              "y": 307,
+              "rx": -50,
+              "ry": -8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线,长沙市|轨道交通4号线",
+              "int": "2",
+              "uid": "73a5a130f58801f9b9df8ff5",
+              "px": 12574134.9,
+              "py": 3250234.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "灵官渡(第一师范)",
+              "lb": "灵官渡(第一师范)",
+              "x": -96,
+              "y": 243,
+              "rx": 2,
+              "ry": 5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "57bc1ca5ae61645bf33cba6a",
+              "px": 12576672.39,
+              "py": 3251941.38
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "侯家塘",
+              "lb": "侯家塘",
+              "x": 21,
+              "y": 179,
+              "rx": 5,
+              "ry": 7,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线,长沙市|轨道交通1号线",
+              "int": "2",
+              "uid": "0024c01a04d7db502811d1e9",
+              "px": 12577993.38,
+              "py": 3251260.56
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东塘",
+              "lb": "东塘",
+              "x": 146,
+              "y": 179,
+              "rx": -15,
+              "ry": 7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "badcb4b595912a7a744ff10e",
+              "px": 12579197.55,
+              "py": 3250748.95
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "桂花公园",
+              "lb": "桂花公园",
+              "x": 271,
+              "y": 179,
+              "rx": -25,
+              "ry": 7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "561fce8d8f0ea58d843304d0",
+              "px": 12580120.69,
+              "py": 3250869.99
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 333,
+              "y": 179,
+              "st": false,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "",
+              "int": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "阿弥岭",
+              "lb": "阿弥岭",
+              "x": 333,
+              "y": 120,
+              "rx": -50,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "7d8dee3c7b76b9f2a0acc424",
+              "px": 12580919.04,
+              "py": 3251393.4
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "朝阳村",
+              "lb": "朝阳村",
+              "x": 333,
+              "y": 60,
+              "rx": -50,
+              "ry": -18,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "fe9688e9fc77bbb5892fb5ad",
+              "px": 12581129.57,
+              "py": 3252862.19
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "长沙火车站",
+              "lb": "长沙火车站",
+              "x": 333,
+              "y": 0,
+              "rx": -73,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线,长沙市|轨道交通2号线",
+              "int": "2",
+              "uid": "5587eca02ba2cc47f82d613a",
+              "px": 12581186.91,
+              "py": 3253894.55
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "烈士公园东",
+              "lb": "烈士公园东",
+              "x": 333,
+              "y": -50,
+              "rx": -73,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "0b7d4d119f084e71ab059d3e",
+              "px": 12580932.23,
+              "py": 3255625.02
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "丝茅冲",
+              "lb": "丝茅冲",
+              "x": 333,
+              "y": -100,
+              "rx": -50,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "4f84b9cbb45adbf66fa3cc29",
+              "px": 12580746.28,
+              "py": 3257572.68
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "四方坪·双拥",
+              "lb": "四方坪·双拥",
+              "x": 333,
+              "y": -150,
+              "rx": -78,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "16c098797b9fcdff89b98840",
+              "px": 12580723.56,
+              "py": 3258422.59
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "雅雀湖",
+              "lb": "雅雀湖",
+              "x": 333,
+              "y": -199,
+              "rx": -50,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "372b7fe4912aaf218433049e",
+              "px": 12581503.98,
+              "py": 3259292.64
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "长沙大学",
+              "lb": "长沙大学",
+              "x": 408,
+              "y": -199,
+              "rx": -30,
+              "ry": 7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "f22f1a67431a377f71210b5d",
+              "px": 12583424.2,
+              "py": 3259772.86
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "月湖公园北(湖南广电)",
+              "lb": "月湖公园北(湖南广电)",
+              "x": 489,
+              "y": -199,
+              "rx": 8,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "长沙市|轨道交通3号线,长沙市|轨道交通5号线",
+              "int": "2",
+              "uid": "7402c099a5345bfbc5effbdb",
+              "px": 12584488.85,
+              "py": 3259930.72
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "湘龙",
+              "lb": "湘龙",
+              "x": 557,
+              "y": -199,
+              "rx": -15,
+              "ry": 7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "bf2debf3295dce665cd4fe76",
+              "px": 12586790.48,
+              "py": 3260347.92
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "星沙",
+              "lb": "星沙",
+              "x": 632,
+              "y": -199,
+              "rx": -15,
+              "ry": 7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "534e81c0be42f7292811d124",
+              "px": 12589699.99,
+              "py": 3260298.6
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "松雅湖(南)",
+              "lb": "松雅湖(南)",
+              "x": 707,
+              "y": -199,
+              "rx": -30,
+              "ry": 7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "3ed4f9c1be141b6dd81318c2",
+              "px": 12591560,
+              "py": 3260264.71
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "星沙文体中心",
+              "lb": "星沙文体中心",
+              "x": 782,
+              "y": -199,
+              "rx": -40,
+              "ry": 7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "c408dccccfc52b2221f017fc",
+              "px": 12592380.43,
+              "py": 3260263.32
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "螺丝塘",
+              "lb": "螺丝塘",
+              "x": 857,
+              "y": -199,
+              "rx": -20,
+              "ry": 7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "35e000999f9f8dc22fb96d02",
+              "px": 12593657.39,
+              "py": 3260287.97
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "广生",
+              "lb": "广生",
+              "x": 932,
+              "y": -199,
+              "rx": -15,
+              "ry": 7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "长沙市|轨道交通3号线",
+              "int": "2",
+              "uid": "1258b805fbdc25dea8f729c7",
+              "px": 12595071.43,
+              "py": 3260254.5
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "轨道交通3号线",
+          "lb": "3号线",
+          "slb": false,
+          "n": 25,
+          "loop": false,
+          "lbx": -160,
+          "lby": 466,
+          "lbr": 0,
+          "lc": "0xa0c43b",
+          "uid": "c0c7e51099a59c1b75e5b61d",
+          "uid2": "c35de0e08c25170e4c3a59ce"
+        }
+      }
+    ],
+    "sw_xmlattr": {
+      "cid": "湘潭市",
+      "n": 1,
+      "c": "湘潭",
+      "src": "",
+      "icon": "",
+      "version": "194dfe32177e557b7b33e9558e9ed4e14410ec34d9e6c1a68100ca0ce033fb17"
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "result": {
+    "type": 920,
+    "error": 0
+  },
+  "subways": {
+    "l": [
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "福田",
+              "lb": "福田",
+              "x": 0,
+              "y": 35,
+              "rx": -10,
+              "ry": 13,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "资阳市|地铁S3线(资阳线)",
+              "int": "2",
+              "uid": "3552672540cd3ef48505bf0b",
+              "px": 11621174.96,
+              "py": 3518445.24
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "资阳临空",
+              "lb": "资阳临空",
+              "x": 200,
+              "y": 165,
+              "rx": -65,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "资阳市|地铁S3线(资阳线)",
+              "int": "2",
+              "uid": "e43a1b6612f291a5ee74f824",
+              "px": 11643262.81,
+              "py": 3504794.41
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "幸福大道",
+              "lb": "幸福大道",
+              "x": 300,
+              "y": 230,
+              "rx": -15,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "资阳市|地铁S3线(资阳线)",
+              "int": "2",
+              "uid": "edf640191a997c8aa1a934e0",
+              "px": 11647280.52,
+              "py": 3499009.38
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "苌弘广场",
+              "lb": "苌弘广场",
+              "x": 410,
+              "y": 230,
+              "rx": -30,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "资阳市|地铁S3线(资阳线)",
+              "int": "2",
+              "uid": "1feb7b105599c6443586f482",
+              "px": 11650525.06,
+              "py": 3496761.93
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "宝台",
+              "lb": "宝台",
+              "x": 520,
+              "y": 230,
+              "rx": -15,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "资阳市|地铁S3线(资阳线)",
+              "int": "2",
+              "uid": "45a1d9d3d500a87ee81e97ea",
+              "px": 11653134.31,
+              "py": 3497383.82
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "资阳北站",
+              "lb": "资阳北站",
+              "x": 630,
+              "y": 230,
+              "rx": -30,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "资阳市|地铁S3线(资阳线)",
+              "int": "2",
+              "uid": "24de64bdd1a8d8051e580027",
+              "px": 11653944.46,
+              "py": 3498965.81
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "地铁S3线(资阳线)",
+          "lb": "地铁S3线(资阳线)",
+          "slb": false,
+          "loop": false,
+          "lbx": 350,
+          "lby": 80,
+          "lbr": 0,
+          "lc": "0x979797",
+          "uid": "ce6f1f2f34c49b141911d57f",
+          "uid2": "cf80982f073d2b0330169bdb"
+        }
+      }
+    ],
+    "sw_xmlattr": {
+      "cid": "资阳市",
+      "n": 1,
+      "c": "资阳",
+      "version": "90bbee11e8d121fa33c5f57bbac49dee4410ec34d9e6c1a68100ca0ce033fb17"
+    }
+  }
+}

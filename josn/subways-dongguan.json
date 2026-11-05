@@ -1,0 +1,1610 @@
+{
+  "result": {
+    "type": 920,
+    "error": 0
+  },
+  "subways": {
+    "l": [
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "东莞西站",
+              "lb": "东莞西站",
+              "x": 1000,
+              "y": 450,
+              "rx": -80,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "广州市|广惠城际线",
+              "int": "2",
+              "uid": "f37b8dc7bb8f64a171455b3f",
+              "px": 12649794.97,
+              "py": 2617089.75
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "厚德",
+              "lb": "厚德",
+              "x": 1050,
+              "y": 450,
+              "rx": -20,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "fc3c2e58258ca0645b109354",
+              "px": 12653570.74,
+              "py": 2617045.72
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "昌平",
+              "lb": "昌平",
+              "x": 1100,
+              "y": 450,
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "802352a64ff8aed8fa0cad9d",
+              "px": 12656529.86,
+              "py": 2617902.98
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "人民医院",
+              "lb": "人民医院",
+              "x": 1150,
+              "y": 450,
+              "rx": -20,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "58e0945d43d32047a21de928",
+              "px": 12657771.07,
+              "py": 2619031.27
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1200,
+              "y": 450,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1210,
+              "y": 453,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "曲海",
+              "lb": "曲海",
+              "x": 1220,
+              "y": 460,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "47eefa20868b6a3b2b06ced1",
+              "px": 12659819.33,
+              "py": 2619713.88
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "坝头",
+              "lb": "坝头",
+              "x": 1260,
+              "y": 500,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "e54d93f8469e370243afe63f",
+              "px": 12660816.23,
+              "py": 2618602.57
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "元美",
+              "lb": "元美",
+              "x": 1300,
+              "y": 540,
+              "rx": -40,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "179e7ababb0ba28e343a7123",
+              "px": 12662404.79,
+              "py": 2617951.22
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "中心广场",
+              "lb": "中心广场",
+              "x": 1340,
+              "y": 580,
+              "rx": -70,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "201b5dff027c639bc2f1cf5a",
+              "px": 12663774.29,
+              "py": 2617657.51
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市民中心",
+              "lb": "市民中心",
+              "x": 1380,
+              "y": 620,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12664535.66,
+              "py": 2617365.06,
+              "uid": "284ff72a7187b4195b3ac892"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "立新",
+              "lb": "立新",
+              "x": 1400,
+              "y": 640,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "03ffcb2ca72fe0ffe856faa6",
+              "px": 12665955.08,
+              "py": 2616397.62
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东城南站",
+              "lb": "东城南站",
+              "x": 1440,
+              "y": 680,
+              "rx": 10,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "广州市|广惠城际线",
+              "int": "2",
+              "uid": "4a27de3dbd54381f2fb908df",
+              "px": 12666280.31,
+              "py": 2614351.71
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "同沙公园",
+              "lb": "同沙公园",
+              "x": 1480,
+              "y": 720,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "c34a2aa5e79a79ff30169ba6",
+              "px": 12666229.36,
+              "py": 2612423.88
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "牛山",
+              "lb": "牛山",
+              "x": 1500,
+              "y": 740,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "9e032fe3ff6d3a385fbe863d",
+              "px": 12666349.64,
+              "py": 2611116.73
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "连平",
+              "lb": "连平",
+              "x": 1540,
+              "y": 780,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "c597a9f7f50f112015948e98",
+              "px": 12669690.03,
+              "py": 2607337.61
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大岭山",
+              "lb": "大岭山",
+              "x": 1580,
+              "y": 820,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "8bc4a1573724a6e9220220a7",
+              "px": 12672694.13,
+              "py": 2605506.05
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "金桔",
+              "lb": "金桔",
+              "x": 1620,
+              "y": 860,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "12a806951afcf08711882406",
+              "px": 12674807.51,
+              "py": 2605219.65
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "广东医大",
+              "lb": "广东医大",
+              "x": 1660,
+              "y": 900,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "88a408e3ae06b3e19ff779ef",
+              "px": 12676492.59,
+              "py": 2606443.35
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "松山湖",
+              "lb": "松山湖",
+              "x": 1700,
+              "y": 940,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "7c57352869535826cd04efce",
+              "px": 12677243.93,
+              "py": 2607392.01
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "松佛",
+              "lb": "松佛",
+              "x": 1740,
+              "y": 980,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "3ca6e54b1fb726d017948eb5",
+              "px": 12680359.95,
+              "py": 2607878.22
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大朗",
+              "lb": "大朗",
+              "x": 1780,
+              "y": 1020,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "dafe699956149a4c79b55cd7",
+              "px": 12683096.51,
+              "py": 2607243.6
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "荔香公园",
+              "lb": "荔香公园",
+              "x": 1820,
+              "y": 1060,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "4754db0fe44fc2b703ff2dee",
+              "px": 12685889.6,
+              "py": 2605966.2
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "凤山",
+              "lb": "凤山",
+              "x": 1860,
+              "y": 1100,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "cdb7416593002ed8420245ea",
+              "px": 12688064.64,
+              "py": 2604952.3
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "黄江",
+              "lb": "黄江",
+              "x": 1900,
+              "y": 1140,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "31915af0711b8d4d081cc734",
+              "px": 12691102.09,
+              "py": 2603164.34
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "黄牛埔",
+              "lb": "黄牛埔",
+              "x": 1940,
+              "y": 1180,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "9002629afe5855e7a0acc4ff",
+              "px": 12690914.11,
+              "py": 2600651.93
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "梅塘",
+              "lb": "梅塘",
+              "x": 1980,
+              "y": 1220,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|轨道交通1号线",
+              "int": "2",
+              "uid": "1fbc82905513dd1a8bfc0643",
+              "px": 12689618.47,
+              "py": 2597088
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "轨道交通1号线",
+          "lb": "1号线",
+          "slb": false,
+          "n": 15,
+          "loop": false,
+          "lbx": 1940,
+          "lby": 1300,
+          "lbr": 0,
+          "lc": "0x4490CB",
+          "uid": "6135967554c25667d4851f32",
+          "uid2": "d0a560cb6d6146e8cafa5f3b"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "东莞火车站",
+              "lb": "东莞火车站",
+              "x": 1720,
+              "y": 470,
+              "rx": -32,
+              "ry": 18,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12675739.55,
+              "py": 2626567.73,
+              "uid": "61ed3ec118e8597bf60e7777"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "茶山",
+              "lb": "茶山",
+              "x": 1670,
+              "y": 470,
+              "rx": -15,
+              "ry": -25,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12674100.31,
+              "py": 2625491.91,
+              "uid": "ffd9f85eb4104a0ff90cad02"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "榴花公园",
+              "lb": "榴花公园",
+              "x": 1620,
+              "y": 470,
+              "rx": -25,
+              "ry": -25,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12670602.86,
+              "py": 2625502.61,
+              "uid": "97aa755f616dafdf9e9d685a"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "下桥",
+              "lb": "下桥",
+              "x": 1570,
+              "y": 470,
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12667719.16,
+              "py": 2623465.53,
+              "uid": "0cab2ff61e6962cc3586f485"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1540,
+              "y": 470,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1530,
+              "y": 473,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1520,
+              "y": 480,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "天宝",
+              "lb": "天宝",
+              "x": 1500,
+              "y": 500,
+              "rx": 10,
+              "ry": -6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12666644.53,
+              "py": 2621598.78,
+              "uid": "4ee9b78e84b34ac27ec87639"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东城",
+              "lb": "东城",
+              "x": 1460,
+              "y": 540,
+              "rx": 10,
+              "ry": -6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12666374.06,
+              "py": 2619829.94,
+              "uid": "25ca8e54e572d9f36f3e1b7e"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "旗峰公园",
+              "lb": "旗峰公园",
+              "x": 1420,
+              "y": 580,
+              "rx": 10,
+              "ry": -6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12665426.52,
+              "py": 2618335.73,
+              "uid": "2341873a01c1045e21026209"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "市民中心",
+              "lb": "市民中心",
+              "x": 1380,
+              "y": 620,
+              "rx": 10,
+              "ry": -10,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12664490.07,
+              "py": 2617224.39,
+              "uid": "328dd2a54690a2bb3f9a5eb4"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西平",
+              "lb": "西平",
+              "x": 1320,
+              "y": 680,
+              "rx": 10,
+              "ry": 5,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线,广州市|广惠城际线",
+              "int": "3",
+              "px": 12663098.93,
+              "py": 2615193.92,
+              "uid": "3ba8452c412e88f7a1a934ec"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "蛤地",
+              "lb": "蛤地",
+              "x": 1300,
+              "y": 700,
+              "rx": 10,
+              "ry": -6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12661145.58,
+              "py": 2613243.69,
+              "uid": "8b4f370c14b464262db17e2d"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "陈屋",
+              "lb": "陈屋",
+              "x": 1260,
+              "y": 740,
+              "rx": 10,
+              "ry": -6,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12656816.07,
+              "py": 2610792.63,
+              "uid": "2c686f4ee97a04dc9de3213f"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "寮厦",
+              "lb": "寮厦",
+              "x": 1220,
+              "y": 780,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12654944.9,
+              "py": 2608803.61,
+              "uid": "1d0d044eb60bf84858109322"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "珊美",
+              "lb": "珊美",
+              "x": 1180,
+              "y": 820,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12653936.88,
+              "py": 2607098.81,
+              "uid": "7dcbb9f8f0fad8642a02e124"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1173,
+              "y": 830,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1170,
+              "y": 840,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "展览中心",
+              "lb": "展览中心",
+              "x": 1170,
+              "y": 850,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12653609.91,
+              "py": 2604141.81,
+              "uid": "774bfdfbb3b61f750aa8d4be"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "虎门火车站",
+              "lb": "虎门火车站",
+              "x": 1170,
+              "y": 890,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "东莞市|轨道交通2号线",
+              "int": "3",
+              "px": 12654734.98,
+              "py": 2598989.75,
+              "uid": "efbf950a655446bc2806ceae"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "轨道交通2号线",
+          "lb": "2号线",
+          "slb": false,
+          "n": 15,
+          "loop": false,
+          "lbx": 1720,
+          "lby": 570,
+          "lbr": 0,
+          "lc": "0xEC6062",
+          "uid": "d1d51155979a20420f0e6bf5",
+          "uid2": "4b21b8b2099c9824fbf0cb7a"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "广州莲花山站",
+              "lb": "广州莲花山站",
+              "x": 910,
+              "y": 340,
+              "rx": -80,
+              "ry": -8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广惠城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "麻涌站",
+              "lb": "麻涌站",
+              "x": 950,
+              "y": 390,
+              "rx": -50,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广惠城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东莞西站",
+              "lb": "东莞西站",
+              "x": 1000,
+              "y": 450,
+              "rx": -80,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广惠城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "道滘站",
+              "lb": "道滘站",
+              "x": 1125,
+              "y": 630,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广惠城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1160,
+              "y": 670,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1170,
+              "y": 677,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1180,
+              "y": 680,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "西平西站",
+              "lb": "西平西站",
+              "x": 1300,
+              "y": 680,
+              "rx": -40,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广惠城际线,东莞市|轨道交通2号线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东城南站",
+              "lb": "东城南站",
+              "x": 1440,
+              "y": 680,
+              "rx": 10,
+              "ry": -20,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广惠城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "寮步站",
+              "lb": "寮步站",
+              "x": 1630,
+              "y": 680,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广惠城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "松山湖北站",
+              "lb": "松山湖北站",
+              "x": 1670,
+              "y": 720,
+              "rx": 12,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广惠城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "大朗镇站",
+              "lb": "大朗镇站",
+              "x": 1710,
+              "y": 760,
+              "rx": 12,
+              "ry": -7,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广惠城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1730,
+              "y": 780,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1740,
+              "y": 787,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "常平南站",
+              "lb": "常平南站",
+              "x": 1750,
+              "y": 790,
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广惠城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "常平东站",
+              "lb": "常平东站",
+              "x": 1900,
+              "y": 790,
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广惠城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "樟木头东站",
+              "lb": "樟木头东站",
+              "x": 1960,
+              "y": 790,
+              "rx": -20,
+              "ry": -20,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广惠城际线",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "银瓶站",
+              "lb": "银瓶站",
+              "x": 2020,
+              "y": 790,
+              "rx": -20,
+              "ry": 10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|广惠城际线",
+              "int": "2"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "广惠城际线",
+          "lb": "广惠城际线",
+          "slb": false,
+          "n": 39,
+          "loop": false,
+          "lbx": 910,
+          "lby": 240,
+          "lbr": 0,
+          "lc": "0x5C82BD"
+        }
+      },
+      {
+        "p": [
+          {
+            "p_xmlattr": {
+              "sid": "新塘南",
+              "lb": "新塘南",
+              "x": 1000,
+              "y": 300,
+              "rx": 10,
+              "ry": -5,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2",
+              "uid": "2a99576fa754c482250bd05d"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "中堂",
+              "lb": "中堂",
+              "x": 1000,
+              "y": 340,
+              "rx": 10,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2",
+              "uid": "a02eaeba41ffe069c26c148f"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "望牛墩",
+              "lb": "望牛墩",
+              "x": 1000,
+              "y": 380,
+              "rx": 10,
+              "ry": -5,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2",
+              "uid": "38c2bc485d1a8aefca1b9551"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东莞西站",
+              "lb": "东莞西站",
+              "x": 1000,
+              "y": 450,
+              "rx": -80,
+              "ry": 8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2",
+              "uid": "f28f91d8c6877d0e0ab93a76"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "洪梅",
+              "lb": "洪梅",
+              "x": 1000,
+              "y": 570,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2",
+              "uid": "399e1e6421df6807fbf0cbc5"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "东莞港",
+              "lb": "东莞港",
+              "x": 1000,
+              "y": 700,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2",
+              "uid": "bfdc3f24896778fe58f6be38"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1000,
+              "y": 710,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1003,
+              "y": 720,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": true,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "",
+              "lb": "",
+              "x": 1010,
+              "y": 730,
+              "rx": 0,
+              "ry": 0,
+              "st": false,
+              "ex": false,
+              "iu": false,
+              "rc": false,
+              "slb": false,
+              "ln": ""
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "厚街",
+              "lb": "厚街",
+              "x": 1120,
+              "y": 840,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2",
+              "uid": "805b1ad54a5040ff1b11d5a7"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "虎门火车站",
+              "lb": "虎门火车站",
+              "x": 1170,
+              "y": 890,
+              "rx": 10,
+              "ry": -8,
+              "st": true,
+              "ex": true,
+              "iu": true,
+              "rc": false,
+              "slb": false,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2",
+              "uid": "cae8d416c6f0fc93cae33c60"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "虎门东",
+              "lb": "虎门东",
+              "x": 1290,
+              "y": 1010,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2",
+              "uid": "b3f1cd7a9cda3611f50e77e8"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "长安西",
+              "lb": "长安西",
+              "x": 1330,
+              "y": 1050,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2",
+              "uid": "053c8b2258baefd80c0a70fd"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "长安站",
+              "lb": "长安站",
+              "x": 1370,
+              "y": 1090,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "沙井西",
+              "lb": "沙井西",
+              "x": 1410,
+              "y": 1130,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2",
+              "uid": "d5955e2bc43058b7882fb532"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "福海西",
+              "lb": "福海西",
+              "x": 1450,
+              "y": 1170,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2",
+              "uid": "37f66f5b0de647c9e8f853bc"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "深圳机场北",
+              "lb": "深圳机场北",
+              "x": 1490,
+              "y": 1210,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2",
+              "uid": "a2ba8229af3f54a2e812e4ad"
+            }
+          },
+          {
+            "p_xmlattr": {
+              "sid": "深圳机场(3号航站楼)",
+              "lb": "深圳机场(3号航站楼)",
+              "x": 1530,
+              "y": 1250,
+              "rx": 5,
+              "ry": -10,
+              "st": true,
+              "ex": false,
+              "iu": true,
+              "rc": false,
+              "slb": true,
+              "ln": "广州市|城际(新塘南-深圳机场)",
+              "int": "2"
+            }
+          }
+        ],
+        "l_xmlattr": {
+          "lid": "城际(新塘南-深圳机场)",
+          "lb": "城际(新塘南-深圳机场)",
+          "slb": false,
+          "n": 39,
+          "loop": false,
+          "lbx": 1350,
+          "lby": 990,
+          "lbr": 0,
+          "lc": "0x3058A6"
+        }
+      }
+    ],
+    "sw_xmlattr": {
+      "cid": "东莞市",
+      "n": 1,
+      "c": "东莞",
+      "icon": "",
+      "version": "38f5f41bf491404f83fe1f818e050f8f4410ec34d9e6c1a68100ca0ce033fb17"
+    }
+  }
+}
