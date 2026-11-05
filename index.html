@@ -136,7 +136,28 @@
                 console.log(selectedCity);
                 loadCity(selectedCity);
             });
-            loadCity('zhengzhou');
+
+            //获取尾部参数city
+            const urlParams = new URLSearchParams(window.location.search);
+            const city = urlParams.get('city');
+            if (city) {
+                loadCity(city);
+                //列表框选中对应城市
+                citySelect.value = city;
+            } else {
+                loadCity('zhengzhou');
+            }
+            setTimeout(() => {
+                const line = urlParams.get('line');
+                if (line) {
+                    let _line = `line-${line}`;
+                    console.log(_line);
+                    highlightAndCenterLine(_line);
+                }
+            }, 50);
+
+
+            // loadCity(city);
 
             /**
              * 计算多条 path 的联合边界框
@@ -224,6 +245,10 @@
              * 高亮指定线路并居中显示
              */
             function highlightAndCenterLine(lineName) {
+                const urlParams = new URLSearchParams(window.location.search);
+                const city = urlParams.get('city');
+                console.log(city);
+                history.pushState(null, title, `?city=${city}&line=${lineName.slice(5)}`);
                 const svgElement = document.querySelector('#container svg');
                 if (!svgElement) return;
 
@@ -253,7 +278,10 @@
             }
 
             function loadCity(cityName) {
-                document.title = cityNames[cityName] + '-地铁路线图';
+                // window.location.href = `?city=${cityName}`;
+                title = cityNames[cityName] + '-地铁路线图';
+                document.title = title;
+                history.replaceState(null, title, `?city=${cityName}`);
                 let filename = `./svg/subways-${cityName}.svg`;
                 // 销毁旧实例
                 if (panZoomInstance) {
